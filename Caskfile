@@ -1,0 +1,140 @@
+# Cask applications
+# Please copy these lines to your Brewfile and use with `brew-file install`.
+
+# Main tap repository for caskroom/cask
+tap caskroom/cask
+
+# Apps installed by Cask in caskroom/cask
+cask install alfred #~/Applications/Alfred 2.app
+cask install appcleaner #~/Applications/AppCleaner.app
+cask install cakebrew #~/Applications/Cakebrew.app
+cask install chromium #~/Applications/Chromium.app
+cask install dropbox #~/Applications/Dropbox.app
+cask install iterm2 #~/Applications/iTerm.app
+cask install keepingyouawake #~/Applications/KeepingYouAwake.app
+cask install kindle #~/Applications/Kindle.app
+cask install nethackcocoa #~/Applications/NetHackCocoa.app
+cask install prezi #~/Applications/Prezi.app
+cask install rstudio #~/Applications/RStudio.app
+cask install skype #~/Applications/Skype.app
+cask install sourcetree #~/Applications/SourceTree.app
+cask install texstudio #~/Applications/texstudio.app
+cask install vlc #~/Applications/VLC.app
+cask install vmware-fusion #/Applications/VMware Fusion.app
+#cask install vmware-fusion #~/Applications/VMware Fusion.app
+
+# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.)
+cask install mactex
+cask install microsoft-office
+cask install octave
+cask install pandoc
+
+# Apps installed directly instead of by Cask in caskroom/cask
+#cask install adobe-reader #/Applications/Adobe Acrobat Reader DC.app
+#cask install audacity #/Applications/Audacity
+#cask install avast #/Applications/Avast.app
+#cask install fluid #/Applications/Fluid.app
+#cask install google-earth #/Applications/Google Earth.app
+#cask install grammarly #/Applications/Grammarly.app
+#cask install libreoffice #/Applications/LibreOffice.app
+#cask install r #/Applications/R.app
+#cask install sketchup #/Applications/SketchUp 2015
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+#/Applications/App Store.app
+#/Applications/AudioDesk 3.21.app
+#/Applications/Automator.app
+#/Applications/AvastSecureLine.app
+#/Applications/Calculator.app
+#/Applications/Calendar.app
+#/Applications/Chess.app
+#/Applications/Classeur.app
+#/Applications/Clip Organizer.app
+#/Applications/Contacts.app
+#/Applications/CueMix FX.app
+#/Applications/Dashboard.app
+#/Applications/Dictionary.app
+#/Applications/DVD Player.app
+#/Applications/e-Taxソフト.app
+#/Applications/eps2emf.app
+#/Applications/FaceTime.app
+#/Applications/Font Book.app
+#/Applications/Game Center.app
+#/Applications/GarageBand.app
+#/Applications/GoogleJapaneseInput.localized
+#/Applications/iBooks.app
+#/Applications/iLok License Manager.app
+#/Applications/Image Capture.app
+#/Applications/IME Open Extended Dictionary Module.app
+#/Applications/IME search module.app
+#/Applications/iMovie 
+#/Applications/iMovie.app
+#/Applications/iPhoto.app
+#/Applications/iTunes.app
+#/Applications/Launchpad.app
+#/Applications/Mail.app
+#/Applications/Maps.app
+#/Applications/MATLAB
+#/Applications/MATLAB_R2012b.app
+#/Applications/Messages.app
+#/Applications/Microsoft Excel.app
+#/Applications/Microsoft OneNote.app
+#/Applications/Microsoft Outlook.app
+#/Applications/Microsoft PowerPoint.app
+#/Applications/Microsoft Word.app
+#/Applications/Mission Control.app
+#/Applications/MOTU Audio Setup.app
+#/Applications/MOTU PCI Audio Setup.app
+#/Applications/MOTU PCI SMPTE Setup.app
+#/Applications/MOTU SMPTE Setup.app
+#/Applications/Notes.app
+#/Applications/Octave-cli.app
+#/Applications/Octave-gui.app
+#/Applications/Ohm Studio Bug Reporter.app
+#/Applications/OhmStudio.app
+#/Applications/OneDrive.app
+#/Applications/PDF-XChange Viewer.app
+#/Applications/Photo Booth.app
+#/Applications/Photos.app
+#/Applications/Preview.app
+#/Applications/QuickTime Player.app
+#/Applications/Reminders.app
+#/Applications/Safari.app
+#/Applications/Skype - Windows 7 x64.app
+#/Applications/Stickies.app
+#/Applications/System Preferences.app
+#/Applications/TeX
+#/Applications/TeX2img.app
+#/Applications/TextEdit.app
+#/Applications/Time Machine.app
+#/Applications/TinkerTool.app
+#/Applications/ToyViewer.app
+#/Applications/TrueCrypt.app
+#/Applications/UVIWorkstation.app
+#/Applications/Xcode.app
+#/Applications/XCVault Module.app
+#/Applications/XML Editor.app
+#/Applications/とんこり.app
+#/Applications/レジストリ エディター.app
+#/Users/kotaro/Applications/Chrome Apps.localized
+#/Users/kotaro/Applications/Chromium Apps.localized
+#/Users/kotaro/Applications/Ghostscript.app
+#/Users/kotaro/Applications/MATLAB_R2012b.app
+#/Applications/Utilities/Activity Monitor.app
+#/Applications/Utilities/AirPort Utility.app
+#/Applications/Utilities/Audio MIDI Setup.app
+#/Applications/Utilities/Bluetooth File Exchange.app
+#/Applications/Utilities/Boot Camp Assistant.app
+#/Applications/Utilities/ColorSync Utility.app
+#/Applications/Utilities/Console.app
+#/Applications/Utilities/Digital Color Meter.app
+#/Applications/Utilities/Disk Utility.app
+#/Applications/Utilities/Grab.app
+#/Applications/Utilities/Grapher.app
+#/Applications/Utilities/Keychain Access.app
+#/Applications/Utilities/Migration Assistant.app
+#/Applications/Utilities/Script Editor.app
+#/Applications/Utilities/System Information.app
+#/Applications/Utilities/Terminal.app
+#/Applications/Utilities/VoiceOver Utility.app
