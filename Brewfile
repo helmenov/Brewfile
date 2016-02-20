@@ -48,6 +48,6 @@ brew gdbm
 brew git
 brew openssl
 brew pcre
+brew w3m
 brew wget
 brew zsh
-brew w3m
