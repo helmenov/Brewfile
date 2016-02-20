@@ -50,3 +50,4 @@ brew openssl
 brew pcre
 brew wget
 brew zsh
+brew w3m
