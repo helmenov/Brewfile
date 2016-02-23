@@ -54,3 +54,6 @@ brew pcre
 brew w3m
 brew wget
 brew zsh
+
+# App Store applications
+appstore 408981434 iMovie
