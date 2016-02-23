@@ -15,7 +15,9 @@ cask cakebrew
 cask chromium
 cask dropbox
 cask fluid
+cask flux
 cask google-earth
+cask google-japanese-ime
 cask grammarly
 cask iterm2
 cask keepingyouawake
@@ -46,6 +48,7 @@ brew curl
 brew emacs
 brew gdbm
 brew git
+brew mackup
 brew openssl
 brew pcre
 brew w3m
