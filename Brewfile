@@ -36,6 +36,9 @@ cask texstudio
 cask vlc
 cask vmware-fusion
 
+tap caskroom/versions
+cask adobe-reader-ja
+
 tap homebrew/binary
 
 tap homebrew/versions
