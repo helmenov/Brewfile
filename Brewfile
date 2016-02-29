@@ -12,7 +12,6 @@ cask appcleaner
 cask audacity
 cask avast
 cask cakebrew
-cask chromium
 cask dropbox
 cask fluid
 cask flux
@@ -38,6 +37,7 @@ cask vmware-fusion
 
 tap caskroom/versions
 cask adobe-reader-ja
+cask google-chrome-canary
 
 tap homebrew/binary
 
