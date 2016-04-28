@@ -24,7 +24,6 @@ cask kindle
 cask mactex
 cask microsoft-office
 cask nethackcocoa
-cask octave
 cask pandoc
 cask prezi
 cask r
@@ -41,12 +40,7 @@ cask google-chrome-canary
 
 tap homebrew/binary
 
-tap homebrew/versions
-
-tap rcmdnk/brewall
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew curl
 brew emacs
 brew gdbm
@@ -57,6 +51,17 @@ brew pcre
 brew w3m
 brew wget
 brew zsh
+
+tap homebrew/versions
+
+tap rcmdnk/brewall
+brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
+#cask octave (!)
 
 # App Store applications
 appstore 408981434 iMovie
