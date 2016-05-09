@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask adobe-reader
 cask alfred
 cask appcleaner
@@ -60,7 +59,6 @@ brew brew-file
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
-#cask Uninstalling brew-cask... (4 files, 7.9K)
 #cask octave (!)
 
 # App Store applications
