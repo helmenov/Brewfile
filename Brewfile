@@ -10,7 +10,6 @@ cask alfred
 cask appcleaner
 cask audacity
 cask cakebrew
-cask chromium
 cask dropbox
 cask fluid
 cask flux
