@@ -9,8 +9,8 @@ cask adobe-reader
 cask alfred
 cask appcleaner
 cask audacity
-cask avast
 cask cakebrew
+cask chromium
 cask dropbox
 cask fluid
 cask flux
@@ -32,17 +32,19 @@ cask sourcetree
 cask texstudio
 cask vlc
 cask vmware-fusion
+cask xoctave
 
 tap caskroom/versions
-cask adobe-reader-ja
 cask google-chrome-canary
 
 tap homebrew/binary
 
 tap homebrew/core
+brew axel
 brew curl
 brew emacs
 brew gdbm
+brew gettext
 brew git
 brew mackup
 brew openssl
@@ -55,22 +57,6 @@ tap homebrew/versions
 
 tap rcmdnk/brewall
 brew brew-file
-
-# Cask applications
-cask   --caskroom=/opt/homebrew-cask/Caskroom
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
-#cask 
-#cask Please migrate your Casks to the new location and delete /opt/homebrew-cask/Caskroom,
-#cask or if you would like to keep your Caskroom at /opt/homebrew-cask/Caskroom, add the
-#cask following to your HOMEBREW_CASK_OPTS:
-#cask 
-#cask 
-#cask For more details on each of those options, see https://github.com/caskroom/homebrew-cask/issues/21913.
-#cask octave (!)
 
 # App Store applications
 appstore 408981434 iMovie
