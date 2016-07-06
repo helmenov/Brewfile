@@ -32,7 +32,6 @@ cask sourcetree
 cask texstudio
 cask vlc
 cask vmware-fusion
-cask xoctave
 
 tap caskroom/versions
 cask google-chrome-canary
