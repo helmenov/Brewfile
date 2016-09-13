@@ -22,9 +22,7 @@ cask kindle
 cask mactex
 cask microsoft-office
 cask nethackcocoa
-cask pandoc
 cask prezi
-cask r
 cask rstudio
 cask skype
 cask sourcetree
@@ -39,22 +37,48 @@ tap homebrew/binary
 
 tap homebrew/core
 brew axel
+brew cairo
 brew curl
 brew emacs
+brew fontconfig
+brew freetype
+brew gcc
 brew gdbm
 brew gettext
 brew git
+brew glib
+brew gmp
+brew isl
+brew jpeg
+brew libffi
+brew libmpc
+brew libpng
+brew libtiff
 brew mackup
+brew mpfr
 brew openssl
+brew pandoc
 brew pcre
+brew pixman
+brew readline
 brew w3m
 brew wget
+brew xz
 brew zsh
+
+tap homebrew/science
+brew r
 
 tap homebrew/versions
 
 tap rcmdnk/brewall
 brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask pandoc (!)
+#cask r (!)
 
 # App Store applications
 appstore 408981434 iMovie
