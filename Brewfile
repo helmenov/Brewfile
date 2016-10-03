@@ -44,22 +44,30 @@ brew fontconfig
 brew freetype
 brew gcc
 brew gdbm
+brew gdk-pixbuf
 brew gettext
 brew git
 brew glib
 brew gmp
+brew gobject-introspection
+brew harfbuzz
+brew icu4c
 brew isl
 brew jpeg
+brew libcroco
 brew libffi
 brew libmpc
 brew libpng
+brew librsvg
 brew libtiff
 brew mackup
 brew mpfr
 brew openssl
 brew pandoc
+brew pango
 brew pcre
 brew pixman
+brew pkg-config
 brew readline
 brew w3m
 brew wget
@@ -81,4 +89,5 @@ brew brew-file
 #cask r (!)
 
 # App Store applications
-appstore 408981434 iMovie
+appstore 823766827 OneDrive (17.3.6517)
+appstore 408981434 iMovie (10.1.2)
