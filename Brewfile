@@ -29,6 +29,7 @@ cask sourcetree
 cask texstudio
 cask vlc
 cask vmware-fusion
+cask xquartz
 
 tap caskroom/versions
 cask google-chrome-canary
@@ -43,12 +44,14 @@ brew emacs
 brew fontconfig
 brew freetype
 brew gcc
+brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew git
 brew glib
 brew gmp
+brew gnuplot
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
@@ -60,6 +63,7 @@ brew libmpc
 brew libpng
 brew librsvg
 brew libtiff
+brew lua
 brew mackup
 brew mpfr
 brew openssl
@@ -69,7 +73,9 @@ brew pcre
 brew pixman
 brew pkg-config
 brew readline
+brew shared-mime-info
 brew w3m
+brew webp
 brew wget
 brew xz
 brew zsh
@@ -78,6 +84,8 @@ tap homebrew/science
 brew r
 
 tap homebrew/versions
+
+tap homebrew/x11
 
 tap rcmdnk/brewall
 brew brew-file
@@ -89,5 +97,5 @@ brew brew-file
 #cask r (!)
 
 # App Store applications
-appstore 823766827 OneDrive (17.3.6517)
+appstore 823766827 OneDrive (17.3.6518)
 appstore 408981434 iMovie (10.1.2)
