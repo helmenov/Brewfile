@@ -81,7 +81,6 @@ brew xz
 brew zsh
 
 tap homebrew/science
-brew r
 
 tap homebrew/versions
 
