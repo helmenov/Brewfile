@@ -67,7 +67,6 @@ brew lua
 brew mackup
 brew mpfr
 brew openssl
-brew pandoc
 brew pango
 brew pcre
 brew pixman
