@@ -20,8 +20,11 @@ cask iterm2
 cask keepingyouawake
 cask kindle
 cask mactex
+cask marp
 cask microsoft-office
+cask mosh
 cask nethackcocoa
+cask pilemd
 cask prezi
 cask rstudio
 cask skype
@@ -38,23 +41,35 @@ tap homebrew/binary
 
 tap homebrew/core
 brew axel
+brew bdw-gc
+brew bison
 brew cairo
+brew cmake
 brew curl
 brew emacs
+brew epstool
+brew fftw
+brew fltk
 brew fontconfig
 brew freetype
+brew gawk
 brew gcc
 brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghostscript
 brew git
+brew gl2ps
 brew glib
 brew gmp
-brew gnuplot
+brew gnu-sed
+brew gnuplot --with-qt5
 brew gobject-introspection
+brew graphicsmagick
 brew harfbuzz
 brew icu4c
+brew imagemagick
 brew isl
 brew jpeg
 brew libcroco
@@ -63,16 +78,32 @@ brew libmpc
 brew libpng
 brew librsvg
 brew libtiff
+brew libtool
+brew little-cms2
 brew lua
 brew mackup
+brew micro
+brew mobile-shell
 brew mpfr
 brew openssl
 brew pango
 brew pcre
 brew pixman
 brew pkg-config
+brew plotutils
+brew protobuf
+brew pstoedit
+brew pyqt5
+brew python3
+brew qscintilla2
+brew qt5
 brew readline
 brew shared-mime-info
+brew sip --with-python3
+brew sqlite
+brew szip
+brew tbb
+brew texinfo
 brew w3m
 brew webp
 brew wget
@@ -80,6 +111,17 @@ brew xz
 brew zsh
 
 tap homebrew/science
+brew arpack
+brew glpk
+brew hdf5
+brew metis
+brew octave
+brew qhull
+brew qrupdate
+brew r
+brew suite-sparse
+brew transfig
+brew veclibfort
 
 tap homebrew/versions
 
