@@ -46,7 +46,6 @@ brew bison
 brew cairo
 brew cmake
 brew curl
-brew emacs
 brew epstool
 brew fftw
 brew fltk
