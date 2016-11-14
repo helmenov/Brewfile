@@ -11,8 +11,10 @@ cask appcleaner
 cask audacity
 cask cakebrew
 cask dropbox
+cask emacs
 cask fluid
 cask flux
+cask gitbook-editor
 cask google-earth
 cask google-japanese-ime
 cask grammarly
@@ -40,13 +42,18 @@ cask google-chrome-canary
 tap homebrew/binary
 
 tap homebrew/core
+brew atk
 brew axel
 brew bdw-gc
 brew bison
 brew cairo
 brew cmake
 brew curl
+brew djvulibre
+brew doxygen
+brew emacs
 brew epstool
+brew evince
 brew fftw
 brew fltk
 brew fontconfig
@@ -62,37 +69,50 @@ brew git
 brew gl2ps
 brew glib
 brew gmp
+brew gnome-icon-theme
 brew gnu-sed
 brew gnuplot --with-qt5
 brew gobject-introspection
 brew graphicsmagick
+brew gsettings-desktop-schemas
+brew gtk+3
 brew harfbuzz
+brew hicolor-icon-theme
 brew icu4c
 brew imagemagick
 brew isl
 brew jpeg
 brew libcroco
+brew libepoxy
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libmpc
 brew libpng
 brew librsvg
+brew libsecret
+brew libspectre
 brew libtiff
 brew libtool
+brew libxml2
 brew little-cms2
 brew lua
 brew mackup
 brew micro
 brew mobile-shell
 brew mpfr
+brew openjpeg
 brew openssl
 brew pango
 brew pcre
 brew pixman
 brew pkg-config
 brew plotutils
+brew poppler
 brew protobuf
 brew pstoedit
 brew pyqt5
+brew python
 brew python3
 brew qscintilla2
 brew qt5
@@ -122,6 +142,8 @@ brew suite-sparse
 brew transfig
 brew veclibfort
 
+tap homebrew/services
+
 tap homebrew/versions
 
 tap homebrew/x11
@@ -137,4 +159,4 @@ brew brew-file
 
 # App Store applications
 appstore 823766827 OneDrive (17.3.6518)
-appstore 408981434 iMovie (10.1.2)
+appstore 408981434 iMovie (10.1.3)
