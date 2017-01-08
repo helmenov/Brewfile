@@ -8,7 +8,6 @@ tap caskroom/cask
 cask adobe-reader
 cask alfred
 cask appcleaner
-cask audacity
 cask cakebrew
 cask dropbox
 cask emacs
@@ -154,9 +153,10 @@ brew brew-file
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
+#cask audacity (!)
 #cask pandoc (!)
 #cask r (!)
 
 # App Store applications
-appstore 823766827 OneDrive (17.3.6518)
-appstore 408981434 iMovie (10.1.3)
+appstore 823766827 OneDrive (17.3.6724)
+appstore 408981434 iMovie (10.1.4)
