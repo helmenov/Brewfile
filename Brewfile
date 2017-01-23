@@ -158,5 +158,5 @@ brew brew-file
 #cask r (!)
 
 # App Store applications
-appstore 823766827 OneDrive (17.3.6724)
+appstore 823766827 OneDrive (17.3.6725)
 appstore 408981434 iMovie (10.1.4)
