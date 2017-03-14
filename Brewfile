@@ -70,7 +70,7 @@ brew glib
 brew gmp
 brew gnome-icon-theme
 brew gnu-sed
-brew gnuplot --with-qt5
+brew gnuplot --with-qt@5.7
 brew gobject-introspection
 brew graphicsmagick
 brew gsettings-desktop-schemas
@@ -115,6 +115,7 @@ brew python
 brew python3
 brew qscintilla2
 brew qt5
+brew qt@5.7
 brew readline
 brew shared-mime-info
 brew sip --with-python3
@@ -158,5 +159,5 @@ brew brew-file
 #cask r (!)
 
 # App Store applications
-appstore 823766827 OneDrive (17.3.6725)
 appstore 408981434 iMovie (10.1.4)
+appstore 823766827 OneDrive (17.3.6798)
