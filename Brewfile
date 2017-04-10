@@ -110,11 +110,11 @@ brew plotutils
 brew poppler
 brew protobuf
 brew pstoedit
-brew pyqt5
+brew pyqt
 brew python
 brew python3
 brew qscintilla2
-brew qt5
+brew qt
 brew qt@5.7
 brew readline
 brew shared-mime-info
@@ -151,12 +151,10 @@ tap homebrew/x11
 tap rcmdnk/brewall
 brew brew-file
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask audacity (!)
-#cask pandoc (!)
-#cask r (!)
+# Cask applications
+cask audacity
+cask pandoc
+cask r
 
 # App Store applications
 appstore 408981434 iMovie (10.1.4)
