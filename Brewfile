@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
 cask alfred
 cask appcleaner
 cask cakebrew
@@ -73,6 +72,7 @@ brew gnu-sed
 brew gnuplot --with-qt@5.7
 brew gobject-introspection
 brew graphicsmagick
+brew graphite2
 brew gsettings-desktop-schemas
 brew gtk+3
 brew harfbuzz
@@ -102,6 +102,7 @@ brew mobile-shell
 brew mpfr
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew pango
 brew pcre
 brew pixman
@@ -152,10 +153,11 @@ tap rcmdnk/brewall
 brew brew-file
 
 # Cask applications
+cask adobe-reader
 cask audacity
 cask pandoc
 cask r
 
 # App Store applications
-appstore 408981434 iMovie (10.1.4)
+appstore 408981434 iMovie (10.1.5)
 appstore 823766827 OneDrive (17.3.6798)
