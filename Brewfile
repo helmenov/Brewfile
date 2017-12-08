@@ -164,5 +164,4 @@ cask pandoc
 cask r
 
 # App Store applications
-appstore 408981434 iMovie (10.1.6)
-appstore 823766827 OneDrive (17.3.6916)
+appstore 823766827 OneDrive (17.3.7078)
