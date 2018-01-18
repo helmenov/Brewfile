@@ -53,6 +53,7 @@ brew libepoxy
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libidn2
 brew libmpc
 brew libogg
 brew libpng
@@ -62,6 +63,7 @@ brew libsndfile
 brew libspectre
 brew libtiff
 brew libtool
+brew libunistring
 brew libvorbis
 brew libxml2
 brew little-cms2
@@ -164,4 +166,5 @@ cask pandoc
 cask r
 
 # App Store applications
-appstore 823766827 OneDrive (17.3.7078)
+appstore 408981434 iMovie (10.1.8)
+appstore 823766827 OneDrive (17.3.7131)
