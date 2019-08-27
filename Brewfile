@@ -2,18 +2,27 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew adns
 brew adwaita-icon-theme
 brew arpack
+brew asciidoctorj
+brew aspell
 brew atk
+brew autoconf
+brew autoconf-archive
+brew automake
 brew axel
 brew bdw-gc
+brew berkeley-db
 brew bison
 brew cairo
 brew cmake
 brew curl
 brew djvulibre
 brew doxygen
+brew eigen
 brew emacs
+brew enchant
 brew epstool
 brew evince
 brew fftw
@@ -22,6 +31,7 @@ brew flac
 brew fltk
 brew fontconfig
 brew freetype
+brew fribidi
 brew gawk
 brew gcc
 brew gd
@@ -33,53 +43,94 @@ brew git
 brew gl2ps
 brew glib
 brew glpk
+brew gmime
 brew gmp
 brew gnu-sed
+brew gnupg
 brew gnuplot
+brew gnutls
+brew go
 brew gobject-introspection
+brew gpgme
 brew graphicsmagick
 brew graphite2
+brew graphviz
 brew gsettings-desktop-schemas
+brew gspell
+brew gtk+
 brew gtk+3
+brew gtk-mac-integration
+brew gts
 brew harfbuzz
 brew hdf5
 brew hicolor-icon-theme
+brew hwloc
 brew icu4c
+brew ilmbase
 brew imagemagick
 brew isl
+brew iso-codes
+brew isync
+brew jasper
 brew jpeg
+brew libarchive
+brew libassuan
+brew libcerf
 brew libcroco
+brew libde265
 brew libepoxy
+brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libidn2
+brew libksba
 brew libmpc
 brew libogg
+brew libomp
 brew libpng
 brew librsvg
 brew libsecret
 brew libsndfile
 brew libspectre
+brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libvorbis
 brew libxml2
 brew little-cms2
 brew lua
+brew lzo
 brew mackup
 brew mas
 brew metis
 brew micro
 brew mosh
 brew mpfr
+brew ncurses
+brew netpbm
+brew nettle
+brew node
+brew npth
+brew nspr
+brew nss
 brew octave
+brew open-mpi
+brew openblas
+brew openexr
 brew openjpeg
+brew openslide
 brew openssl
 brew openssl@1.1
+brew p11-kit
 brew pango
 brew pcre
+brew pcre2
+brew peco
+brew pinentry
 brew pixman
 brew pkg-config
 brew plotutils
@@ -87,31 +138,41 @@ brew poppler
 brew portaudio
 brew protobuf
 brew pstoedit
+brew py2cairo
+brew pygobject
+brew pygtk
 brew pyqt
 brew python
-brew python3
+brew python@2
 brew qhull
 brew qrupdate
 brew qscintilla2
 brew qt
-brew qt@5.7
 brew r
 brew readline
 brew shared-mime-info
 brew sip
 brew sqlite
 brew suite-sparse
+brew sundials
 brew szip
 brew tbb
+brew tcl-tk
 brew texinfo
+brew unbound
+brew vala
 brew veclibfort
 brew w3m
 brew webp
 brew wget
+brew x265
+brew xapian
 brew xz
 brew zsh
 
-tap homebrew/binary
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask google-chrome-canary
 
 tap homebrew/science
 
@@ -119,52 +180,55 @@ tap homebrew/services
 
 tap homebrew/versions
 
-tap homebrew/x11
-
-tap caskroom/cask
+tap homebrew/cask
 cask alfred
-cask appcleaner
 cask cakebrew
-cask dropbox
 cask emacs
-cask fluid
 cask flux
-cask gitbook-editor
 cask google-japanese-ime
-cask grammarly
 cask iterm2
-cask keepingyouawake
 cask kindle
-cask mactex
 cask marp
-cask microsoft-office
 cask nethackcocoa
-cask pilemd
-cask prezi
-cask rstudio
+cask pd-extended
+cask r
 cask skype
 cask sourcetree
 cask texstudio
-cask vlc
+cask visual-studio-code
 cask vmware-fusion
-cask xquartz
-
-tap caskroom/versions
-cask google-chrome-canary
 
 tap argon/mas
 
 tap rcmdnk/brewall
 brew brew-file
 
-# Cask applications
+tap rcmdnk/file
+
+# Other Cask applications
 cask adobe-reader
+cask appcleaner
 cask audacity
-cask google-earth
+cask dropbox
+cask gitbook-editor
+cask grammarly
+cask keepingyouawake
+cask mactex
+cask microsoft-office
 cask mosh
-cask pandoc
-cask r
+cask notable
+cask pilemd
+cask prezi
+cask rstudio
+cask skype-for-business
+cask supercollider
+cask typora
+cask vlc
+cask xquartz
 
 # App Store applications
-appstore 408981434 iMovie (10.1.8)
-appstore 823766827 OneDrive (17.3.7131)
+appstore 682658836 GarageBand (10.3.2)
+appstore 408981434 iMovie (10.1.12)
+appstore 409183694 Keynote (9.1)
+appstore 823766827 OneDrive (19.123.0624)
+appstore 497799835 Xcode (10.3)
