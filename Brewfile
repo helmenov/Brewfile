@@ -13,6 +13,7 @@ brew gmp
 brew isl
 brew jbig2dec
 brew jpeg
+brew lapack
 brew libidn
 brew libidn2
 brew libmpc
@@ -28,6 +29,7 @@ brew mpfr
 brew open-jtalk
 brew openjpeg
 brew openssl@1.1
+brew pipenv
 brew pkg-config
 brew pyenv
 brew python@3.9
