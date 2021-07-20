@@ -29,9 +29,7 @@ brew mpfr
 brew open-jtalk
 brew openjpeg
 brew openssl@1.1
-brew pipenv
 brew pkg-config
-brew pyenv
 brew python@3.9
 brew readline
 brew sqlite
