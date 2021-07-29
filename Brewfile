@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew flac
 brew fontconfig
 brew freetype
 brew gcc
@@ -17,9 +18,12 @@ brew lapack
 brew libidn
 brew libidn2
 brew libmpc
+brew libogg
 brew libpng
+brew libsndfile
 brew libtiff
 brew libunistring
+brew libvorbis
 brew little-cms2
 brew lua
 brew m4
@@ -27,8 +31,10 @@ brew mas
 brew mpdecimal
 brew mpfr
 brew open-jtalk
+brew openblas
 brew openjpeg
 brew openssl@1.1
+brew opus
 brew pipenv
 brew pkg-config
 brew pyenv
@@ -37,13 +43,16 @@ brew readline
 brew sqlite
 brew wget
 brew xz
+brew youtube-dl
 brew zstd
 
 tap homebrew/cask-versions
 cask brave-browser-beta
 
 tap homebrew/cask
+cask cloudflare-warp
 cask gpg-suite
+cask krisp
 cask obs
 cask obs-virtualcam
 cask onyx
