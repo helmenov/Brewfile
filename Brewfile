@@ -71,6 +71,8 @@ brew zstd
 tap homebrew/cask-versions
 cask brave-browser-beta
 
+tap homebrew/services
+
 tap homebrew/cask
 cask cloudflare-warp
 cask gpg-suite
