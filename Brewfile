@@ -115,6 +115,7 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
+brew openjdk@11
 brew openjpeg
 brew openssl@1.1
 brew opus
@@ -122,6 +123,7 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pdftk-java
 brew pipenv
 brew pixman
 brew pkg-config
