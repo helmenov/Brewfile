@@ -46,6 +46,7 @@ brew graphite2
 brew guile
 brew harfbuzz
 brew hdf5
+brew hunspell
 brew hwloc
 brew icu4c
 brew imagemagick
@@ -201,10 +202,10 @@ brew brew-file
 appstore 405843582   Alfred                 (1.2)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
-appstore 408981434   iMovie                 (10.2.3)
+appstore 408981434   iMovie                 (10.2.5)
 appstore 409183694   Keynote                (11.1)
-appstore 539883307   LINE                   (7.0.2)
+appstore 539883307   LINE                   (7.1.0)
 appstore 409203825   Numbers                (11.1)
 appstore 409201541   Pages                  (11.1)
-appstore 747648890   Telegram               (7.7)
+appstore 747648890   Telegram               (7.9)
 appstore 497799835   Xcode                  (12.5.1)
