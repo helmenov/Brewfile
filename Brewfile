@@ -99,6 +99,7 @@ brew libxml2
 brew libxrender
 brew little-cms2
 brew lua
+brew lz4
 brew lzo
 brew m4
 brew mas
@@ -130,6 +131,7 @@ brew pixman
 brew pkg-config
 brew plotutils
 brew portaudio
+brew protobuf
 brew pstoedit
 brew pyenv
 brew pyqt
@@ -146,6 +148,7 @@ brew rubberband
 brew scrcpy
 brew sdl2
 brew shared-mime-info
+brew six
 brew snappy
 brew speex
 brew sqlite
@@ -182,6 +185,7 @@ tap homebrew/services
 tap homebrew/cask
 cask android-platform-tools
 cask cloudflare-warp
+cask google-chrome
 cask gpg-suite
 cask krisp
 cask obs
@@ -207,5 +211,5 @@ appstore 409183694   Keynote                (11.1)
 appstore 539883307   LINE                   (7.1.0)
 appstore 409203825   Numbers                (11.1)
 appstore 409201541   Pages                  (11.1)
-appstore 747648890   Telegram               (7.9)
+appstore 747648890   Telegram               (8.0)
 appstore 497799835   Xcode                  (12.5.1)
