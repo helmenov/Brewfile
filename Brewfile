@@ -110,6 +110,8 @@ brew netpbm
 brew nettle
 brew nghttp2
 brew nodebrew
+brew nspr
+brew nss
 brew octave
 brew oniguruma
 brew open-jtalk
@@ -130,6 +132,7 @@ brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
+brew poppler
 brew portaudio
 brew protobuf
 brew pstoedit
@@ -159,6 +162,7 @@ brew sundials
 brew szip
 brew tbb
 brew tesseract
+brew tesseract-lang
 brew texinfo
 brew theora
 brew unbound
@@ -188,12 +192,14 @@ cask cloudflare-warp
 cask google-chrome
 cask gpg-suite
 cask krisp
+cask mactex
 cask obs
 cask obs-virtualcam
 cask onyx
 cask postman
 cask shiftit
 cask slack
+cask texstudio
 cask visual-studio-code
 
 tap railwaycat/emacsmacport
