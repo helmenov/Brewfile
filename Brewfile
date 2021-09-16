@@ -109,6 +109,7 @@ brew mpfr
 brew netpbm
 brew nettle
 brew nghttp2
+brew nkf
 brew nodebrew
 brew nspr
 brew nss
