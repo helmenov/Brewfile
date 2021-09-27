@@ -201,6 +201,7 @@ cask postman
 cask shiftit
 cask slack
 cask texstudio
+cask thonny-xxl
 cask visual-studio-code
 
 tap railwaycat/emacsmacport
