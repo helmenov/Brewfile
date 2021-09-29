@@ -244,7 +244,6 @@ tap homebrew/cask
 cask bitwarden
 cask dozer
 cask dropbox
-cask mactex-no-gui
 cask mapture
 cask miniforge
 cask visual-studio-code
