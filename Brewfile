@@ -62,6 +62,7 @@ brew graphite2
 brew guile
 brew harfbuzz
 brew hdf5
+brew hunspell
 brew hwloc
 brew icu4c
 brew imagemagick
@@ -130,6 +131,7 @@ brew libxml2
 brew libxrender
 brew little-cms2
 brew lua
+brew lz4
 brew lzo
 brew m4
 brew mas
@@ -144,7 +146,10 @@ brew openssl@1.1
 brew netpbm
 brew nettle
 brew nghttp2
+brew nkf
 brew nodebrew
+brew nspr
+brew nss
 brew octave
 brew oniguruma
 brew open-jtalk
@@ -152,6 +157,7 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
+brew openjdk@11
 brew openjpeg
 brew p11-kit
 brew pcre2
@@ -166,11 +172,14 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pdftk-java
 brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
+brew poppler
 brew portaudio
+brew protobuf
 brew pstoedit
 brew pyenv
 brew pyqt
@@ -190,6 +199,7 @@ brew rubberband
 brew scrcpy
 brew sdl2
 brew shared-mime-info
+brew six
 brew snappy
 brew speex
 brew sqlite
@@ -200,6 +210,7 @@ brew sundials
 brew szip
 brew tbb
 brew tesseract
+brew tesseract-lang
 brew texinfo
 brew theora
 brew unbound
@@ -240,14 +251,18 @@ cask visual-studio-code
 cask zoom
 cask android-platform-tools
 cask cloudflare-warp
+cask google-chrome
 cask gpg-suite
 cask krisp
+cask mactex
 cask obs
 cask obs-virtualcam
 cask onyx
 cask postman
 cask shiftit
 cask slack
+cask texstudio
+cask thonny-xxl
 cask visual-studio-code
 
 tap railwaycat/emacsmacport
@@ -264,10 +279,10 @@ appstore 408981434 iMovie (10.2.3)
 appstore 405843582   Alfred                 (1.2)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
-appstore 408981434   iMovie                 (10.2.3)
+appstore 408981434   iMovie                 (10.2.5)
 appstore 409183694   Keynote                (11.1)
-appstore 539883307   LINE                   (7.0.2)
-appstore 409203825   Numbers                (11.1)
-appstore 409201541   Pages                  (11.1)
-appstore 747648890   Telegram               (7.7)
-appstore 497799835   Xcode                  (12.5.1)
+appstore 539883307   LINE                   (7.2.0)
+appstore 409203825   Numbers                (11.2)
+appstore 409201541   Pages                  (11.2)
+appstore 747648890   Telegram               (8.1.1)
+appstore 497799835   Xcode                  (13.0)
