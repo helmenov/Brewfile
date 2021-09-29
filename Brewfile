@@ -3,21 +3,6 @@
 
 tap homebrew/core
 brew adns
-brew autoconf
-brew bdw-gc
-brew c-ares
-brew clamav
-brew fontconfig
-brew freetype
-brew gettext
-brew ghostscript
-brew git
-brew gmp
-brew gnupg
-brew gnutls
-brew guile
-brew gcc
-brew gdbm
 brew aom
 brew arpack
 brew assimp
@@ -27,6 +12,7 @@ brew bdw-gc
 brew brotli
 brew c-ares
 brew cairo
+brew clamav
 brew dav1d
 brew dbus
 brew docbook
@@ -49,11 +35,13 @@ brew gdbm
 brew gettext
 brew ghostscript
 brew giflib
+brew git
 brew gl2ps
 brew glib
 brew glpk
 brew gmp
 brew gnu-getopt
+brew gnupg
 brew gnuplot
 brew gnutls
 brew gobject-introspection
@@ -71,28 +59,15 @@ brew isl
 brew jansson
 brew jasper
 brew jbig2dec
-brew jansson
-brew jemalloc
-brew jpeg
-brew json-c
-brew libassuan
-brew libev
-brew libevent
-brew libffi
-brew libgcrypt
-brew libgpg-error
-brew libiconv
-brew libidn2
-brew libksba
-brew libmagic
-brew libtasn1
 brew jemalloc
 brew jpeg
 brew jq
+brew json-c
 brew lame
 brew lapack
 brew leptonica
 brew libass
+brew libassuan
 brew libb2
 brew libbluray
 brew libcerf
@@ -100,10 +75,15 @@ brew libde265
 brew libev
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libheif
+brew libiconv
 brew libidn
 brew libidn2
+brew libksba
 brew liblqr
+brew libmagic
 brew libmpc
 brew libogg
 brew libomp
@@ -131,55 +111,41 @@ brew libxml2
 brew libxrender
 brew little-cms2
 brew lua
-brew lz4
 brew lzo
 brew m4
 brew mas
 brew metis
 brew mpdecimal
 brew mpfr
-brew nettle
-brew nghttp2
-brew npth
-brew openconnect
-brew openssl@1.1
 brew netpbm
 brew nettle
 brew nghttp2
 brew nkf
 brew nodebrew
-brew nspr
-brew nss
+brew npth
 brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
 brew openblas
+brew openconnect
 brew opencore-amr
 brew openexr
-brew openjdk@11
 brew openjpeg
-brew p11-kit
-brew pcre2
-brew pinentry
-brew pkg-config
-brew protobuf
-brew protobuf-c
-brew pipenv
 brew openssl@1.1
 brew opus
 brew p11-kit
 brew pango
 brew pcre
 brew pcre2
-brew pdftk-java
+brew pinentry
 brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
-brew poppler
 brew portaudio
 brew protobuf
+brew protobuf-c
 brew pstoedit
 brew pyenv
 brew pyqt
@@ -192,9 +158,6 @@ brew qt
 brew qt@5
 brew rav1e
 brew readline
-brew stoken
-brew sqlite
-brew unbound
 brew rubberband
 brew scrcpy
 brew sdl2
@@ -204,13 +167,13 @@ brew snappy
 brew speex
 brew sqlite
 brew srt
+brew stoken
 brew stunnel
 brew suite-sparse
 brew sundials
 brew szip
 brew tbb
 brew tesseract
-brew tesseract-lang
 brew texinfo
 brew theora
 brew unbound
@@ -230,9 +193,6 @@ brew zeromq
 brew zimg
 brew zstd
 
-tap rcmdnk/file
-brew brew-file
-
 tap homebrew/bundle
 
 tap homebrew/cask-versions
@@ -241,28 +201,26 @@ cask brave-browser-beta
 tap homebrew/services
 
 tap homebrew/cask
+cask android-platform-tools
 cask bitwarden
+cask chromium
+cask cloudflare-warp
 cask dozer
 cask dropbox
-cask mapture
-cask miniforge
-cask visual-studio-code
-cask zoom
-cask android-platform-tools
-cask cloudflare-warp
 cask google-chrome
 cask gpg-suite
 cask krisp
-cask mactex
+cask macfuse
+cask mapture
+cask miniforge
 cask obs
 cask obs-virtualcam
 cask onyx
 cask postman
 cask shiftit
 cask slack
-cask texstudio
-cask thonny-xxl
 cask visual-studio-code
+cask zoom
 
 tap railwaycat/emacsmacport
 brew emacs-mac
@@ -271,17 +229,9 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 892162982 7Zipブラウザ (2.5.0)
-appstore 460883588 ATOK Pad (2.0.7)
-appstore 1462114288 Grammarly for Safari (9.29)
-appstore 408981434 iMovie (10.2.3)
-appstore 405843582   Alfred                 (1.2)
-appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 682658836   GarageBand             (10.4.3)
-appstore 408981434   iMovie                 (10.2.5)
-appstore 409183694   Keynote                (11.1)
-appstore 539883307   LINE                   (7.2.0)
-appstore 409203825   Numbers                (11.2)
-appstore 409201541   Pages                  (11.2)
-appstore 747648890   Telegram               (8.1.1)
-appstore 497799835   Xcode                  (13.0)
+appstore 892162982   7Zipブラウザ              (2.5.0)
+appstore 460883588   ATOK Pad              (2.0.7)
+appstore 1462114288  Grammarly for Safari  (9.38)
+appstore 408981434   iMovie                (10.2.5)
+appstore 409183694   Keynote               (11.1)
+appstore 497799835   Xcode                 (12.5.1)
