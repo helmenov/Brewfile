@@ -202,14 +202,9 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
-<<<<<<< HEAD
-=======
 cask bitwarden
-cask chromium
-cask cloudflare-warp
 cask dozer
 cask dropbox
->>>>>>> c5301a5847ac922cb647ea5e1f0028d5bbc9c23e
 cask google-chrome
 cask gpg-suite
 cask krisp
@@ -232,7 +227,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-<<<<<<< HEAD
 appstore 405843582   Alfred                 (1.2)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
@@ -244,7 +238,6 @@ appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.1.2)
 appstore 497799835   Xcode                  (13.0)
-=======
 appstore 892162982   7Zipブラウザ              (2.5.0)
 appstore 460883588   ATOK Pad              (2.0.7)
 appstore 1462114288  Grammarly for Safari  (9.38)
@@ -252,4 +245,3 @@ appstore 408981434   iMovie                (10.2.5)
 appstore 409183694   Keynote               (11.1)
 appstore 1116599239  NordVPN IKE           (6.7.0)
 appstore 497799835   Xcode                 (12.5.1)
->>>>>>> c5301a5847ac922cb647ea5e1f0028d5bbc9c23e
