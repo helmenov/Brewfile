@@ -11,6 +11,7 @@ brew automake
 brew bdw-gc
 brew brotli
 brew c-ares
+brew ca-certificates
 brew cairo
 brew clamav
 brew dav1d
@@ -111,6 +112,7 @@ brew libxml2
 brew libxrender
 brew little-cms2
 brew lua
+brew lz4
 brew lzo
 brew m4
 brew mas
@@ -123,6 +125,8 @@ brew nghttp2
 brew nkf
 brew nodebrew
 brew npth
+brew nspr
+brew nss
 brew octave
 brew oniguruma
 brew open-jtalk
@@ -131,6 +135,7 @@ brew openblas
 brew openconnect
 brew opencore-amr
 brew openexr
+brew openjdk@11
 brew openjpeg
 brew openssl@1.1
 brew opus
@@ -138,11 +143,13 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pdftk-java
 brew pinentry
 brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
+brew poppler
 brew portaudio
 brew protobuf
 brew protobuf-c
@@ -174,6 +181,7 @@ brew sundials
 brew szip
 brew tbb
 brew tesseract
+brew tesseract-lang
 brew texinfo
 brew theora
 brew unbound
@@ -203,12 +211,14 @@ tap homebrew/services
 tap homebrew/cask
 cask android-platform-tools
 cask bitwarden
+cask cloudflare-warp
 cask dozer
 cask dropbox
 cask google-chrome
 cask gpg-suite
 cask krisp
 cask macfuse
+cask mactex
 cask mapture
 cask miniforge
 cask obs
@@ -217,6 +227,8 @@ cask onyx
 cask postman
 cask shiftit
 cask slack
+cask texstudio
+cask thonny-xxl
 cask visual-studio-code
 cask zoom
 
@@ -227,9 +239,12 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
+appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
+appstore 1462114288  Grammarly for Safari   (9.38)
 appstore 408981434   iMovie                 (10.2.5)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.2.0)
@@ -238,10 +253,3 @@ appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.1.2)
 appstore 497799835   Xcode                  (13.0)
-appstore 892162982   7Zipブラウザ              (2.5.0)
-appstore 460883588   ATOK Pad              (2.0.7)
-appstore 1462114288  Grammarly for Safari  (9.38)
-appstore 408981434   iMovie                (10.2.5)
-appstore 409183694   Keynote               (11.1)
-appstore 1116599239  NordVPN IKE           (6.7.0)
-appstore 497799835   Xcode                 (12.5.1)
