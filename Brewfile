@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew adns
 brew aom
 brew arpack
 brew assimp
@@ -11,6 +12,7 @@ brew bdw-gc
 brew brotli
 brew c-ares
 brew cairo
+brew clamav
 brew dav1d
 brew dbus
 brew docbook
@@ -33,11 +35,13 @@ brew gdbm
 brew gettext
 brew ghostscript
 brew giflib
+brew git
 brew gl2ps
 brew glib
 brew glpk
 brew gmp
 brew gnu-getopt
+brew gnupg
 brew gnuplot
 brew gnutls
 brew gobject-introspection
@@ -58,10 +62,12 @@ brew jbig2dec
 brew jemalloc
 brew jpeg
 brew jq
+brew json-c
 brew lame
 brew lapack
 brew leptonica
 brew libass
+brew libassuan
 brew libb2
 brew libbluray
 brew libcerf
@@ -69,10 +75,15 @@ brew libde265
 brew libev
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libheif
+brew libiconv
 brew libidn
 brew libidn2
+brew libksba
 brew liblqr
+brew libmagic
 brew libmpc
 brew libogg
 brew libomp
@@ -87,6 +98,7 @@ brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libvidstab
 brew libvorbis
 brew libvpx
@@ -99,7 +111,6 @@ brew libxml2
 brew libxrender
 brew little-cms2
 brew lua
-brew lz4
 brew lzo
 brew m4
 brew mas
@@ -111,16 +122,15 @@ brew nettle
 brew nghttp2
 brew nkf
 brew nodebrew
-brew nspr
-brew nss
+brew npth
 brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
 brew openblas
+brew openconnect
 brew opencore-amr
 brew openexr
-brew openjdk@11
 brew openjpeg
 brew openssl@1.1
 brew opus
@@ -128,14 +138,14 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
-brew pdftk-java
+brew pinentry
 brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
-brew poppler
 brew portaudio
 brew protobuf
+brew protobuf-c
 brew pstoedit
 brew pyenv
 brew pyqt
@@ -157,13 +167,13 @@ brew snappy
 brew speex
 brew sqlite
 brew srt
+brew stoken
 brew stunnel
 brew suite-sparse
 brew sundials
 brew szip
 brew tbb
 brew tesseract
-brew tesseract-lang
 brew texinfo
 brew theora
 brew unbound
@@ -176,11 +186,14 @@ brew xmlto
 brew xorgproto
 brew xvid
 brew xz
+brew yara
 brew yasm
 brew youtube-dl
 brew zeromq
 brew zimg
 brew zstd
+
+tap homebrew/bundle
 
 tap homebrew/cask-versions
 cask brave-browser-beta
@@ -189,19 +202,28 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
+<<<<<<< HEAD
+=======
+cask bitwarden
+cask chromium
+cask cloudflare-warp
+cask dozer
+cask dropbox
+>>>>>>> c5301a5847ac922cb647ea5e1f0028d5bbc9c23e
 cask google-chrome
 cask gpg-suite
 cask krisp
-cask mactex
+cask macfuse
+cask mapture
+cask miniforge
 cask obs
 cask obs-virtualcam
 cask onyx
 cask postman
 cask shiftit
 cask slack
-cask texstudio
-cask thonny-xxl
 cask visual-studio-code
+cask zoom
 
 tap railwaycat/emacsmacport
 brew emacs-mac
@@ -210,6 +232,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+<<<<<<< HEAD
 appstore 405843582   Alfred                 (1.2)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
@@ -221,3 +244,12 @@ appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.1.2)
 appstore 497799835   Xcode                  (13.0)
+=======
+appstore 892162982   7Zipブラウザ              (2.5.0)
+appstore 460883588   ATOK Pad              (2.0.7)
+appstore 1462114288  Grammarly for Safari  (9.38)
+appstore 408981434   iMovie                (10.2.5)
+appstore 409183694   Keynote               (11.1)
+appstore 1116599239  NordVPN IKE           (6.7.0)
+appstore 497799835   Xcode                 (12.5.1)
+>>>>>>> c5301a5847ac922cb647ea5e1f0028d5bbc9c23e
