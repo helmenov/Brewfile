@@ -86,6 +86,7 @@ brew libksba
 brew liblqr
 brew libmagic
 brew libmpc
+brew libnghttp2
 brew libogg
 brew libomp
 brew libpng
@@ -116,6 +117,7 @@ brew lz4
 brew lzo
 brew m4
 brew mas
+brew md4c
 brew metis
 brew mpdecimal
 brew mpfr
@@ -158,6 +160,7 @@ brew pstoedit
 brew pyenv
 brew pyqt
 brew pyqt@5
+brew python@3.10
 brew python@3.9
 brew qhull
 brew qrupdate
@@ -245,12 +248,12 @@ appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.3)
-appstore 1462114288  Grammarly for Safari   (9.38)
+appstore 1462114288  Grammarly for Safari   (9.40)
 appstore 408981434   iMovie                 (10.2.5)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.2.0)
 appstore 1116599239  NordVPN IKE            (6.7.0)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
-appstore 747648890   Telegram               (8.1.2)
+appstore 747648890   Telegram               (8.1.3)
 appstore 497799835   Xcode                  (13.0)
