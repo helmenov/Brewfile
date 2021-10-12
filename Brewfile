@@ -145,6 +145,7 @@ brew pcre
 brew pcre2
 brew pdftk-java
 brew pinentry
+brew pinentry-mac
 brew pipenv
 brew pixman
 brew pkg-config
