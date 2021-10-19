@@ -62,6 +62,7 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-xl
 brew jq
 brew json-c
 brew lame
@@ -102,6 +103,7 @@ brew libtool
 brew libunistring
 brew libusb
 brew libvidstab
+brew libvmaf
 brew libvorbis
 brew libvpx
 brew libx11
@@ -247,11 +249,11 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 682658836   GarageBand             (10.4.3)
+appstore 682658836   GarageBand             (10.4.4)
 appstore 1462114288  Grammarly for Safari   (9.40)
-appstore 408981434   iMovie                 (10.2.5)
+appstore 408981434   iMovie                 (10.3)
 appstore 409183694   Keynote                (11.2)
-appstore 539883307   LINE                   (7.2.0)
+appstore 539883307   LINE                   (7.3.0)
 appstore 1116599239  NordVPN IKE            (6.7.0)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
