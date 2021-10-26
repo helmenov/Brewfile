@@ -8,6 +8,9 @@ brew arpack
 brew assimp
 brew autoconf
 brew automake
+brew bash
+brew bash-completion
+brew bat
 brew bdw-gc
 brew brotli
 brew c-ares
@@ -132,6 +135,7 @@ brew netpbm
 brew nettle
 brew nghttp2
 brew nkf
+brew nmap
 brew nodebrew
 brew npth
 brew nspr
@@ -149,6 +153,7 @@ brew openjpeg
 brew openssl@1.1
 brew opus
 brew p11-kit
+brew pandoc
 brew pango
 brew pcre
 brew pcre2
@@ -166,6 +171,7 @@ brew protobuf
 brew protobuf-c
 brew pstoedit
 brew pyenv
+brew pygments
 brew pyqt
 brew pyqt@5
 brew python@3.10
@@ -177,6 +183,7 @@ brew qt
 brew qt@5
 brew rav1e
 brew readline
+brew ripgrep
 brew rubberband
 brew scrcpy
 brew sdl2
@@ -196,6 +203,7 @@ brew tesseract
 brew tesseract-lang
 brew texinfo
 brew theora
+brew tig
 brew unbound
 brew w3m
 brew webp
@@ -249,6 +257,9 @@ brew emacs-mac
 
 tap rcmdnk/file
 brew brew-file
+
+tap xwmx/taps
+brew nb
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
