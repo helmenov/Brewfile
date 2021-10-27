@@ -50,6 +50,7 @@ brew glpk
 brew gmp
 brew gnu-getopt
 brew gnupg
+brew gnupg@2.2
 brew gnuplot
 brew gnutls
 brew gobject-introspection
