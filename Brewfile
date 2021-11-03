@@ -222,7 +222,6 @@ tap homebrew/cask
 cask android-platform-tools
 cask bitwarden
 cask chromium
-cask cloudflare-warp
 cask dozer
 cask dropbox
 cask google-chrome
@@ -241,6 +240,8 @@ cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
+cask virtualbox
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask zoom
 
