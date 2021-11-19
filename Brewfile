@@ -16,7 +16,9 @@ brew brotli
 brew c-ares
 brew ca-certificates
 brew cairo
+brew cjson
 brew clamav
+brew cmocka
 brew coreutils
 brew dav1d
 brew dbus
@@ -97,6 +99,7 @@ brew libomp
 brew libpng
 brew libproxy
 brew libpthread-stubs
+brew librist
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -123,6 +126,7 @@ brew lz4
 brew lzo
 brew m4
 brew mas
+brew mbedtls
 brew md4c
 brew metis
 brew mpdecimal
@@ -259,12 +263,12 @@ appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.4)
-appstore 1462114288  Grammarly for Safari   (9.41)
-appstore 408981434   iMovie                 (10.3)
+appstore 1462114288  Grammarly for Safari   (9.42)
+appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.3.1)
 appstore 1116599239  NordVPN IKE            (6.8.2)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
-appstore 747648890   Telegram               (8.1.3)
+appstore 747648890   Telegram               (8.2)
 appstore 497799835   Xcode                  (13.1)
