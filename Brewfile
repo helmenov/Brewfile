@@ -149,7 +149,6 @@ brew nghttp2
 brew nkf
 brew nmap
 brew nodebrew
-brew notifiers
 brew notmuch
 brew npth
 brew nspr
@@ -244,12 +243,16 @@ brew zstd
 
 tap homebrew/bundle
 
+tap homebrew/cask-fonts
+cask font-ricty-diminished
+
 tap homebrew/cask-versions
 cask brave-browser-beta
 
 tap homebrew/services
 
 tap homebrew/cask
+cask alacritty
 cask android-platform-tools
 cask bitwarden
 cask cloudflare-warp
