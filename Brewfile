@@ -307,5 +307,3 @@ appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.2)
 appstore 497799835   Xcode                  (13.1)
-
-# Other commands
