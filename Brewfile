@@ -9,18 +9,16 @@ brew assimp
 brew autoconf
 brew automake
 brew bash
-brew bash-completion@2
+brew bash-completion
 brew bat
 brew bdw-gc
 brew brotli
 brew c-ares
 brew ca-certificates
 brew cairo
-brew cask
 brew cjson
 brew clamav
 brew cmocka
-brew compface
 brew coreutils
 brew dav1d
 brew dbus
@@ -28,7 +26,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew epstool
 brew ffmpeg
 brew fftw
@@ -42,7 +39,6 @@ brew fribidi
 brew gcc
 brew gd
 brew gdbm
-brew gdk-pixbuf
 brew gettext
 brew ghostscript
 brew giflib
@@ -50,16 +46,12 @@ brew git
 brew gl2ps
 brew glib
 brew glpk
-brew gmime
 brew gmp
 brew gnu-getopt
-brew gnu-sed
 brew gnupg
-brew gnupg@2.2
 brew gnuplot
 brew gnutls
 brew gobject-introspection
-brew gpgme
 brew graphicsmagick
 brew graphite2
 brew guile
@@ -108,7 +100,6 @@ brew libpng
 brew libproxy
 brew libpthread-stubs
 brew librist
-brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -129,9 +120,7 @@ brew libxdmcp
 brew libxext
 brew libxml2
 brew libxrender
-brew libyaml
 brew little-cms2
-brew lmdb
 brew lua
 brew lz4
 brew lzo
@@ -142,14 +131,15 @@ brew md4c
 brew metis
 brew mpdecimal
 brew mpfr
-brew neomutt
 brew netpbm
 brew nettle
 brew nghttp2
 brew nkf
-brew nmap
 brew nodebrew
+<<<<<<< HEAD
 brew notmuch
+=======
+>>>>>>> c095780cf7eb5094b1a023495765d09dd32d4179
 brew npth
 brew nspr
 brew nss
@@ -164,28 +154,24 @@ brew openexr
 brew openjdk@11
 brew openjpeg
 brew openssl@1.1
-brew openssl@3
 brew opus
 brew p11-kit
-brew pandoc
 brew pango
 brew pcre
 brew pcre2
 brew pdftk-java
 brew pinentry
 brew pinentry-mac
+brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
-brew poetry
 brew poppler
 brew portaudio
-brew pre-commit
 brew protobuf
 brew protobuf-c
 brew pstoedit
 brew pyenv
-brew pygments
 brew pyqt
 brew pyqt@5
 brew python@3.10
@@ -197,7 +183,6 @@ brew qt
 brew qt@5
 brew rav1e
 brew readline
-brew ripgrep
 brew rubberband
 brew scrcpy
 brew sdl2
@@ -212,22 +197,17 @@ brew stunnel
 brew suite-sparse
 brew sundials
 brew szip
-brew talloc
 brew tbb
 brew tesseract
 brew tesseract-lang
 brew texinfo
 brew theora
-brew tig
-brew tokyo-cabinet
-brew trash
 brew unbound
 brew w3m
 brew webp
 brew wget
 brew x264
 brew x265
-brew xapian
 brew xmlto
 brew xorgproto
 brew xvid
@@ -237,8 +217,6 @@ brew yasm
 brew youtube-dl
 brew zeromq
 brew zimg
-brew zlib
-brew zsh-completions
 brew zstd
 
 tap homebrew/bundle
@@ -255,7 +233,7 @@ tap homebrew/cask
 cask alacritty
 cask android-platform-tools
 cask bitwarden
-cask cloudflare-warp
+cask chromium
 cask dozer
 cask dropbox
 cask google-chrome
@@ -265,6 +243,7 @@ cask krisp
 cask macfuse
 cask mactex
 cask mapture
+cask miniforge
 cask obs
 cask obs-virtualcam
 cask onyx
@@ -273,13 +252,15 @@ cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
+cask virtualbox
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask zoom
 
 tap d12frosted/emacs-plus
-brew emacs-plus@27
 
 tap railwaycat/emacsmacport
+brew emacs-mac
 
 tap rcmdnk/file
 brew brew-file
@@ -287,7 +268,6 @@ brew brew-file
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
-brew nb
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
@@ -298,8 +278,7 @@ appstore 682658836   GarageBand             (10.4.4)
 appstore 1462114288  Grammarly for Safari   (9.45)
 appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
-appstore 539883307   LINE                   (7.4.1)
-appstore 905953485   NordVPN                (7.0.0)
+appstore 539883307   LINE                   (7.3.1)
 appstore 1116599239  NordVPN IKE            (6.8.4)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
