@@ -10,6 +10,7 @@ brew autoconf
 brew automake
 brew bash
 brew bash-completion
+brew bash-completion@2
 brew bat
 brew bdw-gc
 brew brotli
@@ -252,9 +253,11 @@ cask brave-browser-beta
 tap homebrew/services
 
 tap homebrew/cask
+cask alacritty
 cask android-platform-tools
 cask bitwarden
 cask chromium
+cask cloudflare-warp
 cask dozer
 cask dropbox
 cask google-chrome
