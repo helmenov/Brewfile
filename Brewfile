@@ -286,6 +286,8 @@ cask zoom
 tap d12frosted/emacs-plus
 brew emacs-plus@27
 
+tap railwaycat/emacsmacport
+
 tap rcmdnk/file
 brew brew-file
 
