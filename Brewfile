@@ -68,7 +68,6 @@ brew hdf5
 brew hunspell
 brew hwloc
 brew icu4c
-brew imagemagick
 brew imath
 brew isl
 brew jansson
@@ -271,7 +270,6 @@ cask krisp
 cask macfuse
 cask mactex
 cask mapture
-cask miniforge
 cask obs
 cask obs-virtualcam
 cask onyx
