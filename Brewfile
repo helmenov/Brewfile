@@ -175,6 +175,7 @@ brew pcre2
 brew pdftk-java
 brew pinentry
 brew pinentry-mac
+brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
@@ -223,7 +224,6 @@ brew theora
 brew tig
 brew tmux
 brew tokyo-cabinet
-brew trash
 brew unbound
 brew utf8proc
 brew w3m
@@ -241,8 +241,6 @@ brew yasm
 brew youtube-dl
 brew zeromq
 brew zimg
-brew zlib
-brew zsh-completions
 brew zstd
 
 tap homebrew/bundle
@@ -270,6 +268,7 @@ cask krisp
 cask macfuse
 cask mactex
 cask mapture
+cask miniforge
 cask obs
 cask obs-virtualcam
 cask onyx
@@ -278,13 +277,15 @@ cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
+cask virtualbox
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask zoom
 
 tap d12frosted/emacs-plus
-brew emacs-plus@27
 
 tap railwaycat/emacsmacport
+brew emacs-mac
 
 tap rcmdnk/file
 brew brew-file
@@ -292,7 +293,6 @@ brew brew-file
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
-brew nb
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
@@ -304,7 +304,6 @@ appstore 1462114288  Grammarly for Safari   (9.45)
 appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.4.1)
-appstore 905953485   NordVPN                (7.0.0)
 appstore 1116599239  NordVPN IKE            (6.8.4)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
