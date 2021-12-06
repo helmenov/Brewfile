@@ -262,7 +262,6 @@ cask alacritty
 cask android-platform-tools
 cask bitwarden
 cask chromium
-cask cloudflare-warp
 cask dozer
 cask dropbox
 cask google-chrome
