@@ -277,8 +277,6 @@ cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
-cask virtualbox
-cask virtualbox-extension-pack
 cask visual-studio-code
 cask zoom
 
