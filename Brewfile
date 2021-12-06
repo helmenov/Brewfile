@@ -29,7 +29,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew epstool
 brew ffmpeg
 brew fftw
@@ -286,9 +285,6 @@ cask zoom
 
 tap d12frosted/emacs-plus
 brew emacs-plus@27
-
-tap railwaycat/emacsmacport
-brew emacs-mac
 
 tap rcmdnk/file
 brew brew-file
