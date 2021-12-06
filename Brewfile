@@ -69,7 +69,6 @@ brew hdf5
 brew hunspell
 brew hwloc
 brew icu4c
-brew imagemagick
 brew imath
 brew isl
 brew jansson
@@ -143,6 +142,7 @@ brew md4c
 brew metis
 brew mpdecimal
 brew mpfr
+brew ncurses
 brew neomutt
 brew netpbm
 brew nettle
@@ -198,6 +198,7 @@ brew qt
 brew qt@5
 brew rav1e
 brew readline
+brew reattach-to-user-namespace
 brew ripgrep
 brew rubberband
 brew scrcpy
@@ -220,9 +221,11 @@ brew tesseract-lang
 brew texinfo
 brew theora
 brew tig
+brew tmux
 brew tokyo-cabinet
 brew trash
 brew unbound
+brew utf8proc
 brew w3m
 brew webp
 brew wget
