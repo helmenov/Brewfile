@@ -270,6 +270,7 @@ cask krisp
 cask macfuse
 cask mactex
 cask mapture
+cask nordvpn
 cask obs
 cask obs-virtualcam
 cask onyx
@@ -304,8 +305,6 @@ appstore 1462114288  Grammarly for Safari   (9.45)
 appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.4.1)
-appstore 905953485   NordVPN                (7.0.0)
-appstore 1116599239  NordVPN IKE            (6.8.4)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.2)
