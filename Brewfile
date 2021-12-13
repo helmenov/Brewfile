@@ -280,7 +280,6 @@ cask slack
 cask texstudio
 cask thonny-xxl
 cask visual-studio-code
-cask zoom
 
 tap d12frosted/emacs-plus
 brew emacs-plus@27
