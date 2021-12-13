@@ -137,6 +137,7 @@ brew lua
 brew lz4
 brew lzo
 brew m4
+brew mad
 brew mas
 brew mbedtls
 brew md4c
@@ -168,6 +169,7 @@ brew openjpeg
 brew openssl@1.1
 brew openssl@3
 brew opus
+brew opusfile
 brew p11-kit
 brew pandoc
 brew pango
@@ -208,6 +210,7 @@ brew sdl2
 brew shared-mime-info
 brew six
 brew snappy
+brew sox
 brew speex
 brew sqlite
 brew srt
