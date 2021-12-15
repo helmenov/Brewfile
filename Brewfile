@@ -285,6 +285,7 @@ cask slack
 cask texstudio
 cask thonny-xxl
 cask visual-studio-code
+cask zoom
 
 tap d12frosted/emacs-plus
 brew emacs-plus@27
@@ -304,7 +305,7 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 682658836   GarageBand             (10.4.5)
+appstore 682658836   GarageBand             (10.4.4)
 appstore 1462114288  Grammarly for Safari   (9.45)
 appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
