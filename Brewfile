@@ -4,7 +4,11 @@
 tap homebrew/core
 brew adns
 brew aom
+brew apr
+brew apr-util
+brew argon2
 brew arpack
+brew aspell
 brew assimp
 brew autoconf
 brew automake
@@ -23,6 +27,7 @@ brew clamav
 brew cmocka
 brew compface
 brew coreutils
+brew curl
 brew dav1d
 brew dbus
 brew docbook
@@ -37,6 +42,7 @@ brew fig2dev
 brew flac
 brew fltk
 brew fontconfig
+brew freetds
 brew freetype
 brew frei0r
 brew fribidi
@@ -66,6 +72,7 @@ brew graphite2
 brew guile
 brew harfbuzz
 brew hdf5
+brew httpd
 brew hunspell
 brew hwloc
 brew icu4c
@@ -80,6 +87,7 @@ brew jpeg
 brew jpeg-xl
 brew jq
 brew json-c
+brew krb5
 brew lame
 brew lapack
 brew leptonica
@@ -106,6 +114,7 @@ brew libnghttp2
 brew libogg
 brew libomp
 brew libpng
+brew libpq
 brew libproxy
 brew libpthread-stubs
 brew librist
@@ -114,6 +123,7 @@ brew libsamplerate
 brew libsndfile
 brew libsodium
 brew libsoxr
+brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
@@ -131,6 +141,7 @@ brew libxext
 brew libxml2
 brew libxrender
 brew libyaml
+brew libzip
 brew little-cms2
 brew lmdb
 brew lua
@@ -144,6 +155,7 @@ brew md4c
 brew metis
 brew mpdecimal
 brew mpfr
+brew mysql
 brew ncurses
 brew neomutt
 brew netpbm
@@ -166,6 +178,7 @@ brew opencore-amr
 brew openexr
 brew openjdk@11
 brew openjpeg
+brew openldap
 brew openssl@1.1
 brew openssl@3
 brew opus
@@ -176,6 +189,7 @@ brew pango
 brew pcre
 brew pcre2
 brew pdftk-java
+brew php@7.4
 brew pinentry
 brew pinentry-mac
 brew pipenv
@@ -204,6 +218,7 @@ brew rav1e
 brew readline
 brew reattach-to-user-namespace
 brew ripgrep
+brew rtmpdump
 brew rubberband
 brew scrcpy
 brew sdl2
@@ -225,11 +240,13 @@ brew tesseract
 brew tesseract-lang
 brew texinfo
 brew theora
+brew tidy-html5
 brew tig
 brew tmux
 brew tokyo-cabinet
 brew trash
 brew unbound
+brew unixodbc
 brew utf8proc
 brew w3m
 brew webp
