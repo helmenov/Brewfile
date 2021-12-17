@@ -289,6 +289,7 @@ cask julia
 cask krisp
 cask macfuse
 cask mactex
+cask mamp
 cask mapture
 cask nordvpn
 cask obs
