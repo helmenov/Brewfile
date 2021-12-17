@@ -155,7 +155,6 @@ brew md4c
 brew metis
 brew mpdecimal
 brew mpfr
-brew mysql
 brew ncurses
 brew neomutt
 brew netpbm
@@ -189,7 +188,6 @@ brew pango
 brew pcre
 brew pcre2
 brew pdftk-java
-brew php@7.4
 brew pinentry
 brew pinentry-mac
 brew pipenv
