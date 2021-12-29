@@ -283,6 +283,7 @@ cask chromium
 cask cloudflare-warp
 cask dozer
 cask dropbox
+cask frescobaldi
 cask google-chrome
 cask gpg-suite
 cask julia
