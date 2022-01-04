@@ -70,6 +70,7 @@ brew gpgme
 brew graphicsmagick
 brew graphite2
 brew guile
+brew guile@2
 brew harfbuzz
 brew hdf5
 brew httpd
@@ -283,7 +284,6 @@ cask chromium
 cask cloudflare-warp
 cask dozer
 cask dropbox
-cask frescobaldi
 cask google-chrome
 cask gpg-suite
 cask julia
