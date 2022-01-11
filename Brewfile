@@ -41,6 +41,7 @@ brew fftw
 brew fig2dev
 brew flac
 brew fltk
+brew fluid-synth
 brew fontconfig
 brew freetds
 brew freetype
@@ -92,11 +93,13 @@ brew krb5
 brew lame
 brew lapack
 brew leptonica
+brew libao
 brew libass
 brew libassuan
 brew libb2
 brew libbluray
 brew libcerf
+brew libcuefile
 brew libde265
 brew libev
 brew libevent
@@ -118,6 +121,7 @@ brew libpng
 brew libpq
 brew libproxy
 brew libpthread-stubs
+brew libreplaygain
 brew librist
 brew librsvg
 brew libsamplerate
@@ -198,6 +202,7 @@ brew plotutils
 brew poetry
 brew poppler
 brew portaudio
+brew portmidi
 brew pre-commit
 brew protobuf
 brew protobuf-c
@@ -292,6 +297,7 @@ cask macfuse
 cask mactex
 cask mamp
 cask mapture
+cask musescore
 cask nordvpn
 cask obs
 cask obs-virtualcam
