@@ -200,7 +200,6 @@ brew pipenv
 brew pixman
 brew pkg-config
 brew plotutils
-brew poetry
 brew poppler
 brew portaudio
 brew portmidi
@@ -212,7 +211,6 @@ brew pyenv
 brew pygments
 brew pyqt
 brew pyqt@5
-brew python@3.10
 brew python@3.9
 brew qhull
 brew qrupdate
@@ -241,6 +239,7 @@ brew sundials
 brew szip
 brew talloc
 brew tbb
+brew tcl-tk
 brew tesseract
 brew tesseract-lang
 brew texinfo
