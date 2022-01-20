@@ -211,6 +211,7 @@ brew pyenv
 brew pygments
 brew pyqt
 brew pyqt@5
+brew python@3.10
 brew python@3.9
 brew qhull
 brew qrupdate
