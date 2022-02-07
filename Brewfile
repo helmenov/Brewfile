@@ -340,6 +340,3 @@ appstore 747648890   Telegram               (8.4.1)
 appstore 497799835   Xcode                  (13.2.1)
 
 # Other commands
-<<<<<<< HEAD
-=======
->>>>>>> 30814f332ff19416c7098c7c8f82edc558addf03
