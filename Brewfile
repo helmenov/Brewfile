@@ -16,6 +16,9 @@ brew readline
 brew sqlite
 brew xz
 
+tap homebrew/cask
+cask gpg-suite
+
 tap rcmdnk/file
 brew brew-file
 
