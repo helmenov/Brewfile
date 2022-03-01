@@ -17,6 +17,8 @@ brew bash-completion
 brew bash-completion@2
 brew bat
 brew bdw-gc
+brew berkeley-db
+brew berkeley-db@4
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -53,6 +55,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew gflags
 brew ghostscript
 brew giflib
 brew git
@@ -91,6 +94,7 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew krb5
+brew kyoto-cabinet
 brew lame
 brew lapack
 brew leptonica
@@ -98,6 +102,7 @@ brew libao
 brew libarchive
 brew libass
 brew libassuan
+brew libavif
 brew libb2
 brew libbluray
 brew libcerf
@@ -130,6 +135,7 @@ brew libsamplerate
 brew libsndfile
 brew libsodium
 brew libsoxr
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
@@ -163,10 +169,10 @@ brew metis
 brew mpdecimal
 brew mpfr
 brew ncurses
-brew neomutt
 brew netpbm
 brew nettle
 brew nghttp2
+brew ninja
 brew nkf
 brew nmap
 brew nodebrew
@@ -214,6 +220,7 @@ brew pyqt
 brew pyqt@5
 brew python@3.10
 brew python@3.9
+brew qdbm
 brew qhull
 brew qrupdate
 brew qscintilla2
@@ -223,8 +230,10 @@ brew rav1e
 brew readline
 brew reattach-to-user-namespace
 brew ripgrep
+brew rocksdb
 brew rtmpdump
 brew rubberband
+brew samba
 brew scrcpy
 brew sdl2
 brew shared-mime-info
@@ -253,6 +262,7 @@ brew tokyo-cabinet
 brew trash
 brew unbound
 brew unixodbc
+brew usbredir
 brew utf8proc
 brew w3m
 brew webp
@@ -284,8 +294,9 @@ cask brave-browser-beta
 tap homebrew/services
 
 tap homebrew/cask
-cask alacritty
 cask android-platform-tools
+cask app-cleaner
+cask background-music
 cask bitwarden
 cask cloudflare-warp
 cask dozer
@@ -308,6 +319,7 @@ cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
+cask utm
 cask visual-studio-code
 cask zoom
 
@@ -325,16 +337,14 @@ tap xwmx/taps
 brew nb
 
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.0)
-appstore 405843582   Alfred                 (1.2)
-appstore 460883588   ATOK Pad               (2.0.7)
-appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 682658836   GarageBand             (10.4.5)
-appstore 1462114288  Grammarly for Safari   (9.53)
-appstore 408981434   iMovie                 (10.3.1)
-appstore 409183694   Keynote                (11.2)
-appstore 539883307   LINE                   (7.5.0)
-appstore 409203825   Numbers                (11.2)
-appstore 409201541   Pages                  (11.2)
-appstore 747648890   Telegram               (8.5)
-appstore 497799835   Xcode                  (13.2.1)
+appstore 892162982   7Zipブラウザ              (2.5.0)
+appstore 405843582   Alfred                (1.2)
+appstore 460883588   ATOK Pad              (2.0.7)
+appstore 682658836   GarageBand            (10.4.5)
+appstore 1462114288  Grammarly for Safari  (9.53)
+appstore 408981434   iMovie                (10.3.1)
+appstore 409183694   Keynote               (11.2)
+appstore 539883307   LINE                  (7.5.0)
+appstore 409201541   Pages                 (11.2)
+appstore 747648890   Telegram              (8.5)
+appstore 497799835   Xcode                 (13.2.1)
