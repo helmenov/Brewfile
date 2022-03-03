@@ -251,6 +251,7 @@ cask obs
 cask obs-virtualcam
 cask onyx
 cask postman
+cask shiftit
 cask slack
 cask texstudio
 cask thonny-xxl
