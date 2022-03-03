@@ -3,10 +3,13 @@
 
 tap homebrew/core
 brew aom
+brew arpack
+brew assimp
 brew autoconf
 brew automake
 brew bdw-gc
 brew brotli
+brew c-ares
 brew ca-certificates
 brew cairo
 brew cask
@@ -44,22 +47,33 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gl2ps
 brew glib
+brew glpk
+brew gmime
 brew gmp
 brew gnu-getopt
 brew gnu-sed
+brew gnupg
+brew gnuplot
 brew gnutls
 brew gobject-introspection
+brew gpgme
+brew graphicsmagick
 brew graphite2
 brew guile
 brew harfbuzz
+brew hdf5
+brew hunspell
 brew hwloc
 brew icu4c
+brew imagemagick
 brew imath
 brew isl
 brew jansson
 brew jasper
 brew jbig2dec
+brew jemalloc
 brew jpeg
 brew jpeg-xl
 brew json-c
@@ -67,18 +81,29 @@ brew lame
 brew leptonica
 brew libarchive
 brew libass
+brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libcerf
+brew libde265
+brew libev
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
+brew libheif
 brew libiconv
 brew libidn
 brew libidn2
+brew libksba
+brew liblqr
 brew libmagic
+brew libmng
 brew libmpc
 brew libnghttp2
 brew libogg
+brew libomp
 brew libpng
 brew libpthread-stubs
 brew librist
@@ -92,6 +117,7 @@ brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libvidstab
 brew libvmaf
 brew libvorbis
@@ -103,14 +129,18 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
+brew lua
 brew lz4
 brew lzo
 brew m4
 brew mas
 brew mbedtls
+brew md4c
 brew meson
+brew metis
 brew mpdecimal
 brew mpfr
+brew nasm
 brew ncurses
 brew netpbm
 brew nettle
@@ -126,11 +156,8 @@ brew nss
 brew octave
 brew oniguruma
 brew open-jtalk
-brew nasm
-brew netpbm
-brew nettle
-brew ninja
 brew open-mpi
+brew openblas
 brew opencore-amr
 brew openexr
 brew openjpeg
@@ -138,14 +165,19 @@ brew openldap
 brew openssl@1.1
 brew opus
 brew p11-kit
+brew pango
 brew pcre
 brew pcre2
+brew pinentry
 brew pixman
 brew pkg-config
+brew plotutils
 brew portaudio
 brew protobuf
 brew protobuf-c
+brew pstoedit
 brew pyenv
+brew pyqt@5
 brew python@3.10
 brew python@3.9
 brew qdbm
@@ -163,27 +195,30 @@ brew rtmpdump
 brew rubberband
 brew samba
 brew scrcpy
-brew rav1e
-brew readline
-brew rtmpdump
-brew rubberband
 brew sdl2
+brew shared-mime-info
 brew six
 brew snappy
 brew speex
 brew sqlite
 brew srt
+brew suite-sparse
+brew sundials
+brew szip
+brew talloc
 brew tesseract
+brew texinfo
 brew theora
 brew unbound
 brew unixodbc
 brew usbredir
 brew utf8proc
-brew w3m
 brew util-macros
+brew w3m
 brew webp
 brew x264
 brew x265
+brew xapian
 brew xmlto
 brew xorgproto
 brew xtrans
@@ -227,18 +262,9 @@ cask zoom
 tap rcmdnk/file
 brew brew-file
 
+tap tlk/imagemagick-x11
+
 # App Store applications
-appstore 892162982   7Zipブラウザ              (2.5.0)
-appstore 405843582   Alfred                (1.2)
-appstore 460883588   ATOK Pad              (2.0.7)
-appstore 682658836   GarageBand            (10.4.5)
-appstore 1462114288  Grammarly for Safari  (9.53)
-appstore 408981434   iMovie                (10.3.1)
-appstore 409183694   Keynote               (11.2)
-appstore 539883307   LINE                  (7.7.0)
-appstore 409201541   Pages                 (11.2)
-appstore 747648890   Telegram              (8.5)
-appstore 497799835   Xcode                 (13.2.1)
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
