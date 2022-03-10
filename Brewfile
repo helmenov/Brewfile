@@ -232,10 +232,12 @@ brew zeromq
 brew zimg
 brew zstd
 
+tap homebrew/cask-versions
+cask brave-browser-beta
+
 tap homebrew/cask
 cask app-cleaner
 cask background-music
-cask brave-browser
 cask cloudflare-warp
 cask dozer
 cask dropbox
