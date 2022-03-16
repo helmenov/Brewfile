@@ -129,6 +129,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
+brew llvm@11
 brew lmdb
 brew lua
 brew lz4
@@ -137,6 +138,8 @@ brew m4
 brew mas
 brew mbedtls
 brew md4c
+brew mecab
+brew mecab-ipadic
 brew meson
 brew metis
 brew mpdecimal
@@ -275,12 +278,12 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 682658836   GarageBand             (10.4.5)
+appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.54)
 appstore 408981434   iMovie                 (10.3.1)
 appstore 409183694   Keynote                (11.2)
 appstore 539883307   LINE                   (7.7.0)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
-appstore 747648890   Telegram               (8.5)
-appstore 497799835   Xcode                  (13.2.1)
+appstore 747648890   Telegram               (8.6)
+appstore 497799835   Xcode                  (13.3)
