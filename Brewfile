@@ -246,6 +246,7 @@ cask betterdiscord-installer
 cask cloudflare-warp
 cask dozer
 cask dropbox
+cask gimp
 cask google-chrome
 cask gpg-suite
 cask julia
