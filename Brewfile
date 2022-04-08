@@ -80,6 +80,7 @@ brew json-c
 brew krb5
 brew lame
 brew leptonica
+brew libaec
 brew libarchive
 brew libass
 brew libassuan
@@ -107,6 +108,7 @@ brew libogg
 brew libomp
 brew libpng
 brew libpthread-stubs
+brew libraw
 brew librist
 brew libsamplerate
 brew libsndfile
