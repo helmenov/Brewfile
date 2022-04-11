@@ -77,8 +77,10 @@ brew jemalloc
 brew jpeg
 brew jpeg-xl
 brew json-c
+brew krb5
 brew lame
 brew leptonica
+brew libaec
 brew libarchive
 brew libass
 brew libassuan
@@ -106,6 +108,7 @@ brew libogg
 brew libomp
 brew libpng
 brew libpthread-stubs
+brew libraw
 brew librist
 brew libsamplerate
 brew libsndfile
@@ -129,7 +132,6 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
-brew llvm@11
 brew lmdb
 brew lua
 brew lz4
@@ -138,8 +140,6 @@ brew m4
 brew mas
 brew mbedtls
 brew md4c
-brew mecab
-brew mecab-ipadic
 brew meson
 brew metis
 brew mpdecimal
@@ -244,10 +244,8 @@ tap homebrew/cask
 cask app-cleaner
 cask background-music
 cask betterdiscord-installer
-cask cloudflare-warp
 cask dozer
 cask dropbox
-cask gimp
 cask google-chrome
 cask gpg-suite
 cask julia
@@ -288,4 +286,4 @@ appstore 539883307   LINE                   (7.7.0)
 appstore 409203825   Numbers                (11.2)
 appstore 409201541   Pages                  (11.2)
 appstore 747648890   Telegram               (8.6)
-appstore 497799835   Xcode                  (13.3)
+appstore 497799835   Xcode                  (13.2.1)
