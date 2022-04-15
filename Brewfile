@@ -225,6 +225,7 @@ brew usbredir
 brew utf8proc
 brew util-macros
 brew w3m
+brew webp
 brew x264
 brew x265
 brew xapian
