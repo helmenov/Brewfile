@@ -247,7 +247,6 @@ tap homebrew/cask
 cask app-cleaner
 cask background-music
 cask betterdiscord-installer
-cask cloudflare-warp
 cask dozer
 cask dropbox
 cask gimp
