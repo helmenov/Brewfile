@@ -26,7 +26,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew epstool
 brew ffmpeg
 brew ffmpeg@4
@@ -260,19 +259,16 @@ cask macfuse
 cask mactex
 cask mamp
 cask mapture
-cask musescore
 cask nordvpn
 cask obs
 cask obs-virtualcam
 cask onyx
-cask postman
 cask shiftit
 cask slack
 cask texstudio
-cask thonny-xxl
 cask utm
 cask visual-studio-code
-cask webex-meetings
+cask webex
 cask zoom
 
 tap rcmdnk/file
@@ -290,7 +286,7 @@ appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.54)
 appstore 408981434   iMovie                 (10.3.2)
 appstore 409183694   Keynote                (12.0)
-appstore 539883307   LINE                   (7.7.0)
+appstore 539883307   LINE                   (7.8.0)
 appstore 1282504627  Mimeo Photos           (5.0.4)
 appstore 409203825   Numbers                (12.0)
 appstore 409201541   Pages                  (12.0)
