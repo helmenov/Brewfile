@@ -176,6 +176,7 @@ brew pango
 brew pcre
 brew pcre2
 brew pinentry
+brew pinfo
 brew pixman
 brew pkg-config
 brew plotutils
@@ -211,13 +212,13 @@ brew sqlite
 brew srt
 brew suite-sparse
 brew sundials
-brew szip
 brew talloc
 brew tcl-tk
 brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
+brew tree
 brew unbound
 brew unixodbc
 brew usbredir
@@ -247,6 +248,7 @@ tap homebrew/cask
 cask app-cleaner
 cask background-music
 cask betterdiscord-installer
+cask cloudflare-warp
 cask dozer
 cask dropbox
 cask gimp
@@ -274,6 +276,9 @@ tap rcmdnk/file
 brew brew-file
 
 tap tlk/imagemagick-x11
+
+# Other Homebrew packages
+brew szip
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
