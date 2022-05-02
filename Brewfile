@@ -245,7 +245,7 @@ cask brave-browser-beta
 cask discord-ptb
 
 tap homebrew/cask
-cask app-cleaner
+cask appcleaner
 cask background-music
 cask betterdiscord-installer
 cask cloudflare-warp
@@ -294,5 +294,5 @@ appstore 539883307   LINE                   (7.8.0)
 appstore 1282504627  Mimeo Photos           (5.0.4)
 appstore 409203825   Numbers                (12.0)
 appstore 409201541   Pages                  (12.0)
-appstore 747648890   Telegram               (8.6)
+appstore 747648890   Telegram               (8.7)
 appstore 497799835   Xcode                  (13.3.1)
