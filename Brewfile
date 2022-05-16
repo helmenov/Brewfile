@@ -260,6 +260,7 @@ cask macfuse
 cask mactex
 cask mamp
 cask mapture
+cask memory-cleaner
 cask nordvpn
 cask obs
 cask obs-virtualcam
