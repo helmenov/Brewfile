@@ -3,6 +3,8 @@
 
 tap homebrew/core
 brew aom
+brew apr
+brew apr-util
 brew arpack
 brew assimp
 brew autoconf
@@ -165,6 +167,7 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
+brew openjdk
 brew openjpeg
 brew openldap
 brew openssl@1.1
@@ -174,6 +177,7 @@ brew pango
 brew pcre
 brew pcre2
 brew pinentry
+brew pinentry-mac
 brew pixman
 brew pkg-config
 brew plotutils
@@ -199,6 +203,7 @@ brew rocksdb
 brew rtmpdump
 brew rubberband
 brew samba
+brew scons
 brew scrcpy
 brew sdl2
 brew shared-mime-info
@@ -207,9 +212,10 @@ brew snappy
 brew speex
 brew sqlite
 brew srt
+brew subversion
 brew suite-sparse
 brew sundials
-brew szip
+brew swig
 brew talloc
 brew tesseract
 brew texinfo
@@ -272,6 +278,9 @@ brew brew-file
 
 tap tlk/imagemagick-x11
 
+# Other Homebrew packages
+brew szip
+
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
@@ -280,9 +289,9 @@ appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.54)
 appstore 408981434   iMovie                 (10.3.1)
-appstore 409183694   Keynote                (11.2)
+appstore 409183694   Keynote                (12.0)
 appstore 539883307   LINE                   (7.7.0)
-appstore 409203825   Numbers                (11.2)
-appstore 409201541   Pages                  (11.2)
+appstore 409203825   Numbers                (12.0)
+appstore 409201541   Pages                  (12.0)
 appstore 747648890   Telegram               (8.6)
 appstore 497799835   Xcode                  (13.2.1)
