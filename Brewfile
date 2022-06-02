@@ -262,7 +262,6 @@ cask krisp
 cask macfuse
 cask mactex
 cask mamp
-cask mapture
 cask memory-cleaner
 cask nordvpn
 cask obs
@@ -285,12 +284,15 @@ tap tlk/imagemagick-x11
 # Other Homebrew packages
 brew szip
 
+# Other Cask applications
+cask mapture
+
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.3.4)
+appstore 503039729   Fotor Photo Editor     (4.3.6)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.57)
 appstore 408981434   iMovie                 (10.3.3)
