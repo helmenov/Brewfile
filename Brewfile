@@ -28,7 +28,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew epstool
 brew ffmpeg
 brew ffmpeg@4
@@ -134,6 +133,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
+brew llvm@11
 brew lmdb
 brew lua
 brew lz4
@@ -142,6 +142,8 @@ brew m4
 brew mas
 brew mbedtls
 brew md4c
+brew mecab
+brew mecab-ipadic
 brew meson
 brew metis
 brew mpdecimal
@@ -176,8 +178,8 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
-brew pinentry
 brew pinentry-mac
+brew pinfo
 brew pixman
 brew pkg-config
 brew plotutils
@@ -217,10 +219,12 @@ brew suite-sparse
 brew sundials
 brew swig
 brew talloc
+brew tcl-tk
 brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
+brew tree
 brew unbound
 brew unixodbc
 brew usbredir
@@ -228,6 +232,7 @@ brew utf8proc
 brew util-macros
 brew w3m
 brew webp
+brew wget
 brew x264
 brew x265
 brew xapian
@@ -237,6 +242,7 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
+brew youtubedr
 brew zeromq
 brew zimg
 brew zstd
@@ -246,31 +252,33 @@ cask brave-browser-beta
 cask discord-ptb
 
 tap homebrew/cask
-cask app-cleaner
+cask appcleaner
 cask background-music
 cask betterdiscord-installer
+cask cloudflare-warp
 cask dozer
 cask dropbox
+cask gimp
 cask google-chrome
 cask gpg-suite
+cask hammerspoon
 cask julia
 cask krisp
 cask macfuse
 cask mactex
 cask mamp
-cask mapture
-cask musescore
+cask memory-cleaner
 cask nordvpn
 cask obs
 cask obs-virtualcam
 cask onyx
-cask postman
 cask shiftit
 cask slack
 cask texstudio
-cask thonny-xxl
 cask utm
 cask visual-studio-code
+cask warp
+cask webex
 cask zoom
 
 tap rcmdnk/file
@@ -281,17 +289,24 @@ tap tlk/imagemagick-x11
 # Other Homebrew packages
 brew szip
 
+# Other Cask applications
+cask mapture
+
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
+appstore 503039729   Fotor Photo Editor     (4.3.6)
 appstore 682658836   GarageBand             (10.4.6)
-appstore 1462114288  Grammarly for Safari   (9.54)
-appstore 408981434   iMovie                 (10.3.1)
-appstore 409183694   Keynote                (12.0)
-appstore 539883307   LINE                   (7.7.0)
 appstore 409203825   Numbers                (12.0)
 appstore 409201541   Pages                  (12.0)
-appstore 747648890   Telegram               (8.6)
-appstore 497799835   Xcode                  (13.2.1)
+appstore 1462114288  Grammarly for Safari   (9.57)
+appstore 408981434   iMovie                 (10.3.3)
+appstore 409183694   Keynote                (12.0)
+appstore 539883307   LINE                   (7.8.1)
+appstore 1282504627  Mimeo Photos           (5.0.4)
+appstore 409203825   Numbers                (12.0)
+appstore 409201541   Pages                  (12.0)
+appstore 747648890   Telegram               (8.7.1)
+appstore 497799835   Xcode                  (13.4.1)
