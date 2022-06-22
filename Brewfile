@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew aom
+brew aria2
 brew arpack
 brew assimp
 brew autoconf
@@ -10,9 +11,12 @@ brew automake
 brew bdw-gc
 brew brotli
 brew c-ares
+brew c-blosc
 brew ca-certificates
+brew cabextract
 brew cairo
 brew cask
+brew cdrtools
 brew cjson
 brew clamav
 brew cmake
@@ -32,6 +36,7 @@ brew ffmpeg@4
 brew fftw
 brew fig2dev
 brew flac
+brew flake8
 brew fltk
 brew fluid-synth
 brew fontconfig
@@ -42,6 +47,7 @@ brew fribidi
 brew gcc
 brew gd
 brew gdbm
+brew gdk-pixbuf
 brew gettext
 brew gflags
 brew ghostscript
@@ -60,6 +66,8 @@ brew gobject-introspection
 brew gpgme
 brew graphicsmagick
 brew graphite2
+brew graphviz
+brew gts
 brew guile
 brew harfbuzz
 brew hdf5
@@ -88,6 +96,7 @@ brew libb2
 brew libbluray
 brew libcerf
 brew libde265
+brew libdeflate
 brew libev
 brew libevent
 brew libffi
@@ -109,6 +118,7 @@ brew libpng
 brew libpthread-stubs
 brew libraw
 brew librist
+brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -146,6 +156,7 @@ brew meson
 brew metis
 brew mpdecimal
 brew mpfr
+brew mypy
 brew nasm
 brew ncurses
 brew neomutt
@@ -228,6 +239,7 @@ brew util-macros
 brew w3m
 brew webp
 brew wget
+brew wimlib
 brew x264
 brew x265
 brew xapian
@@ -279,6 +291,8 @@ cask zoom
 tap rcmdnk/file
 brew brew-file
 
+tap sidneys/homebrew
+
 tap tlk/imagemagick-x11
 
 # Other Homebrew packages
@@ -292,12 +306,12 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 405843582   Alfred                 (1.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.3.6)
+appstore 503039729   Fotor Photo Editor     (4.3.7)
 appstore 682658836   GarageBand             (10.4.6)
-appstore 1462114288  Grammarly for Safari   (9.57)
+appstore 1462114288  Grammarly for Safari   (9.58)
 appstore 408981434   iMovie                 (10.3.3)
 appstore 409183694   Keynote                (12.0)
-appstore 539883307   LINE                   (7.8.1)
+appstore 539883307   LINE                   (7.9.0)
 appstore 1282504627  Mimeo Photos           (5.0.4)
 appstore 409203825   Numbers                (12.0)
 appstore 409201541   Pages                  (12.0)
