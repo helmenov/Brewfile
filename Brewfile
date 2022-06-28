@@ -32,7 +32,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew epstool
 brew ffmpeg
 brew ffmpeg@4
@@ -272,7 +271,6 @@ cask alfred
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
-cask cloudflare-warp
 cask dozer
 cask dropbox
 cask gimp
@@ -285,19 +283,14 @@ cask macfuse
 cask mactex
 cask mamp
 cask memory-cleaner
-cask musescore
 cask nordvpn
 cask obs
 cask obs-virtualcam
 cask onyx
-cask postman
-cask shiftit
 cask slack
 cask texstudio
-cask thonny-xxl
 cask utm
 cask visual-studio-code
-cask warp
 cask webex
 cask zoom
 
