@@ -257,7 +257,6 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
-brew youtubedr
 brew zeromq
 brew zimg
 brew zstd
