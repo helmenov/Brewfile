@@ -11,6 +11,7 @@ brew assimp
 brew autoconf
 brew automake
 brew bdw-gc
+brew blahtexml
 brew brotli
 brew c-ares
 brew c-blosc
@@ -251,6 +252,7 @@ brew wimlib
 brew x264
 brew x265
 brew xapian
+brew xerces-c
 brew xmlto
 brew xorgproto
 brew xtrans
