@@ -289,6 +289,7 @@ cask obs
 cask obs-virtualcam
 cask onyx
 cask slack
+cask supercollider
 cask texstudio
 cask utm
 cask visual-studio-code
