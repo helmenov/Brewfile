@@ -58,6 +58,7 @@ brew giflib
 brew gl2ps
 brew glib
 brew glpk
+brew glslang
 brew gmime
 brew gmp
 brew gnu-getopt
