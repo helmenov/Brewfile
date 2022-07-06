@@ -11,6 +11,7 @@ brew assimp
 brew autoconf
 brew automake
 brew bdw-gc
+brew black
 brew blahtexml
 brew brotli
 brew c-ares
