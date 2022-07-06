@@ -270,6 +270,7 @@ cask discord-ptb
 tap homebrew/cask
 cask alfred
 cask appcleaner
+cask atom
 cask background-music
 cask betterdiscord-installer
 cask dozer
@@ -322,5 +323,5 @@ appstore 539883307   LINE                   (7.9.0)
 appstore 1282504627  Mimeo Photos           (5.0.4)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (8.7.1)
+appstore 747648890   Telegram               (8.8)
 appstore 497799835   Xcode                  (13.4.1)
