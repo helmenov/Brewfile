@@ -58,7 +58,6 @@ brew giflib
 brew gl2ps
 brew glib
 brew glpk
-brew glslang
 brew gmime
 brew gmp
 brew gnu-getopt
@@ -271,7 +270,6 @@ cask discord-ptb
 tap homebrew/cask
 cask alfred
 cask appcleaner
-cask atom
 cask background-music
 cask betterdiscord-installer
 cask dozer
