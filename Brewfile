@@ -314,7 +314,7 @@ cask mapture
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.3.9)
+appstore 503039729   Fotor Photo Editor     (4.4.0)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.58)
 appstore 408981434   iMovie                 (10.3.3)
