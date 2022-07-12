@@ -192,6 +192,7 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pgpdump
 brew pinentry
 brew pinentry-mac
 brew pinfo
