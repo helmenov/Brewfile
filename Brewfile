@@ -25,7 +25,6 @@ brew cjson
 brew clamav
 brew cmake
 brew cmocka
-brew code-server
 brew compface
 brew coreutils
 brew curl
