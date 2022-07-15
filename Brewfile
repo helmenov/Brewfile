@@ -131,6 +131,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
 brew libvidstab
 brew libvmaf
 brew libvorbis
@@ -163,6 +164,7 @@ brew nghttp2
 brew ninja
 brew nkf
 brew nmap
+brew node@16
 brew nodebrew
 brew notmuch
 brew npth
@@ -183,6 +185,7 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pgpdump
 brew pinentry
 brew pinentry-mac
 brew pixman
@@ -299,6 +302,10 @@ cask mapture
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
+<<<<<<< HEAD
+=======
+appstore 503039729   Fotor Photo Editor     (4.4.1)
+>>>>>>> 3eb16ffe25d233d5f9b7c22b991d1440b3ad2d0c
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.58)
 appstore 408981434   iMovie                 (10.3.3)
