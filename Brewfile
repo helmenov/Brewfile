@@ -254,6 +254,7 @@ brew zimg
 brew zstd
 
 tap homebrew/cask-versions
+cask alfred4
 cask brave-browser-beta
 cask discord-ptb
 
