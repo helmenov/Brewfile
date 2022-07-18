@@ -34,6 +34,7 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
+brew emacs
 brew epstool
 brew ffmpeg
 brew ffmpeg@4
@@ -68,10 +69,7 @@ brew gnuplot
 brew gnutls
 brew gobject-introspection
 brew gpgme
-brew graphicsmagick
 brew graphite2
-brew graphviz
-brew gts
 brew guile
 brew harfbuzz
 brew hdf5
@@ -101,7 +99,6 @@ brew libb2
 brew libbluray
 brew libcerf
 brew libde265
-brew libdeflate
 brew libev
 brew libevent
 brew libffi
@@ -123,7 +120,6 @@ brew libpng
 brew libpthread-stubs
 brew libraw
 brew librist
-brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -147,7 +143,6 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
-brew llvm@11
 brew lmdb
 brew lua
 brew lz4
@@ -156,13 +151,10 @@ brew m4
 brew mas
 brew mbedtls
 brew md4c
-brew mecab
-brew mecab-ipadic
 brew meson
 brew metis
 brew mpdecimal
 brew mpfr
-brew mypy
 brew nasm
 brew ncurses
 brew neomutt
@@ -178,7 +170,6 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
-brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -197,7 +188,6 @@ brew pcre2
 brew pgpdump
 brew pinentry
 brew pinentry-mac
-brew pinfo
 brew pixman
 brew pkg-config
 brew plotutils
@@ -237,12 +227,10 @@ brew subversion
 brew suite-sparse
 brew sundials
 brew talloc
-brew tcl-tk
 brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
-brew tree
 brew unbound
 brew unixodbc
 brew usbredir
@@ -250,7 +238,6 @@ brew utf8proc
 brew util-macros
 brew w3m
 brew webp
-brew wget
 brew wimlib
 brew x264
 brew x265
@@ -267,11 +254,11 @@ brew zimg
 brew zstd
 
 tap homebrew/cask-versions
+cask alfred4
 cask brave-browser-beta
 cask discord-ptb
 
 tap homebrew/cask
-cask alfred
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
@@ -314,15 +301,13 @@ cask mapture
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
-appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.59)
-appstore 408981434   iMovie                 (10.3.3)
 appstore 409183694   Keynote                (12.1)
 appstore 539883307   LINE                   (7.9.0)
 appstore 530194517   MachineProfile         (1.4.13)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (8.8.1)
-appstore 497799835   Xcode                  (13.4.1)
+appstore 747648890   Telegram               (8.7.1)
+appstore 497799835   Xcode                  (13.2.1)
