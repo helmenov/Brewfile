@@ -287,6 +287,7 @@ cask krisp
 cask macfuse
 cask mactex
 cask mamp
+cask mattermost
 cask memory-cleaner
 cask nordvpn
 cask obs
