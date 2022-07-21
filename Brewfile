@@ -272,6 +272,7 @@ cask brave-browser-beta
 cask discord-ptb
 
 tap homebrew/cask
+cask alfred
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
