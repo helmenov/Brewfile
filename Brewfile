@@ -178,7 +178,6 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
-brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
