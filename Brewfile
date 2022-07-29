@@ -32,6 +32,7 @@ brew dav1d
 brew dbus
 brew docbook
 brew docbook-xsl
+brew docker
 brew double-conversion
 brew eigen
 brew emacs
