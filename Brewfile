@@ -68,7 +68,6 @@ brew gnuplot
 brew gnutls
 brew gobject-introspection
 brew gpgme
-brew graphicsmagick
 brew graphite2
 brew graphviz
 brew gts
@@ -178,7 +177,6 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
-brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -325,4 +323,4 @@ appstore 530194517   MachineProfile         (1.4.13)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
 appstore 747648890   Telegram               (8.8.1)
-appstore 497799835   Xcode                  (13.4.1)
+appstore 497799835   Xcode                  (13.2.1)
