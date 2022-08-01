@@ -268,6 +268,9 @@ brew zeromq
 brew zimg
 brew zstd
 
+tap homebrew/cask-fonts
+cask font-fira-code
+
 tap homebrew/cask-versions
 cask brave-browser-beta
 cask discord-ptb
