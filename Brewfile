@@ -32,6 +32,7 @@ brew dav1d
 brew dbus
 brew docbook
 brew docbook-xsl
+brew docker
 brew double-conversion
 brew eigen
 brew emacs
@@ -69,6 +70,7 @@ brew gnuplot
 brew gnutls
 brew gobject-introspection
 brew gpgme
+brew graphicsmagick
 brew graphite2
 brew graphviz
 brew gts
@@ -178,6 +180,7 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
+brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -265,6 +268,9 @@ brew zeromq
 brew zimg
 brew zstd
 
+tap homebrew/cask-fonts
+cask font-fira-code
+
 tap homebrew/cask-versions
 cask brave-browser-beta
 cask discord-ptb
@@ -285,11 +291,13 @@ cask krisp
 cask macfuse
 cask mactex
 cask mamp
+cask mattermost
 cask memory-cleaner
 cask nordvpn
 cask obs
 cask obs-virtualcam
 cask onyx
+cask quarto
 cask slack
 cask supercollider
 cask texstudio
@@ -314,13 +322,15 @@ cask mapture
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
+appstore 503039729   Fotor Photo Editor     (4.4.3)
 appstore 682658836   GarageBand             (10.4.6)
-appstore 1462114288  Grammarly for Safari   (9.59)
+appstore 1462114288  Grammarly for Safari   (9.60)
 appstore 408981434   iMovie                 (10.3.3)
 appstore 409183694   Keynote                (12.1)
-appstore 539883307   LINE                   (7.9.0)
+appstore 539883307   LINE                   (7.10.1)
 appstore 530194517   MachineProfile         (1.4.13)
+appstore 1282504627  Mimeo Photos           (5.1.0)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
 appstore 747648890   Telegram               (8.8.1)
-appstore 497799835   Xcode                  (13.2.1)
+appstore 497799835   Xcode                  (13.4.1)
