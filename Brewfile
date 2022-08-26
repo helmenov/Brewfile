@@ -280,6 +280,7 @@ cask alfred
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
+cask chrome-remote-desktop-host
 cask dozer
 cask dropbox
 cask gimp
