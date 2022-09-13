@@ -94,6 +94,7 @@ brew jpeg-xl
 brew json-c
 brew krb5
 brew lame
+brew lapack
 brew leptonica
 brew libaec
 brew libarchive
