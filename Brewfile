@@ -194,8 +194,10 @@ brew openjdk
 brew openjpeg
 brew openldap
 brew openssl@1.1
+brew openssl@3
 brew opus
 brew p11-kit
+brew pandoc
 brew pango
 brew pcre
 brew pcre2
@@ -338,4 +340,4 @@ appstore 1282504627  Mimeo Photos           (5.1.0)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
 appstore 747648890   Telegram               (8.9)
-appstore 497799835   Xcode                  (13.4.1)
+appstore 497799835   Xcode                  (14.0)
