@@ -219,6 +219,7 @@ brew python@3.10
 brew python@3.9
 brew qdbm
 brew qhull
+brew qpdf
 brew qrupdate
 brew qscintilla2
 brew qt
