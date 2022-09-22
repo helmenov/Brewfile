@@ -342,10 +342,5 @@ appstore 530194517   MachineProfile         (1.4.14)
 appstore 1282504627  Mimeo Photos           (5.1.1)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-<<<<<<< HEAD
 appstore 747648890   Telegram               (9.0)
 appstore 497799835   Xcode                  (14.0)
-=======
-appstore 747648890   Telegram               (8.9)
-appstore 497799835   Xcode                  (13.2.1)
->>>>>>> 4ac01012afac78f20c6fb80898b14f25cc49c865
