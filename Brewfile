@@ -84,6 +84,7 @@ brew icu4c
 brew imagemagick
 brew imath
 brew isl
+brew isort
 brew jansson
 brew jasper
 brew jbig2dec
@@ -336,10 +337,10 @@ appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.62)
 appstore 408981434   iMovie                 (10.3.4)
 appstore 409183694   Keynote                (12.1)
-appstore 539883307   LINE                   (7.11.0)
+appstore 539883307   LINE                   (7.11.1)
 appstore 530194517   MachineProfile         (1.4.14)
-appstore 1282504627  Mimeo Photos           (5.1.0)
+appstore 1282504627  Mimeo Photos           (5.1.1)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (8.9)
+appstore 747648890   Telegram               (9.0)
 appstore 497799835   Xcode                  (14.0)
