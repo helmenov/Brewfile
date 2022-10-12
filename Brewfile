@@ -294,6 +294,7 @@ cask chrome-remote-desktop-host
 cask dozer
 cask dropbox
 cask gimp
+cask google-chrome
 cask gpg-suite
 cask hammerspoon
 cask julia
