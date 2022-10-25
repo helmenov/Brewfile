@@ -318,6 +318,9 @@ cask visual-studio-code
 cask webex
 cask zoom
 
+tap pirj/noclamshell
+brew noclamshell
+
 tap rcmdnk/file
 brew brew-file
 
