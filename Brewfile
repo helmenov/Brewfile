@@ -94,6 +94,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew json-c
+brew julia
 brew krb5
 brew lame
 brew lapack
@@ -112,6 +113,7 @@ brew libev
 brew libevent
 brew libffi
 brew libgcrypt
+brew libgit2
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -163,6 +165,7 @@ brew lzo
 brew m4
 brew mas
 brew mbedtls
+brew mbedtls@2
 brew md4c
 brew mecab
 brew mecab-ipadic
@@ -196,10 +199,12 @@ brew openexr
 brew openjdk
 brew openjpeg
 brew openldap
+brew openlibm
 brew openssl@1.1
 brew openssl@3
 brew opus
 brew p11-kit
+brew p7zip
 brew pandoc
 brew pango
 brew pcre
