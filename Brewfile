@@ -300,7 +300,6 @@ cask gimp
 cask google-chrome
 cask gpg-suite
 cask hammerspoon
-cask julia
 cask krisp
 cask macfuse
 cask mactex
