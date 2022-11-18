@@ -336,9 +336,6 @@ tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
 
-# Other Homebrew packages
-brew szip
-
 # Other Cask applications
 cask mapture
 
