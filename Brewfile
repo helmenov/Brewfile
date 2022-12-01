@@ -163,6 +163,7 @@ brew lua@5.3
 brew lz4
 brew lzo
 brew m4
+brew mad
 brew mas
 brew mbedtls
 brew mbedtls@2
@@ -173,6 +174,7 @@ brew meson
 brew metis
 brew mpdecimal
 brew mpfr
+brew mpg123
 brew mypy
 brew nasm
 brew ncurses
@@ -203,6 +205,7 @@ brew openlibm
 brew openssl@1.1
 brew openssl@3
 brew opus
+brew opusfile
 brew p11-kit
 brew p7zip
 brew pandoc
@@ -248,6 +251,7 @@ brew sdl2
 brew shared-mime-info
 brew six
 brew snappy
+brew sox
 brew speex
 brew sqlite
 brew srt
