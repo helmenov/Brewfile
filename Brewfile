@@ -142,6 +142,7 @@ brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
+brew libunibreak
 brew libunistring
 brew libusb
 brew libuv
