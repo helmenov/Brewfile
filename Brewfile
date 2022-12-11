@@ -322,6 +322,7 @@ cask mamp
 cask mattermost
 cask memory-cleaner
 cask nordvpn
+cask notion-enhanced
 cask obs
 cask obs-virtualcam
 cask onyx
