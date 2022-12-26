@@ -307,7 +307,6 @@ cask background-music
 cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
-cask cleanshot
 cask discord
 cask dozer
 cask dropbox
