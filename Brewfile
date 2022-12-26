@@ -319,6 +319,7 @@ cask gpg-suite
 cask hammerspoon
 cask julia
 cask krisp
+cask maccy
 cask macfuse
 cask mactex
 cask mamp
