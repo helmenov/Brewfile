@@ -301,6 +301,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask alfred
+cask alt-tab
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
