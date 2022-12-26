@@ -326,6 +326,7 @@ cask memory-cleaner
 cask moom
 cask nordvpn
 cask notion-enhanced
+cask numi
 cask obs
 cask obs-virtualcam
 cask onyx
