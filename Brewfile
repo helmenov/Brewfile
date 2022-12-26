@@ -305,6 +305,7 @@ cask alt-tab
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
+cask cheatsheet
 cask chrome-remote-desktop-host
 cask discord
 cask dozer
