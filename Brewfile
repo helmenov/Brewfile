@@ -76,6 +76,7 @@ brew gpgme
 brew graphicsmagick
 brew graphite2
 brew graphviz
+brew gsl
 brew gts
 brew guile
 brew harfbuzz
