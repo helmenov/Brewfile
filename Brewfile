@@ -14,6 +14,7 @@ brew bdw-gc
 brew bison
 brew black
 brew blahtexml
+brew boost
 brew brotli
 brew c-ares
 brew c-blosc
