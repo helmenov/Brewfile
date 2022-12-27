@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew ampl-mp
 brew aom
 brew apr
 brew apr-util
@@ -85,6 +86,7 @@ brew hwloc
 brew icu4c
 brew imagemagick
 brew imath
+brew ipopt
 brew isl
 brew isort
 brew jansson
