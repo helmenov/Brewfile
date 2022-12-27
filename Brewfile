@@ -30,6 +30,7 @@ brew cmake
 brew cmocka
 brew compface
 brew coreutils
+brew criterion
 brew curl
 brew dav1d
 brew dbus
@@ -181,6 +182,7 @@ brew mpdecimal
 brew mpfr
 brew mpg123
 brew mypy
+brew nanomsg
 brew nasm
 brew ncurses
 brew neomutt
