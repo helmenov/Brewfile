@@ -347,6 +347,9 @@ cask visual-studio-code
 cask webex
 cask zoom
 
+tap helmenov/tap
+cask f3xswift
+
 tap pirj/noclamshell
 brew noclamshell
 
