@@ -306,6 +306,7 @@ cask discord-ptb
 tap homebrew/services
 
 tap homebrew/cask
+cask airserver
 cask alfred
 cask alt-tab
 cask appcleaner
