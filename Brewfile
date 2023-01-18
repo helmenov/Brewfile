@@ -7,6 +7,7 @@ brew aom
 brew apr
 brew apr-util
 brew aria2
+brew aribb24
 brew arpack
 brew assimp
 brew autoconf
@@ -227,6 +228,7 @@ brew pixman
 brew pkg-config
 brew plotutils
 brew poppler
+brew popt
 brew portaudio
 brew protobuf
 brew protobuf-c
@@ -265,6 +267,7 @@ brew srt
 brew subversion
 brew suite-sparse
 brew sundials
+brew svt-av1
 brew swig
 brew talloc
 brew tcl-tk
@@ -331,6 +334,7 @@ cask macfuse
 cask mactex
 cask mamp
 cask mattermost
+cask meld
 cask memory-cleaner
 cask moom
 cask nordvpn
@@ -367,8 +371,9 @@ cask mapture
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
+appstore 1193539993  Brother iPrint&Scan    (10.2.0)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.5.5)
+appstore 503039729   Fotor Photo Editor     (4.5.6)
 appstore 682658836   GarageBand             (10.4.7)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
@@ -378,5 +383,5 @@ appstore 530194517   MachineProfile         (1.4.16)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
-appstore 747648890   Telegram               (9.2.1)
+appstore 747648890   Telegram               (9.3)
 appstore 497799835   Xcode                  (14.2)
