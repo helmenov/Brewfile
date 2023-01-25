@@ -6,6 +6,7 @@ brew aom
 brew apr
 brew apr-util
 brew aria2
+brew aribb24
 brew arpack
 brew assimp
 brew autoconf
@@ -38,8 +39,6 @@ brew double-conversion
 brew eigen
 brew emacs
 brew epstool
-brew ffmpeg
-brew ffmpeg@4
 brew fftw
 brew fig2dev
 brew flac
@@ -47,7 +46,6 @@ brew flake8
 brew fltk
 brew fluid-synth
 brew fontconfig
-brew freetds
 brew freetype
 brew frei0r
 brew fribidi
@@ -60,7 +58,6 @@ brew gflags
 brew ghostscript
 brew giflib
 brew gl2ps
-brew glib
 brew glpk
 brew gmime
 brew gmp
@@ -73,16 +70,13 @@ brew gobject-introspection
 brew gpgme
 brew graphicsmagick
 brew graphite2
-brew graphviz
 brew gts
 brew guile
-brew harfbuzz
 brew hdf5
 brew highway
 brew hunspell
 brew hwloc
 brew icu4c
-brew imagemagick
 brew imath
 brew isl
 brew isort
@@ -150,12 +144,10 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
-brew libx11
 brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxrender
 brew little-cms2
 brew llvm@11
 brew lmdb
@@ -192,7 +184,6 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
-brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -220,7 +211,7 @@ brew pinfo
 brew pixman
 brew pkg-config
 brew plotutils
-brew poppler
+brew popt
 brew portaudio
 brew protobuf
 brew protobuf-c
@@ -235,7 +226,6 @@ brew qhull
 brew qpdf
 brew qrupdate
 brew qscintilla2
-brew qt
 brew qt@5
 brew rav1e
 brew readline
@@ -247,7 +237,6 @@ brew rubberband
 brew rust
 brew samba
 brew scons
-brew scrcpy
 brew sdl2
 brew shared-mime-info
 brew six
@@ -262,8 +251,6 @@ brew sundials
 brew swig
 brew talloc
 brew tcl-tk
-brew tesseract
-brew texinfo
 brew theora
 brew tokyo-cabinet
 brew tree
@@ -355,15 +342,15 @@ cask mapture
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.5.4)
+appstore 503039729   Fotor Photo Editor     (4.5.6)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (12.1)
 appstore 539883307   LINE                   (7.14.1)
-appstore 530194517   MachineProfile         (1.4.15)
+appstore 530194517   MachineProfile         (1.4.16)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (9.2.1)
+appstore 747648890   Telegram               (9.3)
 appstore 497799835   Xcode                  (13.2.1)
