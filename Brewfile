@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew ampl-mp
 brew aom
 brew apr
 brew apr-util
@@ -15,6 +16,7 @@ brew bdw-gc
 brew bison
 brew black
 brew blahtexml
+brew boost
 brew brotli
 brew c-ares
 brew c-blosc
@@ -29,6 +31,7 @@ brew cmake
 brew cmocka
 brew compface
 brew coreutils
+brew criterion
 brew curl
 brew dav1d
 brew dbus
@@ -70,6 +73,11 @@ brew gobject-introspection
 brew gpgme
 brew graphicsmagick
 brew graphite2
+<<<<<<< HEAD
+=======
+brew graphviz
+brew gsl
+>>>>>>> 290b415b8bda4ddb24ae12b65eed10a687e1adad
 brew gts
 brew guile
 brew hdf5
@@ -78,6 +86,7 @@ brew hunspell
 brew hwloc
 brew icu4c
 brew imath
+brew ipopt
 brew isl
 brew isort
 brew jansson
@@ -169,6 +178,7 @@ brew mpdecimal
 brew mpfr
 brew mpg123
 brew mypy
+brew nanomsg
 brew nasm
 brew ncurses
 brew neomutt
@@ -287,15 +297,19 @@ cask discord-ptb
 tap homebrew/services
 
 tap homebrew/cask
+cask airserver
 cask alfred
+cask alt-tab
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
+cask cheatsheet
 cask chrome-remote-desktop-host
 cask discord
 cask dozer
 cask dropbox
 cask dropbox-capture
+cask dropzone
 cask finch
 cask gimp
 cask google-chrome
@@ -303,13 +317,16 @@ cask gpg-suite
 cask hammerspoon
 cask julia
 cask krisp
+cask maccy
 cask macfuse
 cask mactex
 cask mamp
 cask mattermost
 cask memory-cleaner
+cask moom
 cask nordvpn
 cask notion-enhanced
+cask numi
 cask obs
 cask obs-virtualcam
 cask onyx
@@ -322,6 +339,9 @@ cask visual-studio-code
 cask webex
 cask zoom
 
+tap helmenov/tap
+cask f3xswift
+
 tap pirj/noclamshell
 brew noclamshell
 
@@ -332,9 +352,6 @@ tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
 
-# Other Homebrew packages
-brew szip
-
 # Other Cask applications
 cask mapture
 
@@ -342,15 +359,27 @@ cask mapture
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
+<<<<<<< HEAD
 appstore 503039729   Fotor Photo Editor     (4.5.6)
 appstore 682658836   GarageBand             (10.4.6)
+=======
+appstore 503039729   Fotor Photo Editor     (4.5.5)
+appstore 682658836   GarageBand             (10.4.7)
+>>>>>>> 290b415b8bda4ddb24ae12b65eed10a687e1adad
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
-appstore 409183694   Keynote                (12.1)
+appstore 409183694   Keynote                (12.2.1)
 appstore 539883307   LINE                   (7.14.1)
 appstore 530194517   MachineProfile         (1.4.16)
 appstore 1282504627  Mimeo Photos           (5.1.4)
+<<<<<<< HEAD
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
 appstore 747648890   Telegram               (9.3)
 appstore 497799835   Xcode                  (13.2.1)
+=======
+appstore 409203825   Numbers                (12.2.1)
+appstore 409201541   Pages                  (12.2.1)
+appstore 747648890   Telegram               (9.2.1)
+appstore 497799835   Xcode                  (14.2)
+>>>>>>> 290b415b8bda4ddb24ae12b65eed10a687e1adad
