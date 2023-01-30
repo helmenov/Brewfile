@@ -234,6 +234,7 @@ brew protobuf
 brew protobuf-c
 brew pstoedit
 brew pyenv
+brew pyqt
 brew pyqt@5
 brew python@3.10
 brew python@3.11
@@ -245,6 +246,7 @@ brew qrupdate
 brew qscintilla2
 brew qt
 brew qt@5
+brew rapidjson
 brew rav1e
 brew readline
 brew reattach-to-user-namespace
@@ -342,7 +344,6 @@ cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
-cask onyx
 cask quarto
 cask slack
 cask supercollider
