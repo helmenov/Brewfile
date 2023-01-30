@@ -42,8 +42,6 @@ brew double-conversion
 brew eigen
 brew emacs
 brew epstool
-brew ffmpeg
-brew ffmpeg@4
 brew fftw
 brew fig2dev
 brew flac
@@ -51,7 +49,6 @@ brew flake8
 brew fltk
 brew fluid-synth
 brew fontconfig
-brew freetds
 brew freetype
 brew frei0r
 brew fribidi
@@ -87,7 +84,6 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c
-brew imagemagick
 brew imath
 brew ipopt
 brew isl
@@ -199,7 +195,6 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
-brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -227,7 +222,10 @@ brew pinfo
 brew pixman
 brew pkg-config
 brew plotutils
+<<<<<<< HEAD
 brew poppler
+=======
+>>>>>>> 5e1476854e22b1fd149f3e104d84245bcbb36eef
 brew popt
 brew portaudio
 brew protobuf
@@ -244,7 +242,6 @@ brew qhull
 brew qpdf
 brew qrupdate
 brew qscintilla2
-brew qt
 brew qt@5
 brew rapidjson
 brew rav1e
@@ -257,7 +254,6 @@ brew rubberband
 brew rust
 brew samba
 brew scons
-brew scrcpy
 brew sdl2
 brew shared-mime-info
 brew six
@@ -273,8 +269,6 @@ brew svt-av1
 brew swig
 brew talloc
 brew tcl-tk
-brew tesseract
-brew texinfo
 brew theora
 brew tokyo-cabinet
 brew tree
@@ -375,14 +369,25 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.2.0)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
 appstore 503039729   Fotor Photo Editor     (4.5.6)
+<<<<<<< HEAD
 appstore 682658836   GarageBand             (10.4.7)
+=======
+appstore 682658836   GarageBand             (10.4.6)
+>>>>>>> 5e1476854e22b1fd149f3e104d84245bcbb36eef
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
-appstore 409183694   Keynote                (12.2.1)
+appstore 409183694   Keynote                (12.1)
 appstore 539883307   LINE                   (7.14.1)
 appstore 530194517   MachineProfile         (1.4.16)
 appstore 1282504627  Mimeo Photos           (5.1.4)
+<<<<<<< HEAD
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
 appstore 747648890   Telegram               (9.3)
 appstore 497799835   Xcode                  (14.2)
+=======
+appstore 409203825   Numbers                (12.1)
+appstore 409201541   Pages                  (12.1)
+appstore 747648890   Telegram               (9.3.1)
+appstore 497799835   Xcode                  (13.2.1)
+>>>>>>> 5e1476854e22b1fd149f3e104d84245bcbb36eef
