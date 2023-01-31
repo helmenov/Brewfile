@@ -339,7 +339,6 @@ cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
-cask onyx
 cask quarto
 cask slack
 cask supercollider
