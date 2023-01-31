@@ -196,6 +196,7 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
+brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -268,6 +269,7 @@ brew svt-av1
 brew swig
 brew talloc
 brew tcl-tk
+brew texinfo
 brew theora
 brew tokyo-cabinet
 brew tree
@@ -365,9 +367,9 @@ cask mapture
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
-appstore 1193539993  Brother iPrint&Scan    (10.2.0)
+appstore 1193539993  Brother iPrint&Scan    (10.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.9.1)
-appstore 503039729   Fotor Photo Editor     (4.5.6)
+appstore 503039729   Fotor Photo Editor     (4.5.7)
 appstore 682658836   GarageBand             (10.4.7)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
