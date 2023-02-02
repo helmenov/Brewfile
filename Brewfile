@@ -317,6 +317,7 @@ cask background-music
 cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
+cask deepl
 cask discord
 cask dozer
 cask dropbox
