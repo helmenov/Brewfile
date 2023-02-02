@@ -9,6 +9,7 @@ brew apr-util
 brew aria2
 brew aribb24
 brew arpack
+brew aspell
 brew assimp
 brew autoconf
 brew automake
@@ -41,6 +42,7 @@ brew docker
 brew double-conversion
 brew eigen
 brew emacs
+brew enchant
 brew epstool
 brew fftw
 brew fig2dev
