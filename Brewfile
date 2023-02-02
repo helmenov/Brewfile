@@ -204,6 +204,7 @@ brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
+brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
@@ -217,6 +218,7 @@ brew pandoc
 brew pango
 brew pcre
 brew pcre2
+brew pdftk-java
 brew pgpdump
 brew pinentry
 brew pinentry-mac
