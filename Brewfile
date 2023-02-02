@@ -118,6 +118,7 @@ brew libffi
 brew libgcrypt
 brew libgit2
 brew libgpg-error
+brew libgsf
 brew libheif
 brew libiconv
 brew libidn
