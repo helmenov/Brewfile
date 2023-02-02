@@ -269,6 +269,7 @@ brew svt-av1
 brew swig
 brew talloc
 brew tcl-tk
+brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
@@ -375,7 +376,7 @@ appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (12.2.1)
 appstore 539883307   LINE                   (7.14.1)
-appstore 530194517   MachineProfile         (1.4.16)
+appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
