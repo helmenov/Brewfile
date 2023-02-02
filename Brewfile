@@ -154,6 +154,7 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
+brew libwmf
 brew libx11
 brew libxau
 brew libxcb
@@ -286,6 +287,7 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
+brew wv
 brew x264
 brew x265
 brew xapian
