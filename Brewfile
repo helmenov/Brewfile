@@ -90,6 +90,7 @@ brew imagemagick
 brew imath
 brew ipopt
 brew isl
+brew iso-codes
 brew isort
 brew jansson
 brew jasper
@@ -99,6 +100,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew json-c
+brew json-glib
 brew julia
 brew krb5
 brew lame
@@ -118,6 +120,7 @@ brew libev
 brew libevent
 brew libffi
 brew libgcrypt
+brew libgda
 brew libgit2
 brew libgpg-error
 brew libgsf
