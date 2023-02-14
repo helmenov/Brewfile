@@ -362,8 +362,6 @@ cask zoom
 tap helmenov/tap
 cask f3xswift
 
-brew noclamshell
-
 tap rcmdnk/file
 brew brew-file
 
