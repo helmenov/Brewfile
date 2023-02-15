@@ -72,6 +72,7 @@ brew gnu-sed
 brew gnupg
 brew gnuplot
 brew gnutls
+brew go
 brew gobject-introspection
 brew gpgme
 brew graphicsmagick
