@@ -309,6 +309,7 @@ brew zstd
 
 tap homebrew/cask-fonts
 cask font-fira-code
+cask font-udev-gothic
 
 tap homebrew/cask-versions
 cask brave-browser-beta
