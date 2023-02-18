@@ -9,6 +9,7 @@ brew apr-util
 brew aria2
 brew aribb24
 brew arpack
+brew aspell
 brew assimp
 brew autoconf
 brew automake
@@ -40,6 +41,7 @@ brew docker
 brew double-conversion
 brew eigen
 brew emacs
+brew enchant
 brew epstool
 brew fftw
 brew fig2dev
@@ -87,6 +89,7 @@ brew imagemagick
 brew imath
 brew ipopt
 brew isl
+brew iso-codes
 brew isort
 brew jansson
 brew jasper
@@ -96,6 +99,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew json-c
+brew json-glib
 brew julia
 brew krb5
 brew lame
@@ -115,8 +119,10 @@ brew libev
 brew libevent
 brew libffi
 brew libgcrypt
+brew libgda
 brew libgit2
 brew libgpg-error
+brew libgsf
 brew libheif
 brew libiconv
 brew libidn
@@ -152,6 +158,7 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
+brew libwmf
 brew libx11
 brew libxau
 brew libxcb
@@ -195,6 +202,7 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
+brew octave
 brew oniguruma
 brew open-jtalk
 brew open-mpi
@@ -202,6 +210,7 @@ brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
+brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
@@ -215,6 +224,7 @@ brew pandoc
 brew pango
 brew pcre
 brew pcre2
+brew pdftk-java
 brew pgpdump
 brew pinentry
 brew pinentry-mac
@@ -267,6 +277,8 @@ brew svt-av1
 brew swig
 brew talloc
 brew tcl-tk
+brew tesseract
+brew texinfo
 brew theora
 brew tokyo-cabinet
 brew tree
@@ -279,6 +291,7 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
+brew wv
 brew x264
 brew x265
 brew xapian
@@ -295,6 +308,7 @@ brew zstd
 
 tap homebrew/cask-fonts
 cask font-fira-code
+cask font-udev-gothic
 
 tap homebrew/cask-versions
 cask brave-browser-beta
@@ -311,10 +325,10 @@ cask background-music
 cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
+cask deepl
 cask discord
 cask dozer
 cask dropbox
-cask dropbox-capture
 cask dropzone
 cask finch
 cask gimp
@@ -336,7 +350,6 @@ cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
-cask onyx
 cask quarto
 cask slack
 cask supercollider
@@ -348,8 +361,6 @@ cask zoom
 
 tap helmenov/tap
 cask f3xswift
-
-tap pirj/noclamshell
 
 tap rcmdnk/file
 brew brew-file
@@ -367,14 +378,14 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 503039729   Fotor Photo Editor     (4.5.7)
-appstore 682658836   GarageBand             (10.4.6)
+appstore 682658836   GarageBand             (10.4.7)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
-appstore 409183694   Keynote                (12.1)
+appstore 409183694   Keynote                (12.2.1)
 appstore 539883307   LINE                   (7.15.0)
 appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
-appstore 409203825   Numbers                (12.1)
-appstore 409201541   Pages                  (12.1)
+appstore 409203825   Numbers                (12.2.1)
+appstore 409201541   Pages                  (12.2.1)
 appstore 747648890   Telegram               (9.4)
-appstore 497799835   Xcode                  (13.2.1)
+appstore 497799835   Xcode                  (14.2)
