@@ -329,6 +329,7 @@ cask deepl
 cask discord
 cask dozer
 cask dropbox
+cask dropbox-capture
 cask dropzone
 cask finch
 cask gimp
@@ -350,6 +351,7 @@ cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
+cask onyx
 cask quarto
 cask slack
 cask supercollider
@@ -361,6 +363,8 @@ cask zoom
 
 tap helmenov/tap
 cask f3xswift
+
+tap pirj/noclamshell
 
 tap rcmdnk/file
 brew brew-file
@@ -378,14 +382,14 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 503039729   Fotor Photo Editor     (4.5.7)
-appstore 682658836   GarageBand             (10.4.7)
+appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
-appstore 409183694   Keynote                (12.2.1)
+appstore 409183694   Keynote                (12.1)
 appstore 539883307   LINE                   (7.15.0)
 appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
-appstore 409203825   Numbers                (12.2.1)
-appstore 409201541   Pages                  (12.2.1)
+appstore 409203825   Numbers                (12.1)
+appstore 409201541   Pages                  (12.1)
 appstore 747648890   Telegram               (9.4)
-appstore 497799835   Xcode                  (14.2)
+appstore 497799835   Xcode                  (13.2.1)
