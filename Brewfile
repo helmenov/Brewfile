@@ -29,7 +29,6 @@ brew cjson
 brew clamav
 brew cmake
 brew cmocka
-brew compface
 brew coreutils
 brew criterion
 brew curl
@@ -351,7 +350,6 @@ tap helmenov/tap
 cask f3xswift
 
 tap pirj/noclamshell
-brew noclamshell
 
 tap rcmdnk/file
 brew brew-file
@@ -367,16 +365,16 @@ cask mapture
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.0)
-appstore 845313878   EasyAudioRecorderLite  (1.9.1)
+appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 503039729   Fotor Photo Editor     (4.5.7)
 appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (12.1)
-appstore 539883307   LINE                   (7.14.1)
-appstore 530194517   MachineProfile         (1.4.16)
+appstore 539883307   LINE                   (7.15.0)
+appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.1)
 appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (9.3.1)
+appstore 747648890   Telegram               (9.4)
 appstore 497799835   Xcode                  (13.2.1)
