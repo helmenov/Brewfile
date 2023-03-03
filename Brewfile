@@ -41,6 +41,7 @@ brew docbook-xsl
 brew docker
 brew double-conversion
 brew eigen
+brew emacs
 brew enchant
 brew epstool
 brew ffmpeg
