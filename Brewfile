@@ -41,7 +41,6 @@ brew docbook-xsl
 brew docker
 brew double-conversion
 brew eigen
-brew emacs
 brew enchant
 brew epstool
 brew ffmpeg
@@ -103,7 +102,6 @@ brew jpeg-turbo
 brew jpeg-xl
 brew json-c
 brew json-glib
-brew julia
 brew krb5
 brew lame
 brew lapack
@@ -323,7 +321,6 @@ cask discord-ptb
 tap homebrew/services
 
 tap homebrew/cask
-cask airserver
 cask alfred
 cask alt-tab
 cask appcleaner
@@ -339,7 +336,6 @@ cask gimp
 cask google-chrome
 cask gpg-suite
 cask hammerspoon
-cask julia
 cask krisp
 cask maccy
 cask macfuse
