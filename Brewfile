@@ -335,7 +335,6 @@ cask deepl
 cask discord
 cask dozer
 cask dropbox
-cask finch
 cask gimp
 cask google-chrome
 cask gpg-suite
