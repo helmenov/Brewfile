@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap homebrew/core
@@ -335,11 +334,6 @@ cask deepl
 cask discord
 cask dozer
 cask dropbox
-<<<<<<< HEAD
-=======
-cask dropbox-capture
-cask dropzone
->>>>>>> da7f3171f53d4764657131aac1ccab8c83b8c885
 cask finch
 cask gimp
 cask google-chrome
@@ -398,14 +392,7 @@ appstore 409183694   Keynote                (12.1)
 appstore 539883307   LINE                   (7.15.0)
 appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
-<<<<<<< HEAD
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
 appstore 747648890   Telegram               (9.4.2)
 appstore 497799835   Xcode                  (14.2)
-=======
-appstore 409203825   Numbers                (12.1)
-appstore 409201541   Pages                  (12.1)
-appstore 747648890   Telegram               (9.4)
-appstore 497799835   Xcode                  (13.2.1)
->>>>>>> da7f3171f53d4764657131aac1ccab8c83b8c885
