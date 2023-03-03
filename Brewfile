@@ -14,6 +14,7 @@ brew assimp
 brew autoconf
 brew automake
 brew bdw-gc
+brew berkeley-db@4
 brew bison
 brew black
 brew blahtexml
@@ -44,6 +45,7 @@ brew eigen
 brew emacs
 brew enchant
 brew epstool
+brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
@@ -167,6 +169,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libyaml
 brew little-cms2
 brew llvm@11
 brew lmdb
@@ -184,6 +187,7 @@ brew mecab
 brew mecab-ipadic
 brew meson
 brew metis
+brew molten-vk
 brew mpdecimal
 brew mpfr
 brew mpg123
@@ -198,6 +202,7 @@ brew nghttp2
 brew ninja
 brew nkf
 brew nmap
+brew node
 brew node@16
 brew nodebrew
 brew notmuch
@@ -240,7 +245,6 @@ brew portaudio
 brew protobuf
 brew protobuf-c
 brew pstoedit
-brew pyenv
 brew pyqt
 brew pyqt@5
 brew python@3.10
@@ -289,6 +293,7 @@ brew unixodbc
 brew usbredir
 brew utf8proc
 brew util-macros
+brew vulkan-headers
 brew w3m
 brew webp
 brew wget
@@ -331,7 +336,6 @@ cask deepl
 cask discord
 cask dozer
 cask dropbox
-cask dropzone
 cask finch
 cask gimp
 cask google-chrome
@@ -389,5 +393,5 @@ appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
-appstore 747648890   Telegram               (9.4)
+appstore 747648890   Telegram               (9.4.2)
 appstore 497799835   Xcode                  (14.2)
