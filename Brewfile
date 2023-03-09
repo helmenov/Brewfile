@@ -345,6 +345,7 @@ cask mamp
 cask mattermost
 cask meld
 cask memory-cleaner
+cask microsoft-edge
 cask moom
 cask nordvpn
 cask notion-enhanced
