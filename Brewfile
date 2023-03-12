@@ -354,6 +354,7 @@ cask obs
 cask obs-virtualcam
 cask onyx
 cask quarto
+cask r
 cask rstudio
 cask slack
 cask supercollider
