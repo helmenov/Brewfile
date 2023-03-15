@@ -262,7 +262,6 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
-brew ruff
 brew rust
 brew samba
 brew scons
