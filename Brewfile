@@ -63,6 +63,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew git
 brew gl2ps
 brew glib
 brew glpk
@@ -394,5 +395,5 @@ appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
-appstore 747648890   Telegram               (9.4.2)
+appstore 747648890   Telegram               (9.5)
 appstore 497799835   Xcode                  (14.2)
