@@ -48,7 +48,6 @@ brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
-brew flake8
 brew fltk
 brew fluid-synth
 brew fontconfig
@@ -94,7 +93,6 @@ brew imath
 brew ipopt
 brew isl
 brew iso-codes
-brew isort
 brew jansson
 brew jasper
 brew jbig2dec
@@ -264,6 +262,7 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
+brew ruff
 brew rust
 brew samba
 brew scons
