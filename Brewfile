@@ -376,6 +376,10 @@ tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
 
+# Other Homebrew packages
+brew cffi
+brew pycparser
+
 # Other Cask applications
 cask mapture
 
@@ -386,10 +390,10 @@ appstore 1193539993  Brother iPrint&Scan    (10.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 503039729   Fotor Photo Editor     (4.5.7)
 appstore 682658836   GarageBand             (10.4.8)
-appstore 1462114288  Grammarly for Safari   (9.63)
+appstore 1462114288  Grammarly for Safari   (9.64)
 appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (12.2.1)
-appstore 539883307   LINE                   (7.15.0)
+appstore 539883307   LINE                   (7.16.1)
 appstore 530194517   MachineProfile         (1.4.17)
 appstore 1282504627  Mimeo Photos           (5.1.4)
 appstore 409203825   Numbers                (12.2.1)
