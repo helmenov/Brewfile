@@ -34,6 +34,7 @@ brew cmocka
 brew coreutils
 brew criterion
 brew curl
+brew cyrus-sasl
 brew dav1d
 brew dbus
 brew docbook
@@ -395,7 +396,7 @@ appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (12.2.1)
 appstore 539883307   LINE                   (7.16.1)
 appstore 530194517   MachineProfile         (1.4.17)
-appstore 1282504627  Mimeo Photos           (5.1.4)
+appstore 1282504627  Mimeo Photos           (5.1.5)
 appstore 409203825   Numbers                (12.2.1)
 appstore 409201541   Pages                  (12.2.1)
 appstore 1475387142  Tailscale              (1.36.2)
