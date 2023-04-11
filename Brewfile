@@ -363,6 +363,7 @@ cask texstudio
 cask utm
 cask visual-studio-code
 cask webex
+cask xnconvert
 cask zoom
 
 tap helmenov/tap
