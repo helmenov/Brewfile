@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap homebrew/core
@@ -126,6 +125,7 @@ brew libgit2
 brew libgpg-error
 brew libgsf
 brew libheif
+brew libice
 brew libiconv
 brew libidn
 brew libidn2
@@ -144,6 +144,7 @@ brew libraw
 brew librist
 brew librsvg
 brew libsamplerate
+brew libsm
 brew libsndfile
 brew libsodium
 brew libsoxr
@@ -167,6 +168,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libxt
 brew libyaml
 brew little-cms2
 brew llvm@11
@@ -347,7 +349,6 @@ cask mattermost
 cask meld
 cask memory-cleaner
 cask microsoft-edge
-cask moom
 cask nordvpn
 cask notion-enhanced
 cask numi
@@ -355,7 +356,6 @@ cask obs
 cask obs-virtualcam
 cask onyx
 cask quarto
-cask r
 cask rstudio
 cask slack
 cask supercollider
@@ -364,6 +364,7 @@ cask utm
 cask visual-studio-code
 cask webex
 cask xnconvert
+cask xquartz
 cask zoom
 
 tap helmenov/tap
@@ -390,9 +391,9 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.0)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 503039729   Fotor Photo Editor     (4.5.8)
+appstore 503039729   Fotor Photo Editor     (4.5.9)
 appstore 682658836   GarageBand             (10.4.8)
-appstore 1462114288  Grammarly for Safari   (9.65)
+appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (13.0)
 appstore 539883307   LINE                   (7.16.1)
@@ -401,5 +402,5 @@ appstore 1282504627  Mimeo Photos           (5.1.5)
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.38.4)
-appstore 747648890   Telegram               (9.5.3)
+appstore 747648890   Telegram               (9.6.1)
 appstore 497799835   Xcode                  (14.3)
