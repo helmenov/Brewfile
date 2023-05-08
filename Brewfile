@@ -55,6 +55,7 @@ brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
+brew fzf
 brew gcc
 brew gd
 brew gdbm
@@ -370,6 +371,9 @@ cask zoom
 
 tap helmenov/tap
 cask f3xswift
+
+tap nvie/tap
+brew git-toolbelt
 
 tap pirj/noclamshell
 
