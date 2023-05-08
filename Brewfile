@@ -314,6 +314,7 @@ brew xz
 brew yara
 brew zeromq
 brew zimg
+brew zlib
 brew zstd
 
 tap homebrew/cask-fonts
