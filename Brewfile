@@ -87,6 +87,7 @@ brew guile
 brew harfbuzz
 brew hdf5
 brew highway
+brew httpie
 brew hunspell
 brew hwloc
 brew icu4c
@@ -95,6 +96,7 @@ brew imath
 brew ipopt
 brew isl
 brew iso-codes
+brew isort
 brew jansson
 brew jasper
 brew jbig2dec
@@ -102,6 +104,7 @@ brew jemalloc
 brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
+brew jq
 brew json-c
 brew json-glib
 brew krb5
@@ -247,8 +250,11 @@ brew portaudio
 brew protobuf
 brew protobuf-c
 brew pstoedit
+brew pygments
+brew pylint
 brew pyqt
 brew pyqt@5
+brew python-typing-extensions
 brew python@3.10
 brew python@3.11
 brew python@3.9
@@ -395,7 +401,7 @@ cask mapture
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
-appstore 1193539993  Brother iPrint&Scan    (10.5.0)
+appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 503039729   Fotor Photo Editor     (4.5.9)
 appstore 682658836   GarageBand             (10.4.8)
@@ -404,9 +410,9 @@ appstore 408981434   iMovie                 (10.3.5)
 appstore 409183694   Keynote                (13.0)
 appstore 539883307   LINE                   (7.17.0)
 appstore 530194517   MachineProfile         (1.4.17)
-appstore 1282504627  Mimeo Photos           (5.1.5)
+appstore 1282504627  Mimeo Photos           (5.1.6)
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.40.0)
-appstore 747648890   Telegram               (9.6.1)
+appstore 747648890   Telegram               (9.6.2)
 appstore 497799835   Xcode                  (14.3)
