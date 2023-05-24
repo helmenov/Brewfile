@@ -318,6 +318,7 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
+brew yarn
 brew zeromq
 brew zimg
 brew zlib
