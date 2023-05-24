@@ -321,6 +321,8 @@ brew yara
 brew zeromq
 brew zimg
 brew zlib
+brew zsh-autosuggestions
+brew zsh-git-prompt
 brew zstd
 
 tap homebrew/cask-fonts
@@ -330,6 +332,7 @@ cask font-udev-gothic
 tap homebrew/cask-versions
 cask brave-browser-beta
 cask discord-ptb
+cask microsoft-edge-dev
 
 tap homebrew/services
 
@@ -414,5 +417,5 @@ appstore 1282504627  Mimeo Photos           (5.1.6)
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.40.0)
-appstore 747648890   Telegram               (9.6.2)
+appstore 747648890   Telegram               (9.6.3)
 appstore 497799835   Xcode                  (14.3)
