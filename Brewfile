@@ -274,6 +274,7 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
+brew ruff
 brew rustup-init
 brew samba
 brew scons
