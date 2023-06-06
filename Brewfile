@@ -349,14 +349,7 @@ cask deepl
 cask discord
 cask dozer
 cask dropbox
-<<<<<<< HEAD
-cask dropbox-capture
-cask dropzone
-cask finch
-#cask gimp
-=======
 cask gimp
->>>>>>> c5c7e679fd76169f44e88162f9b9b0b48f5b5756
 cask google-chrome
 cask gpg-suite
 cask hammerspoon
@@ -414,14 +407,12 @@ appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 503039729   Fotor Photo Editor     (4.5.9)
 appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.6)
 appstore 409183694   Keynote                (13.0)
 appstore 539883307   LINE                   (7.17.0)
 appstore 530194517   MachineProfile         (1.4.17)
-appstore 1282504627  Mimeo Photos           (5.1.6)
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.40.0)
