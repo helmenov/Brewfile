@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
 brew ampl-mp
 brew aom
 brew apr
@@ -273,8 +274,8 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
-brew ruff --HEAD
-brew rust
+brew ruff
+brew rustup-init
 brew samba
 brew scons
 brew sdl2
@@ -361,6 +362,7 @@ cask mamp
 cask mattermost
 cask meld
 cask memory-cleaner
+cask microsoft-auto-update
 cask microsoft-edge
 cask nordvpn
 cask notion-enhanced
@@ -380,6 +382,8 @@ cask xnconvert
 cask xquartz
 cask zoom
 
+tap browsh-org/browsh
+
 tap helmenov/tap
 cask f3xswift
 
@@ -397,6 +401,7 @@ tap tlk/imagemagick-x11
 
 # Other Homebrew packages
 brew cffi
+brew protobuf@21
 brew pycparser
 
 # Other Cask applications
@@ -415,6 +420,6 @@ appstore 539883307   LINE                   (7.17.0)
 appstore 530194517   MachineProfile         (1.4.17)
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
-appstore 1475387142  Tailscale              (1.40.0)
+appstore 1475387142  Tailscale              (1.42.0)
 appstore 747648890   Telegram               (9.6.3)
-appstore 497799835   Xcode                  (14.3)
+appstore 497799835   Xcode                  (14.3.1)
