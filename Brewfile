@@ -28,6 +28,7 @@ brew cabextract
 brew cairo
 brew cask
 brew cdrtools
+brew cffi
 brew cjson
 brew clamav
 brew cmake
@@ -250,7 +251,9 @@ brew popt
 brew portaudio
 brew protobuf
 brew protobuf-c
+brew protobuf@21
 brew pstoedit
+brew pycparser
 brew pygments
 brew pylint
 brew pyqt
@@ -262,6 +265,7 @@ brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
+brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt
@@ -398,11 +402,6 @@ brew brew-file
 tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
-
-# Other Homebrew packages
-brew cffi
-brew protobuf@21
-brew pycparser
 
 # Other Cask applications
 cask mapture
