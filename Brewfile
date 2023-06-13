@@ -379,7 +379,6 @@ cask utm
 cask visual-studio-code
 cask webex
 cask xnconvert
-cask xquartz
 cask zoom
 
 tap browsh-org/browsh
