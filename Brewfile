@@ -28,6 +28,7 @@ brew cabextract
 brew cairo
 brew cask
 brew cdrtools
+brew cffi
 brew cjson
 brew clamav
 brew cmake
@@ -250,7 +251,9 @@ brew popt
 brew portaudio
 brew protobuf
 brew protobuf-c
+brew protobuf@21
 brew pstoedit
+brew pycparser
 brew pygments
 brew pylint
 brew pyqt
@@ -262,6 +265,7 @@ brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
+brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt
@@ -398,11 +402,6 @@ tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
 
-# Other Homebrew packages
-brew cffi
-brew protobuf@21
-brew pycparser
-
 # Other Cask applications
 cask mapture
 
@@ -416,7 +415,12 @@ appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.6)
 appstore 409183694   Keynote                (13.0)
 appstore 539883307   LINE                   (7.17.0)
+<<<<<<< HEAD
 appstore 530194517   MachineProfile         (1.4.17)
+=======
+appstore 530194517   MachineProfile         (1.4.18)
+appstore 1282504627  Mimeo Photos           (5.2.0)
+>>>>>>> 31987e6e3eccfa93e37564e840aca4c31525c810
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.42.0)
