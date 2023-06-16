@@ -385,8 +385,6 @@ cask webex
 cask xnconvert
 cask zoom
 
-tap browsh-org/homebrew-browsh
-
 tap helmenov/tap
 cask f3xswift
 
