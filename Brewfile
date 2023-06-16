@@ -401,7 +401,6 @@ tap sidneys/homebrew
 tap tlk/imagemagick-x11
 
 # Other Cask applications
-cask mapture
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
