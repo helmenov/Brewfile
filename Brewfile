@@ -413,12 +413,8 @@ appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.6)
 appstore 409183694   Keynote                (13.0)
 appstore 539883307   LINE                   (7.17.0)
-<<<<<<< HEAD
-appstore 530194517   MachineProfile         (1.4.17)
-=======
 appstore 530194517   MachineProfile         (1.4.18)
 appstore 1282504627  Mimeo Photos           (5.2.0)
->>>>>>> 31987e6e3eccfa93e37564e840aca4c31525c810
 appstore 409203825   Numbers                (13.0)
 appstore 409201541   Pages                  (13.0)
 appstore 1475387142  Tailscale              (1.42.0)
