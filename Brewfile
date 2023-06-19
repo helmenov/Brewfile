@@ -379,6 +379,7 @@ cask rstudio
 cask slack
 cask supercollider
 cask texstudio
+cask unity-hub
 cask utm
 cask visual-studio-code
 cask webex
