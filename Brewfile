@@ -379,6 +379,7 @@ cask rstudio
 cask slack
 cask supercollider
 cask texstudio
+cask unity-hub
 cask utm
 cask visual-studio-code
 cask webex
@@ -410,12 +411,12 @@ appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.6)
-appstore 409183694   Keynote                (13.0)
+appstore 409183694   Keynote                (13.1)
 appstore 539883307   LINE                   (7.17.0)
 appstore 530194517   MachineProfile         (1.4.18)
 appstore 1282504627  Mimeo Photos           (5.2.0)
-appstore 409203825   Numbers                (13.0)
-appstore 409201541   Pages                  (13.0)
+appstore 409203825   Numbers                (13.1)
+appstore 409201541   Pages                  (13.1)
 appstore 1475387142  Tailscale              (1.42.0)
 appstore 747648890   Telegram               (9.6.3)
 appstore 497799835   Xcode                  (14.3.1)
