@@ -352,6 +352,7 @@ cask cheatsheet
 cask chrome-remote-desktop-host
 cask deepl
 cask discord
+cask dotnet-sdk
 cask dozer
 cask dropbox
 cask gimp
@@ -419,7 +420,7 @@ appstore 408981434   iMovie                 (10.3.6)
 appstore 409183694   Keynote                (13.1)
 appstore 539883307   LINE                   (7.17.0)
 appstore 530194517   MachineProfile         (1.4.18)
-appstore 1282504627  Mimeo Photos           (5.2.0)
+appstore 1282504627  Mimeo Photos           (5.3.0)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
 appstore 1475387142  Tailscale              (1.42.0)
