@@ -109,6 +109,7 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew json-glib
+brew juliaup
 brew krb5
 brew lame
 brew lapack
@@ -418,7 +419,7 @@ appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.66)
 appstore 408981434   iMovie                 (10.3.6)
 appstore 409183694   Keynote                (13.1)
-appstore 539883307   LINE                   (7.17.0)
+appstore 539883307   LINE                   (8.0.0)
 appstore 530194517   MachineProfile         (1.4.19)
 appstore 1282504627  Mimeo Photos           (5.3.1)
 appstore 409203825   Numbers                (13.1)
