@@ -66,6 +66,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gist
 brew git
 brew gl2ps
 brew glib
@@ -388,6 +389,8 @@ cask webex
 cask xnconvert
 cask xquartz
 cask zoom
+
+tap b4b4r07/tap
 
 tap browsh-org/browsh
 
