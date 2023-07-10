@@ -66,7 +66,6 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
-brew gist
 brew git
 brew gl2ps
 brew glib
