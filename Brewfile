@@ -114,6 +114,7 @@ brew juliaup
 brew krb5
 brew lame
 brew lapack
+brew ldns
 brew leptonica
 brew libaec
 brew libarchive
@@ -122,12 +123,14 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libcbor
 brew libcerf
 brew libde265
 brew libdeflate
 brew libev
 brew libevent
 brew libffi
+brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
@@ -150,6 +153,7 @@ brew libomp
 brew libpng
 brew libpthread-stubs
 brew libraw
+brew libressl
 brew librist
 brew librsvg
 brew libsamplerate
@@ -230,6 +234,7 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
+brew openssh
 brew openssl@1.1
 brew openssl@3
 brew opus
@@ -359,7 +364,6 @@ cask dozer
 cask dropbox
 cask gimp
 cask google-chrome
-cask gpg-suite
 cask hammerspoon
 cask krisp
 cask maccy
@@ -387,7 +391,6 @@ cask utm
 cask visual-studio-code
 cask webex
 cask xnconvert
-cask xquartz
 cask zoom
 
 tap b4b4r07/tap
