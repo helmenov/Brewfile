@@ -66,6 +66,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gist
 brew git
 brew gl2ps
 brew glib
@@ -109,9 +110,11 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew json-glib
+brew juliaup
 brew krb5
 brew lame
 brew lapack
+brew ldns
 brew leptonica
 brew libaec
 brew libarchive
@@ -120,12 +123,14 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libcbor
 brew libcerf
 brew libde265
 brew libdeflate
 brew libev
 brew libevent
 brew libffi
+brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
@@ -148,6 +153,7 @@ brew libomp
 brew libpng
 brew libpthread-stubs
 brew libraw
+brew libressl
 brew librist
 brew librsvg
 brew libsamplerate
@@ -228,6 +234,7 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
+brew openssh
 brew openssl@1.1
 brew openssl@3
 brew opus
@@ -357,7 +364,6 @@ cask dozer
 cask dropbox
 cask gimp
 cask google-chrome
-cask gpg-suite
 cask hammerspoon
 cask krisp
 cask maccy
@@ -387,6 +393,13 @@ cask webex
 cask xnconvert
 cask zoom
 
+<<<<<<< HEAD
+=======
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+>>>>>>> ed09373408a5dfb10477318d0330085caceb5483
 tap helmenov/tap
 cask f3xswift
 
@@ -411,9 +424,9 @@ appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.66)
-appstore 408981434   iMovie                 (10.3.6)
+appstore 408981434   iMovie                 (10.3.7)
 appstore 409183694   Keynote                (13.1)
-appstore 539883307   LINE                   (7.17.0)
+appstore 539883307   LINE                   (8.0.0)
 appstore 530194517   MachineProfile         (1.4.19)
 appstore 1282504627  Mimeo Photos           (5.3.1)
 appstore 409203825   Numbers                (13.1)
