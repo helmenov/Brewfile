@@ -393,13 +393,6 @@ cask webex
 cask xnconvert
 cask zoom
 
-<<<<<<< HEAD
-=======
-tap b4b4r07/tap
-
-tap browsh-org/browsh
-
->>>>>>> ed09373408a5dfb10477318d0330085caceb5483
 tap helmenov/tap
 cask f3xswift
 
