@@ -365,6 +365,7 @@ cask dozer
 cask dropbox
 cask gimp
 cask google-chrome
+cask google-japanese-ime
 cask hammerspoon
 cask krisp
 cask maccy
