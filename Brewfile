@@ -308,6 +308,7 @@ brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
+brew trash
 brew tree
 brew unbound
 brew unixodbc
