@@ -388,6 +388,7 @@ cask rstudio
 cask slack
 cask supercollider
 cask texstudio
+cask the-unarchiver
 cask unity-hub
 cask utm
 cask visual-studio-code
