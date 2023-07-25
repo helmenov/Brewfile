@@ -17,7 +17,6 @@ brew automake
 brew bdw-gc
 brew berkeley-db@4
 brew bison
-brew black
 brew blahtexml
 brew boost
 brew brotli
@@ -42,6 +41,7 @@ brew dbus
 brew docbook
 brew docbook-xsl
 brew docker
+brew docker-completion
 brew double-conversion
 brew eigen
 brew emacs
@@ -90,7 +90,6 @@ brew guile
 brew harfbuzz
 brew hdf5
 brew highway
-brew httpie
 brew hunspell
 brew hwloc
 brew icu4c
@@ -198,13 +197,11 @@ brew mbedtls@2
 brew md4c
 brew mecab
 brew mecab-ipadic
-brew meson
 brew metis
 brew molten-vk
 brew mpdecimal
 brew mpfr
 brew mpg123
-brew mypy
 brew nanomsg
 brew nasm
 brew ncurses
@@ -234,7 +231,6 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
-brew openssh
 brew openssl@1.1
 brew openssl@3
 brew opus
@@ -262,13 +258,9 @@ brew protobuf@21
 brew pstoedit
 brew pycparser
 brew pygments
-brew pylint
-brew pyqt
 brew pyqt@5
 brew python-typing-extensions
-brew python@3.10
 brew python@3.11
-brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
@@ -288,7 +280,6 @@ brew rubberband
 brew ruff
 brew rustup-init
 brew samba
-brew scons
 brew sdl2
 brew shared-mime-info
 brew six
@@ -428,5 +419,5 @@ appstore 1282504627  Mimeo Photos           (5.3.2)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
 appstore 1475387142  Tailscale              (1.44.0)
-appstore 747648890   Telegram               (9.6.3)
+appstore 747648890   Telegram               (9.7)
 appstore 497799835   Xcode                  (14.3.1)
