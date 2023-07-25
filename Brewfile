@@ -202,7 +202,6 @@ brew molten-vk
 brew mpdecimal
 brew mpfr
 brew mpg123
-brew mypy
 brew nanomsg
 brew nasm
 brew ncurses
