@@ -17,7 +17,6 @@ brew automake
 brew bdw-gc
 brew berkeley-db@4
 brew bison
-brew black
 brew blahtexml
 brew boost
 brew brotli
@@ -91,7 +90,6 @@ brew guile
 brew harfbuzz
 brew hdf5
 brew highway
-brew httpie
 brew hunspell
 brew hwloc
 brew icu4c
