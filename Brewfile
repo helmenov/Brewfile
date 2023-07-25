@@ -197,7 +197,6 @@ brew mbedtls@2
 brew md4c
 brew mecab
 brew mecab-ipadic
-brew meson
 brew metis
 brew molten-vk
 brew mpdecimal
