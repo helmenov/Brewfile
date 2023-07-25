@@ -233,7 +233,6 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
-brew openssh
 brew openssl@1.1
 brew openssl@3
 brew opus
