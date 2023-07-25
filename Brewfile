@@ -261,7 +261,6 @@ brew protobuf@21
 brew pstoedit
 brew pycparser
 brew pygments
-brew pylint
 brew pyqt
 brew pyqt@5
 brew python-typing-extensions
