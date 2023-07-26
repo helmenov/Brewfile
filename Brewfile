@@ -350,6 +350,7 @@ cask cheatsheet
 cask chrome-remote-desktop-host
 cask deepl
 cask discord
+cask docker
 cask dotnet-sdk
 cask dozer
 cask dropbox
