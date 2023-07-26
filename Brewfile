@@ -40,7 +40,6 @@ brew dav1d
 brew dbus
 brew docbook
 brew docbook-xsl
-brew docker
 brew docker-buildx
 brew docker-completion
 brew double-conversion
