@@ -40,7 +40,6 @@ brew dav1d
 brew dbus
 brew docbook
 brew docbook-xsl
-brew docker
 brew docker-completion
 brew double-conversion
 brew eigen
@@ -351,6 +350,7 @@ cask cheatsheet
 cask chrome-remote-desktop-host
 cask deepl
 cask discord
+cask docker
 cask dotnet-sdk
 cask dozer
 cask dropbox
