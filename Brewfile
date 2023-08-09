@@ -300,6 +300,7 @@ brew theora
 brew tokyo-cabinet
 brew trash
 brew tree
+brew tree-sitter
 brew unbound
 brew unixodbc
 brew usbredir
@@ -371,9 +372,6 @@ cask microsoft-edge
 cask nordvpn
 cask notion-enhanced
 cask numi
-cask obs
-cask obs-virtualcam
-cask onyx
 cask quarto
 cask rstudio
 cask slack
@@ -408,22 +406,25 @@ tap tlk/imagemagick-x11
 
 # Other Cask applications
 cask mapture
+cask obs
+cask obs-virtualcam
+cask onyx
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 503039729   Fotor Photo Editor     (4.5.9)
+appstore 503039729   Fotor Photo Editor     (4.6.1)
 appstore 682658836   GarageBand             (10.4.8)
-appstore 1462114288  Grammarly for Safari   (9.66)
-appstore 408981434   iMovie                 (10.3.7)
+appstore 1462114288  Grammarly for Safari   (9.67)
+appstore 408981434   iMovie                 (10.3.8)
 appstore 409183694   Keynote                (13.1)
-appstore 539883307   LINE                   (8.0.0)
-appstore 530194517   MachineProfile         (1.4.19)
-appstore 1282504627  Mimeo Photos           (5.3.2)
+appstore 539883307   LINE                   (8.1.1)
+appstore 530194517   MachineProfile         (1.4.20)
+appstore 1282504627  Mimeo Photos           (5.3.3)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
-appstore 1475387142  Tailscale              (1.44.0)
-appstore 747648890   Telegram               (9.7)
+appstore 1475387142  Tailscale              (1.46.1)
+appstore 747648890   Telegram               (9.7.2)
 appstore 497799835   Xcode                  (14.3.1)
