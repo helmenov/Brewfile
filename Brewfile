@@ -413,7 +413,6 @@ cask webex
 cask xnconvert
 cask zoom
 
-<<<<<<< HEAD
 tap helmenov/tap
 cask f3xswift
 
@@ -431,17 +430,11 @@ tap tlk/imagemagick-x11
 
 # Other Cask applications
 
-=======
->>>>>>> 4e8c27ed61493ff65dccd9581f984eb4aefd97de
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
-<<<<<<< HEAD
-=======
-appstore 503039729   Fotor Photo Editor     (4.6.1)
->>>>>>> 4e8c27ed61493ff65dccd9581f984eb4aefd97de
 appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.69)
 appstore 408981434   iMovie                 (10.3.8)
