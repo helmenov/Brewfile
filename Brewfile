@@ -2,6 +2,43 @@
 # tap repositories and their packages
 
 tap homebrew/core
+
+tap homebrew/cask-fonts
+cask font-fira-code
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask discord-ptb
+cask microsoft-edge-dev
+
+tap homebrew/services
+
+tap homebrew/cask
+
+tap b4b4r07/tap
+brew gist
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+cask f3xswift
+
+tap nvie/tap
+brew git-toolbelt
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+brew brew-file
+
+tap sidneys/homebrew
+brew ffmpeg
+
+tap tlk/imagemagick-x11
+brew imagemagick
+
+# Other Homebrew packages
 brew abseil
 brew ampl-mp
 brew aom
@@ -46,7 +83,6 @@ brew eigen
 brew emacs
 brew enchant
 brew epstool
-brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
@@ -65,7 +101,6 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
-brew gist
 brew git
 brew gl2ps
 brew glib
@@ -92,7 +127,6 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c
-brew imagemagick
 brew imath
 brew ipopt
 brew isl
@@ -108,6 +142,7 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew json-glib
+brew jsoncpp
 brew juliaup
 brew krb5
 brew lame
@@ -300,6 +335,7 @@ brew theora
 brew tokyo-cabinet
 brew trash
 brew tree
+brew tree-sitter
 brew unbound
 brew unixodbc
 brew usbredir
@@ -329,18 +365,7 @@ brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
 
-tap homebrew/cask-fonts
-cask font-fira-code
-cask font-udev-gothic
-
-tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask microsoft-edge-dev
-
-tap homebrew/services
-
-tap homebrew/cask
+# Other Cask applications
 cask alfred
 cask alt-tab
 cask appcleaner
@@ -363,6 +388,7 @@ cask maccy
 cask macfuse
 cask mactex
 cask mamp
+cask mapture
 cask mattermost
 cask meld
 cask memory-cleaner
@@ -387,6 +413,7 @@ cask webex
 cask xnconvert
 cask zoom
 
+<<<<<<< HEAD
 tap helmenov/tap
 cask f3xswift
 
@@ -404,20 +431,26 @@ tap tlk/imagemagick-x11
 
 # Other Cask applications
 
+=======
+>>>>>>> 4e8c27ed61493ff65dccd9581f984eb4aefd97de
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
+<<<<<<< HEAD
+=======
+appstore 503039729   Fotor Photo Editor     (4.6.1)
+>>>>>>> 4e8c27ed61493ff65dccd9581f984eb4aefd97de
 appstore 682658836   GarageBand             (10.4.8)
-appstore 1462114288  Grammarly for Safari   (9.66)
-appstore 408981434   iMovie                 (10.3.7)
+appstore 1462114288  Grammarly for Safari   (9.69)
+appstore 408981434   iMovie                 (10.3.8)
 appstore 409183694   Keynote                (13.1)
-appstore 539883307   LINE                   (8.0.0)
-appstore 530194517   MachineProfile         (1.4.19)
-appstore 1282504627  Mimeo Photos           (5.3.2)
+appstore 539883307   LINE                   (8.2.0)
+appstore 530194517   MachineProfile         (1.4.20)
+appstore 1282504627  Mimeo Photos           (5.3.3)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
-appstore 1475387142  Tailscale              (1.44.0)
-appstore 747648890   Telegram               (9.7)
+appstore 1475387142  Tailscale              (1.46.1)
+appstore 747648890   Telegram               (10.0.1)
 appstore 497799835   Xcode                  (14.3.1)
