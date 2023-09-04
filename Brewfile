@@ -34,6 +34,7 @@ brew brew-file
 
 tap sidneys/homebrew
 brew ffmpeg
+brew pyqt
 
 tap tlk/imagemagick-x11
 brew imagemagick
@@ -428,6 +429,6 @@ appstore 530194517   MachineProfile         (1.4.20)
 appstore 1282504627  Mimeo Photos           (5.3.3)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
-appstore 1475387142  Tailscale              (1.46.1)
-appstore 747648890   Telegram               (10.0.1)
+appstore 1475387142  Tailscale              (1.48.1)
+appstore 747648890   Telegram               (10.0.3)
 appstore 497799835   Xcode                  (14.3.1)
