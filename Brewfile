@@ -314,6 +314,7 @@ brew rtmpdump
 brew rubberband
 brew ruff
 brew rustup-init
+brew rye
 brew samba
 brew sdl2
 brew shared-mime-info
