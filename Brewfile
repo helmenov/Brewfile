@@ -287,7 +287,6 @@ brew plotutils
 brew poppler
 brew popt
 brew portaudio
-brew poster
 brew protobuf
 brew protobuf-c
 brew protobuf@21
