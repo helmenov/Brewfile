@@ -48,6 +48,7 @@ brew apr-util
 brew aria2
 brew aribb24
 brew arpack
+brew asdf
 brew aspell
 brew assimp
 brew autoconf
@@ -431,5 +432,5 @@ appstore 1282504627  Mimeo Photos           (5.4.0)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
 appstore 1475387142  Tailscale              (1.48.1)
-appstore 747648890   Telegram               (10.0.4)
+appstore 747648890   Telegram               (10.0.5)
 appstore 497799835   Xcode                  (14.3.1)
