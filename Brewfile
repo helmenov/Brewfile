@@ -42,6 +42,7 @@ brew imagemagick
 # Other Homebrew packages
 brew abseil
 brew ampl-mp
+brew anyenv
 brew aom
 brew apr
 brew apr-util
