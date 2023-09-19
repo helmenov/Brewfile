@@ -413,6 +413,7 @@ cask the-unarchiver
 cask unity-hub
 cask utm
 cask visual-studio-code
+cask wavesurfer
 cask webex
 cask xnconvert
 cask xquartz
