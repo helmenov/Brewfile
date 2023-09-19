@@ -373,6 +373,7 @@ brew zstd
 cask alfred
 cask alt-tab
 cask appcleaner
+cask audacity
 cask background-music
 cask betterdiscord-installer
 cask cheatsheet
@@ -433,6 +434,6 @@ appstore 530194517   MachineProfile         (1.4.20)
 appstore 1282504627  Mimeo Photos           (5.4.0)
 appstore 409203825   Numbers                (13.1)
 appstore 409201541   Pages                  (13.1)
-appstore 1475387142  Tailscale              (1.48.1)
+appstore 1475387142  Tailscale              (1.48.2)
 appstore 747648890   Telegram               (10.0.5)
-appstore 497799835   Xcode                  (14.3.1)
+appstore 497799835   Xcode                  (15.0)
