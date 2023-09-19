@@ -373,7 +373,6 @@ brew zstd
 cask alfred
 cask alt-tab
 cask appcleaner
-cask audacity
 cask background-music
 cask betterdiscord-installer
 cask cheatsheet
