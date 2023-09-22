@@ -404,7 +404,6 @@ cask numi
 cask obs
 cask obs-virtualcam
 cask onyx
-cask praat
 cask quarto
 cask rstudio
 cask slack
