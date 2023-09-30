@@ -326,6 +326,7 @@ brew sox
 brew speex
 brew sqlite
 brew srt
+brew starship
 brew subversion
 brew suite-sparse
 brew sundials
@@ -430,8 +431,8 @@ appstore 682658836   GarageBand             (10.4.8)
 appstore 1462114288  Grammarly for Safari   (9.69)
 appstore 408981434   iMovie                 (10.3.9)
 appstore 409183694   Keynote                (13.2)
-appstore 539883307   LINE                   (8.2.0)
-appstore 530194517   MachineProfile         (1.4.20)
+appstore 539883307   LINE                   (8.3.0)
+appstore 530194517   MachineProfile         (1.4.21)
 appstore 1282504627  Mimeo Photos           (5.4.0)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
