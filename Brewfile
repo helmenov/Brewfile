@@ -220,6 +220,7 @@ brew libxrender
 brew libxt
 brew libyaml
 brew little-cms2
+brew llvm
 brew llvm@11
 brew lmdb
 brew lua
@@ -363,6 +364,7 @@ brew xvid
 brew xz
 brew yara
 brew yarn
+brew z3
 brew zeromq
 brew zimg
 brew zlib
