@@ -297,8 +297,10 @@ brew pstoedit
 brew pycparser
 brew pygments
 brew pyqt@5
+brew python-setuptools
 brew python-typing-extensions
 brew python@3.11
+brew python@3.12
 brew qdbm
 brew qhull
 brew qpdf
@@ -439,5 +441,5 @@ appstore 1282504627  Mimeo Photos           (5.4.0)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.50.1)
-appstore 747648890   Telegram               (10.1.1)
-appstore 497799835   Xcode                  (15.0)
+appstore 747648890   Telegram               (10.1.3)
+appstore 497799835   Xcode                  (15.0.1)
