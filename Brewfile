@@ -2,6 +2,47 @@
 # tap repositories and their packages
 
 tap homebrew/core
+<<<<<<< HEAD
+=======
+
+tap homebrew/cask-fonts
+cask font-fira-code
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask discord-ptb
+cask microsoft-edge-dev
+
+tap homebrew/services
+
+tap homebrew/cask
+
+tap b4b4r07/tap
+brew gist
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+cask f3xswift
+
+tap nvie/tap
+brew git-toolbelt
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+brew brew-file
+
+tap sidneys/homebrew
+brew ffmpeg
+brew pyqt
+
+tap tlk/imagemagick-x11
+brew imagemagick
+
+# Other Homebrew packages
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 brew abseil
 brew ampl-mp
 brew anyenv
@@ -11,7 +52,11 @@ brew apr-util
 brew aria2
 brew aribb24
 brew arpack
+<<<<<<< HEAD
 brew asciidoc
+=======
+brew asdf
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 brew aspell
 brew assimp
 brew autoconf
@@ -182,7 +227,12 @@ brew libxml2
 brew libxrender
 brew lit
 brew little-cms2
+<<<<<<< HEAD
 brew llvm@16
+=======
+brew llvm
+brew llvm@11
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 brew lmdb
 brew lua
 brew lua@5.3
@@ -264,6 +314,7 @@ brew pygments
 brew pyqt
 brew pyqt-builder
 brew pyqt@5
+<<<<<<< HEAD
 brew python-certifi
 brew python-flit-core
 brew python-packaging
@@ -272,6 +323,12 @@ brew python@3.10
 brew python@3.11
 brew python@3.12
 brew python@3.9
+=======
+brew python-setuptools
+brew python-typing-extensions
+brew python@3.11
+brew python@3.12
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 brew qdbm
 brew qhull
 brew qpdf
@@ -339,7 +396,11 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
+<<<<<<< HEAD
 brew yasm
+=======
+brew yarn
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 brew z3
 brew zeromq
 brew zimg
@@ -392,9 +453,21 @@ cask quarto
 cask slack
 cask supercollider
 cask texstudio
+<<<<<<< HEAD
+=======
+cask the-unarchiver
+cask thonny-xxl
+cask unity-hub
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 cask utm
 cask visual-studio-code
+cask wavesurfer
 cask webex
+<<<<<<< HEAD
+=======
+cask xnconvert
+cask xquartz
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
 cask zoom
 
 tap homebrew/cask-fonts
@@ -421,6 +494,7 @@ tap sidneys/homebrew
 tap tlk/imagemagick-x11
 
 # App Store applications
+<<<<<<< HEAD
 appstore 892162982 7zBrowser (2.5.0)
 appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (10.5.2)
@@ -435,3 +509,22 @@ appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
 appstore 747648890 Telegram (10.1.3)
 appstore 497799835 Xcode (15.0.1)
+=======
+appstore 892162982   7Zipブラウザ               (2.5.0)
+appstore 460883588   ATOK Pad               (2.0.7)
+appstore 1193539993  Brother iPrint&Scan    (10.5.2)
+appstore 845313878   EasyAudioRecorderLite  (1.23)
+appstore 503039729   Fotor Photo Editor     (4.6.4)
+appstore 682658836   GarageBand             (10.4.8)
+appstore 1462114288  Grammarly for Safari   (9.69)
+appstore 408981434   iMovie                 (10.3.10)
+appstore 409183694   Keynote                (13.2)
+appstore 539883307   LINE                   (8.3.0)
+appstore 530194517   MachineProfile         (1.4.21)
+appstore 1282504627  Mimeo Photos           (5.4.0)
+appstore 409203825   Numbers                (13.2)
+appstore 409201541   Pages                  (13.2)
+appstore 1475387142  Tailscale              (1.50.1)
+appstore 747648890   Telegram               (10.1.3)
+appstore 497799835   Xcode                  (15.0.1)
+>>>>>>> e373e87c5fe57d11a50cb98335fd1a0b5fabfeba
