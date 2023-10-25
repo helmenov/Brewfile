@@ -2,58 +2,23 @@
 # tap repositories and their packages
 
 tap homebrew/core
-
-tap homebrew/cask-fonts
-cask font-fira-code
-cask font-udev-gothic
-
-tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask microsoft-edge-dev
-
-tap homebrew/services
-
-tap homebrew/cask
-
-tap b4b4r07/tap
-brew gist
-
-tap browsh-org/browsh
-
-tap helmenov/tap
-cask f3xswift
-
-tap nvie/tap
-brew git-toolbelt
-
-tap pirj/noclamshell
-
-tap rcmdnk/file
-brew brew-file
-
-tap sidneys/homebrew
-brew ffmpeg
-
-tap tlk/imagemagick-x11
-brew imagemagick
-
-# Other Homebrew packages
 brew abseil
 brew ampl-mp
+brew anyenv
 brew aom
 brew apr
 brew apr-util
 brew aria2
 brew aribb24
 brew arpack
+brew asciidoc
 brew aspell
 brew assimp
 brew autoconf
 brew automake
 brew bdw-gc
-brew berkeley-db@4
 brew bison
+brew black
 brew blahtexml
 brew boost
 brew brotli
@@ -72,7 +37,6 @@ brew cmocka
 brew coreutils
 brew criterion
 brew curl
-brew cyrus-sasl
 brew dav1d
 brew dbus
 brew docbook
@@ -83,16 +47,17 @@ brew eigen
 brew emacs
 brew enchant
 brew epstool
+brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
+brew flake8
 brew fltk
 brew fluid-synth
 brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
-brew fzf
 brew gcc
 brew gd
 brew gdbm
@@ -112,7 +77,6 @@ brew gnu-sed
 brew gnupg
 brew gnuplot
 brew gnutls
-brew go
 brew gobject-introspection
 brew gpgme
 brew graphicsmagick
@@ -124,14 +88,17 @@ brew guile
 brew harfbuzz
 brew hdf5
 brew highway
+brew httpie
 brew hunspell
 brew hwloc
 brew icu4c
+brew imagemagick
 brew imath
 brew ipopt
 brew isl
 brew iso-codes
 brew isort
+brew itstool
 brew jansson
 brew jasper
 brew jbig2dec
@@ -167,10 +134,10 @@ brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
+brew libgit2@1.6
 brew libgpg-error
 brew libgsf
 brew libheif
-brew libice
 brew libiconv
 brew libidn
 brew libidn2
@@ -186,11 +153,9 @@ brew libomp
 brew libpng
 brew libpthread-stubs
 brew libraw
-brew libressl
 brew librist
 brew librsvg
 brew libsamplerate
-brew libsm
 brew libsndfile
 brew libsodium
 brew libsoxr
@@ -213,11 +178,11 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxml2
 brew libxrender
-brew libxt
-brew libyaml
+brew lit
 brew little-cms2
-brew llvm@11
+brew llvm@16
 brew lmdb
 brew lua
 brew lua@5.3
@@ -231,11 +196,13 @@ brew mbedtls@2
 brew md4c
 brew mecab
 brew mecab-ipadic
+brew meson
 brew metis
 brew molten-vk
 brew mpdecimal
 brew mpfr
 brew mpg123
+brew mypy
 brew nanomsg
 brew nasm
 brew ncurses
@@ -265,7 +232,7 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
-brew openssl@1.1
+brew openssh
 brew openssl@3
 brew opus
 brew opusfile
@@ -291,14 +258,23 @@ brew protobuf-c
 brew protobuf@21
 brew pstoedit
 brew pycparser
+brew pyenv
+brew pyenv-virtualenv
 brew pygments
+brew pyqt
+brew pyqt-builder
 brew pyqt@5
-brew python-typing-extensions
+brew python-certifi
+brew python-flit-core
+brew python-packaging
+brew python-setuptools
+brew python@3.10
 brew python@3.11
+brew python@3.12
+brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
-brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt
@@ -311,17 +287,22 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
-brew ruff
+brew rust
 brew rustup-init
+brew rye
 brew samba
 brew sdl2
 brew shared-mime-info
+brew sip
 brew six
+brew smake
 brew snappy
+brew source-highlight
 brew sox
 brew speex
 brew sqlite
 brew srt
+brew starship
 brew subversion
 brew suite-sparse
 brew sundials
@@ -333,19 +314,20 @@ brew tesseract
 brew texinfo
 brew theora
 brew tokyo-cabinet
-brew trash
 brew tree
 brew tree-sitter
 brew unbound
 brew unixodbc
-brew usbredir
+brew usbredir --HEAD
 brew utf8proc
 brew util-macros
 brew vulkan-headers
+brew vulkan-loader
 brew w3m
 brew webp
 brew wget
 brew wimlib
+brew with-readline
 brew wv
 brew x264
 brew x265
@@ -357,7 +339,8 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
-brew yarn
+brew yasm
+brew z3
 brew zeromq
 brew zimg
 brew zlib
@@ -365,7 +348,9 @@ brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
 
-# Other Cask applications
+tap homebrew/cask
+cask adobe-acrobat-pro
+cask airserver
 cask alfred
 cask alt-tab
 cask appcleaner
@@ -373,51 +358,58 @@ cask background-music
 cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
+cask cpuinfo
 cask deepl
 cask discord
 cask docker
-cask dotnet-sdk
 cask dozer
 cask dropbox
+cask dropbox-capture
+cask dropzone
+cask finch
 cask gimp
 cask google-chrome
-cask google-japanese-ime
+cask gpg-suite
 cask hammerspoon
+cask julia
 cask krisp
 cask maccy
 cask macfuse
 cask mactex
 cask mamp
-cask mapture
 cask mattermost
 cask meld
 cask memory-cleaner
-cask microsoft-auto-update
-cask microsoft-edge
+cask moom
 cask nordvpn
 cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
 cask onyx
+cask opencore-patcher
 cask quarto
-cask rstudio
 cask slack
 cask supercollider
 cask texstudio
-cask the-unarchiver
-cask unity-hub
 cask utm
 cask visual-studio-code
 cask webex
-cask xnconvert
 cask zoom
+
+tap homebrew/cask-fonts
+cask font-fira-code
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask discord-ptb
+
+tap homebrew/services
+
+tap browsh-org/browsh
 
 tap helmenov/tap
 cask f3xswift
-
-tap nvie/tap
-brew git-toolbelt
 
 tap pirj/noclamshell
 
@@ -428,22 +420,18 @@ tap sidneys/homebrew
 
 tap tlk/imagemagick-x11
 
-# Other Cask applications
-
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.0)
-appstore 460883588   ATOK Pad               (2.0.7)
-appstore 1193539993  Brother iPrint&Scan    (10.5.2)
-appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 682658836   GarageBand             (10.4.8)
-appstore 1462114288  Grammarly for Safari   (9.69)
-appstore 408981434   iMovie                 (10.3.8)
-appstore 409183694   Keynote                (13.1)
-appstore 539883307   LINE                   (8.2.0)
-appstore 530194517   MachineProfile         (1.4.20)
-appstore 1282504627  Mimeo Photos           (5.3.3)
-appstore 409203825   Numbers                (13.1)
-appstore 409201541   Pages                  (13.1)
-appstore 1475387142  Tailscale              (1.46.1)
-appstore 747648890   Telegram               (10.0.1)
-appstore 497799835   Xcode                  (14.3.1)
+appstore 892162982 7zBrowser (2.5.0)
+appstore 460883588 ATOKPad (2.0.7)
+appstore 1193539993 Brother iPrint&Scan (10.5.2)
+appstore 845313878 EasyAudioRecorderLite (1.23)
+appstore 682658836 GarageBand (10.4.8)
+appstore 1462114288 Grammarly for Safari (9.69)
+appstore 408981434 iMovie (10.3.10)
+appstore 409183694 Keynote (13.2)
+appstore 539883307 LINE (8.3.0)
+appstore 530194517 MachineProfile (1.4.21)
+appstore 409203825 Numbers (13.2)
+appstore 409201541 Pages (13.2)
+appstore 747648890 Telegram (10.1.3)
+appstore 497799835 Xcode (15.0.1)
