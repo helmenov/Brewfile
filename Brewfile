@@ -293,9 +293,7 @@ brew pygments
 brew pyqt@5
 brew python-setuptools
 brew python-typing-extensions
-brew python@3.11
-brew python@3.12
-brew python@3.9
+brew python3
 brew qdbm
 brew qhull
 brew qpdf
