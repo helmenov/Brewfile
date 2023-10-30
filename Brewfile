@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-<<<<<<< HEAD
 
 tap homebrew/cask-fonts
 cask font-fira-code
@@ -41,8 +40,6 @@ brew pyqt
 tap tlk/imagemagick-x11
 
 # Other Homebrew packages
-=======
->>>>>>> d6c7621cfc48925eb37a93a8f0942b5c4489a940
 brew abseil
 brew ampl-mp
 brew anyenv
@@ -421,11 +418,8 @@ cask gimp
 cask google-chrome
 cask gpg-suite
 cask hammerspoon
-<<<<<<< HEAD
 cask inkscape
-=======
 cask julia
->>>>>>> d6c7621cfc48925eb37a93a8f0942b5c4489a940
 cask krisp
 cask maccy
 cask macfuse
@@ -488,7 +482,6 @@ tap sidneys/homebrew
 tap tlk/imagemagick-x11
 
 # App Store applications
-<<<<<<< HEAD
 appstore 892162982   7Zipブラウザ               (2.5.0)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
@@ -506,7 +499,6 @@ appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.50.1)
 appstore 747648890   Telegram               (10.1.3)
 appstore 497799835   Xcode                  (15.0.1)
-=======
 appstore 892162982 7zBrowser (2.5.0)
 appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (10.5.2)
@@ -523,4 +515,3 @@ appstore 409201541 Pages (13.2)
 appstore 1475387142 Tailscale (1.50.1)
 appstore 747648890 Telegram (10.1.3)
 appstore 497799835 Xcode (15.0.1)
->>>>>>> d6c7621cfc48925eb37a93a8f0942b5c4489a940
