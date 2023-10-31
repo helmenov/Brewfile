@@ -33,7 +33,8 @@ tap pirj/noclamshell
 tap rcmdnk/file
 brew brew-file
 
-tapall rcmdnk/rcmdnkpac
+tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
 
 tap sidneys/homebrew
 brew ffmpeg
@@ -170,6 +171,7 @@ brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
+brew libgit2@1.6
 brew libgpg-error
 brew libgsf
 brew libheif
@@ -218,6 +220,7 @@ brew libyaml
 brew little-cms2
 brew llvm
 brew llvm@11
+brew llvm@16
 brew lmdb
 brew lua
 brew lua@5.3
@@ -298,6 +301,7 @@ brew python-setuptools
 brew python-typing-extensions
 brew python@3.11
 brew python@3.12
+brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
@@ -313,6 +317,7 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
+brew rust
 brew rustup-init
 brew rye
 brew samba
