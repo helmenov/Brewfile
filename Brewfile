@@ -33,6 +33,8 @@ tap pirj/noclamshell
 tap rcmdnk/file
 brew brew-file
 
+tap rcmdnk/rcmdnkpac
+
 tap sidneys/homebrew
 brew ffmpeg
 brew imagemagick
