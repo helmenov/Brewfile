@@ -383,6 +383,7 @@ cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
 cask cpuinfo
+cask cursor
 cask deepl
 cask discord
 cask docker
@@ -418,7 +419,6 @@ cask the-unarchiver
 cask thonny-xxl
 cask unity-hub
 cask utm
-cask visual-studio-code
 cask wavesurfer
 cask webex
 cask xnconvert
@@ -435,7 +435,7 @@ appstore 1462114288  Grammarly for Safari   (9.70)
 appstore 408981434   iMovie                 (10.3.10)
 appstore 409183694   Keynote                (13.2)
 appstore 539883307   LINE                   (8.4.0)
-appstore 530194517   MachineProfile         (1.4.21)
+appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.52.0)
