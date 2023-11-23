@@ -352,7 +352,6 @@ cask dozer
 cask dropbox
 cask dropbox-capture
 cask dropzone
-cask finch
 cask gimp
 cask google-chrome
 cask gpg-suite
@@ -428,7 +427,6 @@ appstore 892162982 7zBrowser (2.5.0)
 appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (10.5.2)
 appstore 845313878 EasyAudioRecorderLite (1.23)
-appstore 503039729 Fotor Photo Editor (4.6.7)
 appstore 682658836 GarageBand (10.4.9)
 appstore 1462114288 Grammarly for Safari (9.70)
 appstore 408981434 iMovie (10.3.10)
