@@ -360,6 +360,7 @@ cask inkscape
 cask krisp
 cask maccy
 cask macfuse
+cask macs-fan-control
 cask mactex
 cask mamp
 cask mattermost
