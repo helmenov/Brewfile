@@ -2,48 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-
-tap homebrew/cask-fonts
-cask font-fira-code
-cask font-udev-gothic
-
-tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask google-japanese-ime-dev
-cask microsoft-edge-dev
-
-tap homebrew/services
-
-tap homebrew/cask
-
-tap b4b4r07/tap
-brew gist
-
-tap browsh-org/browsh
-
-tap helmenov/tap
-cask f3xswift
-
-tap nvie/tap
-brew git-toolbelt
-
-tap pirj/noclamshell
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
-
-tap sidneys/homebrew
-brew ffmpeg
-brew imagemagick
-brew pyqt
-
-tap tlk/imagemagick-x11
-
-# Other Homebrew packages
 brew abseil
 brew ampl-mp
 brew anyenv
@@ -88,6 +46,7 @@ brew eigen
 brew emacs
 brew enchant
 brew epstool
+brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
@@ -106,6 +65,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gist
 brew git
 brew gl2ps
 brew glib
@@ -131,6 +91,7 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c
+brew imagemagick
 brew imath
 brew ipopt
 brew isl
@@ -296,6 +257,7 @@ brew protobuf@21
 brew pstoedit
 brew pycparser
 brew pygments
+brew pyqt
 brew pyqt@5
 brew python-setuptools
 brew python-typing-extensions
@@ -373,7 +335,7 @@ brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
 
-# Other Cask applications
+tap homebrew/cask
 cask airserver
 cask alfred
 cask alt-tab
@@ -383,7 +345,6 @@ cask betterdiscord-installer
 cask cheatsheet
 cask chrome-remote-desktop-host
 cask cpuinfo
-cask cursor
 cask deepl
 cask discord
 cask docker
@@ -405,12 +366,14 @@ cask mamp
 cask mattermost
 cask meld
 cask memory-cleaner
+cask moom
 cask nordvpn
 cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
 cask onyx
+cask opencore-patcher
 cask quarto
 cask slack
 cask supercollider
@@ -419,25 +382,62 @@ cask the-unarchiver
 cask thonny-xxl
 cask unity-hub
 cask utm
+cask visual-studio-code
 cask wavesurfer
 cask webex
 cask xnconvert
 cask xquartz
 cask zoom
 
+tap homebrew/cask-fonts
+cask font-fira-code
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask discord-ptb
+cask google-japanese-ime-dev
+cask microsoft-edge-dev
+
+tap homebrew/services
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+cask f3xswift
+
+tap nvie/tap
+brew git-toolbelt
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
+
+tap sidneys/homebrew
+
+tap tlk/imagemagick-x11
+
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.0)
-appstore 460883588   ATOK Pad               (2.0.7)
-appstore 1193539993  Brother iPrint&Scan    (10.5.2)
-appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 682658836   GarageBand             (10.4.9)
-appstore 1462114288  Grammarly for Safari   (9.70)
-appstore 408981434   iMovie                 (10.3.10)
-appstore 409183694   Keynote                (13.2)
-appstore 539883307   LINE                   (8.4.0)
-appstore 530194517   MachineProfile         (1.4.22)
-appstore 409203825   Numbers                (13.2)
-appstore 409201541   Pages                  (13.2)
-appstore 1475387142  Tailscale              (1.52.0)
-appstore 747648890   Telegram               (10.2.4)
-appstore 497799835   Xcode                  (15.0.1)
+appstore 892162982 7zBrowser (2.5.0)
+appstore 460883588 ATOKPad (2.0.7)
+appstore 1193539993 Brother iPrint&Scan (10.5.2)
+appstore 845313878 EasyAudioRecorderLite (1.23)
+appstore 503039729 Fotor Photo Editor (4.6.7)
+appstore 682658836 GarageBand (10.4.9)
+appstore 1462114288 Grammarly for Safari (9.70)
+appstore 408981434 iMovie (10.3.10)
+appstore 409183694 Keynote (13.2)
+appstore 539883307 LINE (8.4.0)
+appstore 530194517 MachineProfile (1.4.22)
+appstore 1282504627 Mimeo Photos (5.5.0)
+appstore 409203825 Numbers (13.2)
+appstore 409201541 Pages (13.2)
+appstore 1475387142 Tailscale (1.54.0)
+appstore 747648890 Telegram (10.2.4)
+appstore 497799835 Xcode (15.0.1)
