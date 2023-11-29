@@ -182,6 +182,7 @@ brew libksba
 brew liblinear
 brew liblqr
 brew libmagic
+brew libmicrohttpd
 brew libmng
 brew libmpc
 brew libnghttp2
@@ -439,7 +440,7 @@ appstore 682658836   GarageBand             (10.4.9)
 appstore 1462114288  Grammarly for Safari   (9.70)
 appstore 408981434   iMovie                 (10.3.10)
 appstore 409183694   Keynote                (13.2)
-appstore 539883307   LINE                   (8.4.0)
+appstore 539883307   LINE                   (8.4.1)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
