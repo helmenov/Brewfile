@@ -409,6 +409,8 @@ cask mamp
 cask mattermost
 cask meld
 cask memory-cleaner
+cask microsoft-auto-update
+cask microsoft-teams
 cask moom
 cask nordvpn
 cask notion-enhanced
@@ -437,7 +439,7 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.10)
-appstore 1462114288  Grammarly for Safari   (9.70)
+appstore 1462114288  Grammarly for Safari   (9.71)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (13.2)
 appstore 539883307   LINE                   (8.5.1)
