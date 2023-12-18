@@ -392,9 +392,7 @@ cask discord
 cask docker
 cask dozer
 cask dropbox
-cask dropbox-capture
 cask dropzone
-cask finch
 cask gimp
 cask google-chrome
 cask gpg-suite
