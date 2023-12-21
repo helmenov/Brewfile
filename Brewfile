@@ -125,6 +125,7 @@ brew graphviz
 brew gsl
 brew gts
 brew guile
+brew gumbo-parser
 brew harfbuzz
 brew hdf5
 brew highway
@@ -240,6 +241,8 @@ brew molten-vk
 brew mpdecimal
 brew mpfr
 brew mpg123
+brew mujs
+brew mupdf
 brew nanomsg
 brew nanopb
 brew nasm
@@ -392,7 +395,9 @@ cask discord
 cask docker
 cask dozer
 cask dropbox
+cask dropbox-capture
 cask dropzone
+cask finch
 cask gimp
 cask google-chrome
 cask gpg-suite
@@ -444,6 +449,6 @@ appstore 539883307   LINE                   (8.5.1)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
-appstore 1475387142  Tailscale              (1.54.1)
+appstore 1475387142  Tailscale              (1.56.1)
 appstore 747648890   Telegram               (10.3)
 appstore 497799835   Xcode                  (15.1)
