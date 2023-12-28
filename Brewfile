@@ -386,6 +386,8 @@ cask alt-tab
 cask appcleaner
 cask background-music
 cask betterdiscord-installer
+cask blackhole-16ch
+cask blackhole-2ch
 cask cheatsheet
 cask chrome-remote-desktop-host
 cask cpuinfo
@@ -413,6 +415,7 @@ cask mattermost
 cask meld
 cask memory-cleaner
 cask microsoft-auto-update
+cask microsoft-outlook
 cask microsoft-teams
 cask moom
 cask nordvpn
@@ -445,6 +448,7 @@ appstore 682658836   GarageBand             (10.4.10)
 appstore 1462114288  Grammarly for Safari   (9.71)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (13.2)
+appstore 411213048   LadioCast              (000013000)
 appstore 539883307   LINE                   (8.5.1)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
