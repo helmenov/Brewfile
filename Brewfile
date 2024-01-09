@@ -415,7 +415,6 @@ cask mattermost
 cask meld
 cask memory-cleaner
 cask microsoft-auto-update
-cask microsoft-outlook
 cask microsoft-teams
 cask moom
 cask nordvpn
