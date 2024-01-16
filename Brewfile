@@ -440,7 +440,7 @@ cask xquartz
 cask zoom
 
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.0)
+appstore 892162982   7Zipブラウザ               (2.5.1)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
