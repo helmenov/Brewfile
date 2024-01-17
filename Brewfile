@@ -2,48 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-
-tap homebrew/cask-fonts
-cask font-fira-code
-cask font-udev-gothic
-
-tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask google-japanese-ime-dev
-cask microsoft-edge-dev
-
-tap homebrew/services
-
-tap homebrew/cask
-
-tap b4b4r07/tap
-brew gist
-
-tap browsh-org/browsh
-
-tap helmenov/tap
-cask f3xswift
-
-tap nvie/tap
-brew git-toolbelt
-
-tap pirj/noclamshell
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
-
-tap sidneys/homebrew
-brew ffmpeg
-brew imagemagick
-brew pyqt
-
-tap tlk/imagemagick-x11
-
-# Other Homebrew packages
 brew abseil
 brew ampl-mp
 brew anyenv
@@ -88,6 +46,7 @@ brew eigen
 brew emacs
 brew enchant
 brew epstool
+brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
@@ -106,6 +65,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gist
 brew git
 brew gl2ps
 brew glib
@@ -132,6 +92,7 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c
+brew imagemagick
 brew imath
 brew ipopt
 brew isl
@@ -301,7 +262,9 @@ brew protobuf-c
 brew protobuf@21
 brew pstoedit
 brew pycparser
+brew pyenv
 brew pygments
+brew pyqt
 brew pyqt@5
 brew python-setuptools
 brew python-typing-extensions
@@ -379,7 +342,7 @@ brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
 
-# Other Cask applications
+tap homebrew/cask
 cask airserver
 cask alfred
 cask alt-tab
@@ -438,6 +401,38 @@ cask webex
 cask xnconvert
 cask xquartz
 cask zoom
+
+tap homebrew/cask-fonts
+cask font-fira-code
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask discord-ptb
+cask google-japanese-ime-dev
+cask microsoft-edge-dev
+
+tap homebrew/services
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+cask f3xswift
+
+tap nvie/tap
+brew git-toolbelt
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkpac
+brew chatgpt-prompt-wrapper
+
+tap tlk/imagemagick-x11
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.1)
