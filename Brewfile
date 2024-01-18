@@ -301,6 +301,7 @@ brew protobuf-c
 brew protobuf@21
 brew pstoedit
 brew pycparser
+brew pyenv
 brew pygments
 brew pyqt@5
 brew python-setuptools
