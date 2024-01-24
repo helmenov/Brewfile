@@ -195,6 +195,7 @@ brew libraw
 brew librist
 brew librsvg
 brew libsamplerate
+brew libsixel
 brew libsndfile
 brew libsodium
 brew libsoxr
@@ -406,6 +407,7 @@ cask google-chrome
 cask gpg-suite
 cask hammerspoon
 cask inkscape
+cask iterm2
 cask krisp
 cask maccy
 cask macfuse
@@ -441,7 +443,7 @@ cask xquartz
 cask zoom
 
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.1)
+appstore 892162982   7Zipブラウザ               (2.5.2)
 appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
@@ -450,7 +452,7 @@ appstore 1462114288  Grammarly for Safari   (9.71)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (13.2)
 appstore 411213048   LadioCast              (000013000)
-appstore 539883307   LINE                   (8.5.2)
+appstore 539883307   LINE                   (8.5.3)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
