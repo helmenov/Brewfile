@@ -262,6 +262,7 @@ brew notmuch
 brew npth
 brew nspr
 brew nss
+brew numpy
 brew octave
 brew oniguruma
 brew open-jtalk
@@ -276,6 +277,7 @@ brew openldap
 brew openlibm
 brew openssl@1.1
 brew openssl@3
+brew openvino
 brew opus
 brew opusfile
 brew p11-kit
@@ -301,6 +303,7 @@ brew protobuf
 brew protobuf-c
 brew protobuf@21
 brew pstoedit
+brew pugixml
 brew pycparser
 brew pyenv
 brew pygments
@@ -344,6 +347,7 @@ brew sundials
 brew svt-av1
 brew swig
 brew talloc
+brew tbb
 brew tcl-tk
 brew tesseract
 brew texinfo
@@ -456,6 +460,6 @@ appstore 539883307   LINE                   (8.5.3)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
-appstore 1475387142  Tailscale              (1.56.1)
-appstore 747648890   Telegram               (10.6)
+appstore 1475387142  Tailscale              (1.58.2)
+appstore 747648890   Telegram               (10.6.1)
 appstore 497799835   Xcode                  (15.2)
