@@ -53,7 +53,6 @@ brew apr-util
 brew aria2
 brew aribb24
 brew arpack
-brew asdf
 brew aspell
 brew assimp
 brew autoconf
@@ -238,6 +237,7 @@ brew md4c
 brew mecab
 brew mecab-ipadic
 brew metis
+brew mise
 brew molten-vk
 brew mpdecimal
 brew mpfr
@@ -291,6 +291,7 @@ brew pgpdump
 brew pinentry
 brew pinentry-mac
 brew pinfo
+brew pipx
 brew pixman
 brew pkg-config
 brew plotutils
@@ -308,6 +309,8 @@ brew pycparser
 brew pyenv
 brew pygments
 brew pyqt@5
+brew python-argcomplete
+brew python-packaging
 brew python-setuptools
 brew python-typing-extensions
 brew python@3.11
@@ -330,7 +333,6 @@ brew rtmpdump
 brew rubberband
 brew rust
 brew rustup-init
-brew rye
 brew samba
 brew sdl2
 brew shared-mime-info
@@ -452,7 +454,7 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.10)
-appstore 1462114288  Grammarly for Safari   (9.71)
+appstore 1462114288  Grammarly for Safari   (9.72)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (13.2)
 appstore 411213048   LadioCast              (000013000)
@@ -461,5 +463,5 @@ appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.58.2)
-appstore 747648890   Telegram               (10.6.1)
+appstore 747648890   Telegram               (10.6.5)
 appstore 497799835   Xcode                  (15.2)
