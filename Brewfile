@@ -47,6 +47,7 @@ tap tlk/imagemagick-x11
 # Other Homebrew packages
 brew abseil
 brew ampl-mp
+brew anyenv
 brew aom
 brew apr
 brew apr-util
@@ -306,6 +307,7 @@ brew protobuf@21
 brew pstoedit
 brew pugixml
 brew pycparser
+brew pyenv
 brew pygments
 brew pyqt@5
 brew python-argcomplete
