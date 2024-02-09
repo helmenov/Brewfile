@@ -37,11 +37,6 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
 
-tap sidneys/homebrew
-brew ffmpeg
-brew imagemagick
-brew pyqt
-
 tap tlk/imagemagick-x11
 
 # Other Homebrew packages
