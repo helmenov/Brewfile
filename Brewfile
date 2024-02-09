@@ -4,6 +4,7 @@
 tap homebrew/core
 
 tap homebrew/cask-fonts
+cask font-0xproto-nerd-font
 cask font-fira-code
 cask font-udev-gothic
 
@@ -463,5 +464,5 @@ appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.58.2)
-appstore 747648890   Telegram               (10.6.5)
+appstore 747648890   Telegram               (10.7)
 appstore 497799835   Xcode                  (15.2)
