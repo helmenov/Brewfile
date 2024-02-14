@@ -389,7 +389,6 @@ brew zstd
 
 # Other Cask applications
 cask airserver
-cask alfred
 cask alt-tab
 cask appcleaner
 cask background-music
