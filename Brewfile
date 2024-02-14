@@ -409,7 +409,6 @@ cask finch
 cask gimp
 cask google-chrome
 cask gpg-suite
-cask hammerspoon
 cask inkscape
 cask iterm2
 cask krisp
@@ -424,7 +423,6 @@ cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
 cask microsoft-teams
-cask moom
 cask nordvpn
 cask notion-enhanced
 cask numi
