@@ -72,6 +72,7 @@ brew cdrtools
 brew cffi
 brew cjson
 brew clamav
+brew cliclick
 brew cmake
 brew cmocka
 brew coreutils
@@ -388,7 +389,7 @@ brew zstd
 
 # Other Cask applications
 cask airserver
-cask alfred
+#cask alfred
 cask alt-tab
 cask appcleaner
 cask background-music
@@ -433,6 +434,7 @@ cask obs-virtualcam
 cask onyx
 cask opencore-patcher
 cask quarto
+cask raycast
 cask slack
 cask supercollider
 cask texstudio
