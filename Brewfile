@@ -37,6 +37,13 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
 
+tap sidneys/homebrew
+brew ffmpeg
+brew imagemagick
+brew pyqt
+
+tap tlk/imagemagick-x11
+
 # Other Homebrew packages
 brew abseil
 brew ampl-mp
@@ -77,6 +84,7 @@ brew docbook-xsl
 brew docker-completion
 brew double-conversion
 brew eigen
+brew emacs
 brew enchant
 brew epstool
 brew fftw
