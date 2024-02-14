@@ -37,6 +37,11 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 brew chatgpt-prompt-wrapper
 
+tap sidneys/homebrew
+brew ffmpeg
+brew imagemagick
+brew pyqt
+
 tap tlk/imagemagick-x11
 
 # Other Homebrew packages
@@ -417,6 +422,8 @@ cask mattermost
 cask meld
 cask memory-cleaner
 cask microsoft-auto-update
+cask microsoft-outlook
+cask microsoft-teams
 cask moom
 cask nordvpn
 cask notion-enhanced
@@ -454,5 +461,5 @@ appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.58.2)
-appstore 747648890   Telegram               (10.7)
+appstore 747648890   Telegram               (10.7.1)
 appstore 497799835   Xcode                  (15.2)
