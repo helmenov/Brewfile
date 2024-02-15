@@ -26,6 +26,9 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
+tap mklement0/ttab
+brew ttab
+
 tap nvie/tap
 brew git-toolbelt
 
@@ -176,6 +179,7 @@ brew libgit2@1.6
 brew libgpg-error
 brew libgsf
 brew libheif
+brew libice
 brew libiconv
 brew libidn
 brew libidn2
@@ -196,6 +200,7 @@ brew librist
 brew librsvg
 brew libsamplerate
 brew libsixel
+brew libsm
 brew libsndfile
 brew libsodium
 brew libsoxr
@@ -219,6 +224,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libxt
 brew libyaml
 brew little-cms2
 brew llvm
@@ -288,6 +294,7 @@ brew pango
 brew pcre
 brew pcre2
 brew pdftk-java
+brew peco
 brew pgpdump
 brew pinentry
 brew pinentry-mac
@@ -388,7 +395,6 @@ brew zsh-git-prompt
 brew zstd
 
 # Other Cask applications
-cask airserver
 cask alt-tab
 cask appcleaner
 cask background-music
@@ -413,18 +419,16 @@ cask inkscape
 cask iterm2
 cask krisp
 cask maccy
+cask macdown
 cask macfuse
 cask macs-fan-control
 cask mactex
-cask mamp
-cask mattermost
 cask meld
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
 cask microsoft-teams
 cask nordvpn
-cask notion-enhanced
 cask numi
 cask obs
 cask obs-virtualcam
