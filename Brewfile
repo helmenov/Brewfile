@@ -26,7 +26,7 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
-tap mklement0/ttab
+tap mklement0/ttab ttab
 brew ttab
 
 tap nvie/tap
