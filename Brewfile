@@ -440,7 +440,7 @@ cask slack
 cask supercollider
 cask texstudio
 cask the-unarchiver
-cask thonny-xxl
+cask thonny
 cask unity-hub
 cask utm
 cask wavesurfer
@@ -459,7 +459,7 @@ appstore 1462114288  Grammarly for Safari   (9.72)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (13.2)
 appstore 411213048   LadioCast              (000013000)
-appstore 539883307   LINE                   (8.5.3)
+appstore 539883307   LINE                   (8.6.0)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
