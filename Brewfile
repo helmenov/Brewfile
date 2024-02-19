@@ -26,7 +26,7 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
-tap mklement0/ttab, git@github.com:/mklement0/ttab.git
+tap mklement0/ttab
 brew ttab
 
 tap nvie/tap
@@ -464,5 +464,5 @@ appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
 appstore 1475387142  Tailscale              (1.58.2)
-appstore 747648890   Telegram               (10.7.1)
+appstore 747648890   Telegram               (10.8)
 appstore 497799835   Xcode                  (15.2)
