@@ -158,6 +158,7 @@ brew lame
 brew lapack
 brew ldns
 brew leptonica
+brew lesspipe
 brew libaec
 brew libarchive
 brew libass
