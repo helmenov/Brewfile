@@ -451,6 +451,7 @@ cask zoom
 
 # App Store applications
 appstore 892162982   7Zipブラウザ               (2.5.2)
+appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (10.5.2)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.10)
@@ -462,5 +463,6 @@ appstore 539883307   LINE                   (8.6.0)
 appstore 530194517   MachineProfile         (1.4.22)
 appstore 409203825   Numbers                (13.2)
 appstore 409201541   Pages                  (13.2)
+appstore 1475387142  Tailscale              (1.58.2)
 appstore 747648890   Telegram               (10.8)
 appstore 497799835   Xcode                  (15.2)
