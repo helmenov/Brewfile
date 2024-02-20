@@ -50,6 +50,7 @@ tap tlk/imagemagick-x11
 # Other Homebrew packages
 brew abseil
 brew ampl-mp
+brew antiword
 brew aom
 brew apr
 brew apr-util
