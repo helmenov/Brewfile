@@ -447,7 +447,6 @@ cask wavesurfer
 cask webex
 cask xnconvert
 cask xquartz
-cask zed
 cask zoom
 
 # App Store applications
