@@ -291,7 +291,6 @@ brew p11-kit
 brew p7zip
 brew pandoc
 brew pango
-brew pass
 brew pcre
 brew pcre2
 brew pdftk-java
