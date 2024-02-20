@@ -291,6 +291,7 @@ brew p11-kit
 brew p7zip
 brew pandoc
 brew pango
+brew pass
 brew pcre
 brew pcre2
 brew pdftk-java
@@ -326,6 +327,7 @@ brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
+brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt
