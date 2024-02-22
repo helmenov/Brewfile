@@ -38,7 +38,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
-brew chatgpt-prompt-wrapper
 
 tap sidneys/homebrew
 brew ffmpeg
