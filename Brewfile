@@ -131,6 +131,7 @@ brew gumbo-parser
 brew harfbuzz
 brew hdf5
 brew highway
+brew htop
 brew hunspell
 brew hwloc
 brew icu4c
