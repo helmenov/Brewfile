@@ -312,6 +312,7 @@ brew protobuf
 brew protobuf-c
 brew protobuf@21
 brew pstoedit
+brew pstree
 brew pugixml
 brew pycparser
 brew pygments
