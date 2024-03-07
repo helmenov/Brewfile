@@ -6,6 +6,9 @@ tap homebrew/core
 tap homebrew/cask-fonts
 cask font-0xproto-nerd-font
 cask font-fira-code
+cask font-noto-sans-cjk-jp
+cask font-noto-sans-mono-cjk-jp
+cask font-noto-serif-cjk-jp
 cask font-udev-gothic
 
 tap homebrew/cask-versions
