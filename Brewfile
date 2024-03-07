@@ -366,6 +366,7 @@ brew theora
 brew tokyo-cabinet
 brew tree
 brew tree-sitter
+brew typst
 brew unbound
 brew unixodbc
 brew usbredir
