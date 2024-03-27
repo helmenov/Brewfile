@@ -14,6 +14,7 @@ cask font-udev-gothic
 tap homebrew/cask-versions
 cask brave-browser-beta
 cask discord-ptb
+cask figma-beta
 cask google-japanese-ime-dev
 cask microsoft-edge-dev
 
