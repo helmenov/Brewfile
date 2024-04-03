@@ -266,7 +266,6 @@ brew nghttp2
 brew ninja
 brew nkf
 brew nmap
-brew node@16
 brew notmuch
 brew npth
 brew nspr
