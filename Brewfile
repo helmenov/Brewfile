@@ -340,7 +340,6 @@ brew ripgrep
 brew rocksdb
 brew rtmpdump
 brew rubberband
-brew rustup-init
 brew samba
 brew sdl2
 brew shared-mime-info
