@@ -155,7 +155,6 @@ brew jq
 brew json-c
 brew json-glib
 brew jsoncpp
-brew juliaup
 brew krb5
 brew lame
 brew lapack
