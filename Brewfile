@@ -268,7 +268,6 @@ brew nkf
 brew nmap
 brew node
 brew node@16
-brew nodebrew
 brew notmuch
 brew npth
 brew nspr
