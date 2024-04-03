@@ -390,7 +390,6 @@ brew xtrans
 brew xvid
 brew xz
 brew yara
-brew yarn
 brew z3
 brew zeromq
 brew zimg
