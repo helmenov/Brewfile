@@ -234,7 +234,6 @@ brew libyaml
 brew little-cms2
 brew llvm
 brew llvm@11
-brew llvm@16
 brew lmdb
 brew lua
 brew lua@5.3
