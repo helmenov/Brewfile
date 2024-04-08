@@ -421,7 +421,6 @@ cask maccy
 cask macdown
 cask macfuse
 cask macs-fan-control
-cask basictex
 cask meld
 cask memory-cleaner
 cask microsoft-auto-update
