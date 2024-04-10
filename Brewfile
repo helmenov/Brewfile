@@ -75,6 +75,7 @@ brew cabextract
 brew cairo
 brew cask
 brew cdrtools
+brew certifi
 brew cffi
 brew cjson
 brew clamav
@@ -293,6 +294,7 @@ brew pango
 brew pcre
 brew pcre2
 brew pdftk-java
+brew pdm
 brew peco
 brew pgpdump
 brew pinentry
