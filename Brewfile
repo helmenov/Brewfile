@@ -415,6 +415,7 @@ cask dropbox
 cask dropzone
 cask finch
 cask gimp
+cask git-credential-manager
 cask google-chrome
 cask gpg-suite
 cask inkscape
