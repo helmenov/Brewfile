@@ -73,7 +73,6 @@ brew c-blosc
 brew ca-certificates
 brew cabextract
 brew cairo
-brew cask
 brew cdrtools
 brew certifi
 brew cffi
@@ -89,7 +88,6 @@ brew dav1d
 brew dbus
 brew docbook
 brew docbook-xsl
-brew docker-completion
 brew double-conversion
 brew eigen
 brew emacs
@@ -233,10 +231,8 @@ brew libxt
 brew libyaml
 brew little-cms2
 brew llvm
-brew llvm@11
 brew lmdb
 brew lua
-brew lua@5.3
 brew lz4
 brew lzo
 brew m4
@@ -282,7 +278,6 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openlibm
-brew openssl@1.1
 brew openssl@3
 brew openvino
 brew opus
@@ -321,7 +316,6 @@ brew pyqt@5
 brew python-argcomplete
 brew python-packaging
 brew python-setuptools
-brew python-typing-extensions
 brew python@3.11
 brew python@3.12
 brew python@3.9
@@ -410,7 +404,6 @@ cask cursor
 cask deepl
 cask discord
 cask docker
-cask dozer
 cask dropbox
 cask dropzone
 cask finch
@@ -418,6 +411,7 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask gpg-suite
+cask hiddenbar
 cask inkscape
 cask iterm2
 cask krisp
@@ -425,7 +419,6 @@ cask maccy
 cask macdown
 cask macfuse
 cask macs-fan-control
-cask meld
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -433,7 +426,6 @@ cask microsoft-teams
 cask nordvpn
 cask numi
 cask obs
-cask obs-virtualcam
 cask onyx
 cask opencore-patcher
 cask quarto
@@ -458,7 +450,7 @@ appstore 460883588   ATOK Pad               (2.0.7)
 appstore 1193539993  Brother iPrint&Scan    (11.0.1)
 appstore 845313878   EasyAudioRecorderLite  (1.23)
 appstore 682658836   GarageBand             (10.4.11)
-appstore 1462114288  Grammarly for Safari   (9.72)
+appstore 1462114288  Grammarly for Safari   (9.73)
 appstore 408981434   iMovie                 (10.4)
 appstore 409183694   Keynote                (14.0)
 appstore 411213048   LadioCast              (000013000)
