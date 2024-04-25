@@ -395,8 +395,6 @@ cask appcleaner
 cask background-music
 cask basictex
 cask betterdiscord-installer
-cask blackhole-16ch
-cask blackhole-2ch
 cask cheatsheet
 cask chrome-remote-desktop-host
 cask cpuinfo
