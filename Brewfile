@@ -2,50 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-
-tap homebrew/cask-fonts
-cask font-0xproto-nerd-font
-cask font-fira-code
-cask font-noto-sans-cjk-jp
-cask font-noto-sans-mono-cjk-jp
-cask font-noto-serif-cjk-jp
-cask font-udev-gothic
-
-tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask figma-beta
-cask google-japanese-ime-dev
-cask microsoft-edge-dev
-
-tap homebrew/services
-
-tap homebrew/cask
-
-tap b4b4r07/tap
-brew gist
-
-tap browsh-org/browsh
-
-tap helmenov/tap
-cask f3xswift
-
-tap mklement0/ttab
-brew ttab
-
-tap nvie/tap
-brew git-toolbelt
-
-tap pirj/noclamshell
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkpac
-
-tap tlk/imagemagick-x11
-
-# Other Homebrew packages
 brew abseil
 brew ampl-mp
 brew aom
@@ -105,6 +61,7 @@ brew gettext
 brew gflags
 brew ghostscript
 brew giflib
+brew gist
 brew git
 brew gl2ps
 brew glib
@@ -132,6 +89,7 @@ brew htop
 brew hunspell
 brew hwloc
 brew icu4c
+brew imagemagick
 brew imath
 brew ipopt
 brew isl
@@ -306,6 +264,7 @@ brew pstree
 brew pugixml
 brew pycparser
 brew pygments
+brew pyqt
 brew pyqt@5
 brew python-argcomplete
 brew python-packaging
@@ -383,7 +342,7 @@ brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
 
-# Other Cask applications
+tap homebrew/cask
 cask alt-tab
 cask appcleaner
 cask basictex
@@ -435,20 +394,59 @@ cask xnconvert
 cask xquartz
 cask zoom
 
+tap homebrew/cask-fonts
+cask font-0xproto-nerd-font
+cask font-fira-code
+cask font-noto-sans-cjk-jp
+cask font-noto-sans-mono-cjk-jp
+cask font-noto-serif-cjk-jp
+cask font-udev-gothic
+
+tap homebrew/cask-versions
+cask brave-browser-beta
+cask discord-ptb
+cask figma-beta
+cask google-japanese-ime-dev
+cask microsoft-edge-dev
+
+tap homebrew/services
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+cask f3xswift
+
+tap mklement0/ttab
+brew ttab
+
+tap nvie/tap
+brew git-toolbelt
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkpac
+
+tap tlk/imagemagick-x11
+
 # App Store applications
-appstore 892162982   7Zipブラウザ               (2.5.2)
-appstore 460883588   ATOK Pad               (2.0.7)
-appstore 1193539993  Brother iPrint&Scan    (11.0.1)
-appstore 845313878   EasyAudioRecorderLite  (1.23)
-appstore 682658836   GarageBand             (10.4.11)
-appstore 1462114288  Grammarly for Safari   (9.73)
-appstore 408981434   iMovie                 (10.4)
-appstore 409183694   Keynote                (14.0)
-appstore 411213048   LadioCast              (000013000)
-appstore 539883307   LINE                   (8.7.0)
-appstore 530194517   MachineProfile         (1.4.24)
-appstore 409203825   Numbers                (14.0)
-appstore 409201541   Pages                  (14.0)
-appstore 1475387142  Tailscale              (1.62.0)
-appstore 747648890   Telegram               (10.10.2)
-appstore 497799835   Xcode                  (15.3)
+appstore 892162982 7zBrowser (2.5.2)
+appstore 460883588 ATOKPad (2.0.7)
+appstore 1193539993 Brother iPrint&Scan (11.0.1)
+appstore 845313878 EasyAudioRecorderLite (1.23)
+appstore 682658836 GarageBand (10.4.11)
+appstore 1462114288 Grammarly for Safari (9.73)
+appstore 408981434 iMovie (10.4)
+appstore 409183694 Keynote (14.0)
+appstore 411213048 LadioCast (000013000)
+appstore 539883307 LINE (8.7.0)
+appstore 530194517 MachineProfile (1.4.24)
+appstore 409203825 Numbers (14.0)
+appstore 409201541 Pages (14.0)
+appstore 1475387142 Tailscale (1.64.0)
+appstore 747648890 Telegram (10.10.2)
+appstore 497799835 Xcode (15.3)
