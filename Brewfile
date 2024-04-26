@@ -85,7 +85,6 @@ brew docbook
 brew docbook-xsl
 brew double-conversion
 brew eigen
-brew emacs
 brew enchant
 brew epstool
 brew fftw
@@ -387,7 +386,6 @@ brew zstd
 # Other Cask applications
 cask alt-tab
 cask appcleaner
-cask background-music
 cask basictex
 cask betterdiscord-installer
 cask cheatsheet
