@@ -43,8 +43,6 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 
-tap sidneys/homebrew
-
 tap tlk/imagemagick-x11
 
 # Other Homebrew packages
