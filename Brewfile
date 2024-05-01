@@ -403,11 +403,6 @@ cask font-noto-serif-cjk-jp
 cask font-udev-gothic
 
 tap homebrew/cask-versions
-cask brave-browser-beta
-cask discord-ptb
-cask figma-beta
-cask google-japanese-ime-dev
-cask microsoft-edge-dev
 
 tap homebrew/services
 
@@ -448,5 +443,5 @@ appstore 530194517 MachineProfile (1.4.24)
 appstore 409203825 Numbers (14.0)
 appstore 409201541 Pages (14.0)
 appstore 1475387142 Tailscale (1.64.0)
-appstore 747648890 Telegram (10.10.2)
+appstore 747648890 Telegram (10.12.2)
 appstore 497799835 Xcode (15.3)
