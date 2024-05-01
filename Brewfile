@@ -345,7 +345,6 @@ brew zstd
 tap homebrew/cask
 cask alt-tab
 cask appcleaner
-cask aquaskk
 cask basictex
 cask betterdiscord-installer
 cask brave-browser@beta
