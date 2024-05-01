@@ -361,6 +361,7 @@ cask finch
 cask gimp
 cask git-credential-manager
 cask google-chrome
+cask google-japanese-ime
 cask gpg-suite
 cask hiddenbar
 cask inkscape
