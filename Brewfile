@@ -392,6 +392,7 @@ cask unity-hub
 cask utm
 cask wavesurfer
 cask webex
+cask wezterm
 cask xnconvert
 cask xquartz
 cask zoom
