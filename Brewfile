@@ -261,7 +261,6 @@ brew tesseract
 brew texinfo
 brew tokyo-cabinet
 brew tree
-brew typst
 brew unbound
 brew usbredir
 brew utf8proc
