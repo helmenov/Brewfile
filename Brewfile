@@ -300,6 +300,12 @@ cask docker
 cask dropbox
 cask dropzone
 cask finch
+cask font-0xproto-nerd-font
+cask font-fira-code
+cask font-noto-sans-cjk-jp
+cask font-noto-sans-mono-cjk-jp
+cask font-noto-serif-cjk-jp
+cask font-udev-gothic
 cask gimp
 cask git-credential-manager
 cask google-chrome
@@ -340,12 +346,6 @@ cask xquartz
 cask zoom
 
 tap homebrew/cask-fonts
-cask font-0xproto-nerd-font
-cask font-fira-code
-cask font-noto-sans-cjk-jp
-cask font-noto-sans-mono-cjk-jp
-cask font-noto-serif-cjk-jp
-cask font-udev-gothic
 
 tap homebrew/cask-versions
 
@@ -376,7 +376,7 @@ tap tlk/imagemagick-x11
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
 appstore 460883588 ATOKPad (2.0.7)
-appstore 1193539993 Brother iPrint&Scan (11.0.1)
+appstore 1193539993 Brother iPrint&Scan (12.0.1)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.73)
@@ -389,4 +389,4 @@ appstore 409203825 Numbers (14.0)
 appstore 409201541 Pages (14.0)
 appstore 1475387142 Tailscale (1.64.0)
 appstore 747648890 Telegram (10.12.2)
-appstore 497799835 Xcode (15.3)
+appstore 497799835 Xcode (15.4)
