@@ -313,7 +313,6 @@ cask google-japanese-ime
 cask gpg-suite
 cask hiddenbar
 cask inkscape
-cask iterm2
 cask krisp
 cask maccy
 cask macdown
