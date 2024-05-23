@@ -325,6 +325,7 @@ cask microsoft-teams
 cask nordvpn
 cask numi
 cask obs
+cask obsidian
 cask onyx
 cask opencore-patcher
 cask quarto
