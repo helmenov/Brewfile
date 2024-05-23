@@ -72,7 +72,6 @@ brew graphite2
 brew graphviz
 brew gsl
 brew gts
-brew gumbo-parser
 brew harfbuzz
 brew hdf5
 brew highway
