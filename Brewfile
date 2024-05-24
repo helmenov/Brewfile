@@ -229,6 +229,7 @@ brew pstree
 brew pycparser
 brew pyqt
 brew python-setuptools
+brew python-tk@3.12
 brew python@3.11
 brew python@3.12
 brew python@3.9
