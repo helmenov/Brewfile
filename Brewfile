@@ -133,6 +133,7 @@ brew libogg
 brew libomp
 brew libpng
 brew libraw
+brew libressl
 brew librsvg
 brew libsixel
 brew libsm
@@ -387,6 +388,6 @@ appstore 539883307 LINE (8.7.0)
 appstore 530194517 MachineProfile (1.4.24)
 appstore 409203825 Numbers (14.0)
 appstore 409201541 Pages (14.0)
-appstore 1475387142 Tailscale (1.64.0)
+appstore 1475387142 Tailscale (1.66.4)
 appstore 747648890 Telegram (10.12.2)
 appstore 497799835 Xcode (15.4)
