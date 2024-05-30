@@ -59,6 +59,7 @@ brew gist
 brew git
 brew gl2ps
 brew glib
+brew glow
 brew glpk
 brew gmime
 brew gmp
@@ -273,6 +274,7 @@ brew wimlib
 brew wv
 brew x265
 brew xapian
+brew xdg-ninja
 brew xerces-c
 brew xorgproto
 brew xtrans
