@@ -331,6 +331,7 @@ cask onyx
 cask opencore-patcher
 cask quarto
 cask raycast
+cask rstudio
 cask shotcut
 cask slack
 cask supercollider
