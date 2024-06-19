@@ -239,7 +239,6 @@ brew qpdf
 brew qrupdate
 brew qscintilla2
 brew qt
-brew r
 brew rapidjson
 brew readline
 brew reattach-to-user-namespace
