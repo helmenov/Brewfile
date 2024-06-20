@@ -157,7 +157,6 @@ brew libxext
 brew libxrender
 brew libxt
 brew little-cms2
-brew llvm
 brew lmdb
 brew lua
 brew lz4
