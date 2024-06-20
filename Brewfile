@@ -328,6 +328,7 @@ cask obsidian
 cask onyx
 cask opencore-patcher
 cask quarto
+cask r
 cask raycast
 cask shotcut
 cask slack
