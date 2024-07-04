@@ -56,6 +56,7 @@ brew ghostscript
 brew giflib
 brew gist
 brew git
+brew git-lfs
 brew gl2ps
 brew glib
 brew glow
