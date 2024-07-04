@@ -244,7 +244,6 @@ brew reattach-to-user-namespace
 brew ripgrep
 brew rocksdb
 brew rtmpdump
-brew rye
 brew samba
 brew shared-mime-info
 brew snappy
