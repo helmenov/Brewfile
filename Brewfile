@@ -298,7 +298,6 @@ cask discord
 cask docker
 cask dropbox
 cask dropzone
-cask finch
 cask font-0xproto-nerd-font
 cask font-fira-code
 cask font-noto-sans-cjk-jp
