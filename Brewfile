@@ -286,6 +286,7 @@ brew zstd
 
 tap homebrew/cask
 cask alt-tab
+cask anydesk
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
