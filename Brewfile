@@ -294,7 +294,6 @@ cask brave-browser@beta
 cask cheatsheet
 cask chrome-remote-desktop-host
 cask cpuinfo
-cask cursor
 cask deepl
 cask discord
 cask docker
