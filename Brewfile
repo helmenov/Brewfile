@@ -106,6 +106,7 @@ brew lesspipe
 brew libaec
 brew libarchive
 brew libassuan
+brew libassuan@2
 brew libavif
 brew libb2
 brew libde265
@@ -228,7 +229,6 @@ brew pstoedit
 brew pstree
 brew pycparser
 brew pyqt
-brew python-setuptools
 brew python-tk@3.12
 brew python@3.11
 brew python@3.12
@@ -381,7 +381,7 @@ appstore 1193539993 Brother iPrint&Scan (12.0.3)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.75)
-appstore 408981434 iMovie (10.4.1)
+appstore 408981434 iMovie (10.4.2)
 appstore 409183694 Keynote (14.1)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.2.0)
