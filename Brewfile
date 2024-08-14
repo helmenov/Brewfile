@@ -290,6 +290,7 @@ cask anydesk
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
+cask bitwarden
 cask brave-browser@beta
 cask cheatsheet
 cask chrome-remote-desktop-host
@@ -376,7 +377,7 @@ tap tlk/imagemagick-x11
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
 appstore 460883588 ATOKPad (2.0.7)
-appstore 1193539993 Brother iPrint&Scan (12.0.2)
+appstore 1193539993 Brother iPrint&Scan (12.0.3)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.75)
@@ -388,5 +389,5 @@ appstore 530194517 MachineProfile (1.4.25)
 appstore 409203825 Numbers (14.1)
 appstore 409201541 Pages (14.1)
 appstore 1475387142 Tailscale (1.70.0)
-appstore 747648890 Telegram (10.15.2)
+appstore 747648890 Telegram (10.15.4)
 appstore 497799835 Xcode (15.4)
