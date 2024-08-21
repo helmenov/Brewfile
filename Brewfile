@@ -290,7 +290,6 @@ cask anydesk
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
-cask bitwarden
 cask brave-browser@beta
 cask cheatsheet
 cask chrome-remote-desktop-host
