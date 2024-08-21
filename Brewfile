@@ -15,6 +15,7 @@ brew autoconf
 brew automake
 brew bdw-gc
 brew bison
+brew bitwarden-cli
 brew blahtexml
 brew boost
 brew brotli
@@ -148,6 +149,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
 brew libvmaf
 brew libvorbis
 brew libwmf
@@ -187,6 +189,7 @@ brew nghttp2
 brew ninja
 brew nkf
 brew nmap
+brew node
 brew notmuch
 brew npth
 brew nspr
