@@ -313,6 +313,7 @@ cask gpg-suite
 cask hiddenbar
 cask inkscape
 cask krisp
+cask ltspice
 cask maccy
 cask macdown
 cask macfuse
