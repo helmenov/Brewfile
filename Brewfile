@@ -257,7 +257,9 @@ brew sundials
 brew swig
 brew talloc
 brew tcl-tk
+brew tdb
 brew tesseract
+brew tevent
 brew texinfo
 brew tokyo-cabinet
 brew tree
