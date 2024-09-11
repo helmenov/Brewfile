@@ -82,6 +82,7 @@ brew hwloc
 brew icu4c
 brew imagemagick
 brew imath
+brew ipfs
 brew ipopt
 brew isl
 brew iso-codes
@@ -386,10 +387,10 @@ appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.2)
 appstore 409183694 Keynote (14.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.2.0)
+appstore 539883307 LINE (9.3.0)
 appstore 530194517 MachineProfile (1.4.25)
 appstore 409203825 Numbers (14.1)
 appstore 409201541 Pages (14.1)
 appstore 1475387142 Tailscale (1.72.2)
-appstore 747648890 Telegram (11.0.2)
+appstore 747648890 Telegram (11.1)
 appstore 497799835 Xcode (15.4)
