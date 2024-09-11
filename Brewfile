@@ -73,6 +73,7 @@ brew graphite2
 brew graphviz
 brew gsl
 brew gts
+brew gumbo-parser
 brew harfbuzz
 brew hdf5
 brew highway
@@ -97,7 +98,6 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew json-glib
-brew jsoncpp
 brew krb5
 brew lame
 brew lapack
@@ -265,6 +265,7 @@ brew texinfo
 brew tokyo-cabinet
 brew tree
 brew unbound
+brew usage
 brew usbredir
 brew utf8proc
 brew util-macros
