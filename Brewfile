@@ -314,7 +314,6 @@ cask font-noto-serif-cjk-jp
 cask font-udev-gothic
 cask gimp
 cask git-credential-manager
-cask github
 cask google-chrome
 cask google-japanese-ime
 cask gpg-suite
