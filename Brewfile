@@ -110,10 +110,12 @@ brew libassuan
 brew libassuan@2
 brew libavif
 brew libb2
+brew libcbor
 brew libde265
 brew libdeflate
 brew libev
 brew libevent
+brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
@@ -177,6 +179,7 @@ brew mpfr
 brew mpg123
 brew mujs
 brew mupdf
+brew mysql-client
 brew nanomsg
 brew nanopb
 brew nasm
