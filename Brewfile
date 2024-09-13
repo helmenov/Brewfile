@@ -52,6 +52,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gflags
+brew gh
 brew ghostscript
 brew giflib
 brew gist
