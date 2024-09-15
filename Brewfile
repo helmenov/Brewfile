@@ -300,7 +300,6 @@ cask basictex
 cask betterdiscord-installer
 cask brave-browser@beta
 cask cheatsheet
-cask chrome-remote-desktop-host
 cask cpuinfo
 cask deepl
 cask discord
