@@ -81,7 +81,7 @@ brew highway
 brew htop
 brew hunspell
 brew hwloc
-brew icu4c
+brew icu4c@76
 brew imagemagick
 brew imath
 brew ipfs
@@ -234,9 +234,11 @@ brew pstoedit
 brew pstree
 brew pycparser
 brew pyqt
+brew python-packaging
 brew python-tk@3.12
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew python@3.9
 brew qdbm
 brew qhull
@@ -381,6 +383,9 @@ tap rcmdnk/rcmdnkpac
 
 tap tlk/imagemagick-x11
 
+# Other Homebrew packages
+brew icu4c
+
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
 appstore 460883588 ATOKPad (2.0.7)
@@ -389,12 +394,12 @@ appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.2)
-appstore 409183694 Keynote (14.1)
+appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.3.0)
-appstore 530194517 MachineProfile (1.4.25)
-appstore 409203825 Numbers (14.1)
-appstore 409201541 Pages (14.1)
-appstore 1475387142 Tailscale (1.72.2)
-appstore 747648890 Telegram (11.1)
-appstore 497799835 Xcode (15.4)
+appstore 539883307 LINE (9.4.1)
+appstore 530194517 MachineProfile (1.4.26)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
+appstore 1475387142 Tailscale (1.76.1)
+appstore 747648890 Telegram (11.2.2)
+appstore 497799835 Xcode (16.1)
