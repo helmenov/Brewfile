@@ -87,6 +87,9 @@ brew icu4c@76
 =======
 brew icu4c
 brew icu4c@75
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 brew imagemagick
 brew imath
@@ -427,4 +430,7 @@ appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.0)
 appstore 747648890 Telegram (11.2.2)
 appstore 497799835 Xcode (16.0)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
