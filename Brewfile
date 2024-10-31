@@ -66,7 +66,6 @@ brew gmime
 brew gmp
 brew gnu-sed
 brew gnupg
-brew gnuplot
 brew gnutls
 brew gobject-introspection
 brew gpgme
@@ -113,7 +112,6 @@ brew libassuan@2
 brew libavif
 brew libb2
 brew libcbor
-brew libcerf
 brew libde265
 brew libdeflate
 brew libev
@@ -154,10 +152,8 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
-brew libuv
 brew libvmaf
 brew libvorbis
-brew libvterm
 brew libwmf
 brew libx11
 brew libxau
@@ -168,10 +164,7 @@ brew libxrender
 brew libxt
 brew little-cms2
 brew lmdb
-brew lpeg
 brew lua
-brew luajit
-brew luv
 brew lz4
 brew lzo
 brew m4
@@ -185,7 +178,6 @@ brew mise
 brew mpdecimal
 brew mpfr
 brew mpg123
-brew msgpack
 brew mujs
 brew mupdf
 brew mysql-client
@@ -194,7 +186,6 @@ brew nanopb
 brew nasm
 brew ncurses
 brew neomutt
-brew neovim
 brew netpbm
 brew nettle
 brew nghttp2
@@ -211,7 +202,6 @@ brew open-jtalk
 brew open-mpi
 brew openblas
 brew openexr
-brew openjdk
 brew openjdk@11
 brew openjpeg
 brew openldap
@@ -278,12 +268,9 @@ brew tdb
 brew tesseract
 brew tevent
 brew texinfo
-brew tika
 brew tokyo-cabinet
 brew tree
-brew tree-sitter
 brew unbound
-brew unibilium
 brew usage
 brew usbredir
 brew utf8proc
@@ -309,6 +296,7 @@ brew zstd
 
 tap homebrew/cask
 cask alt-tab
+cask anydesk
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
@@ -341,7 +329,9 @@ cask macfuse
 cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
+cask microsoft-outlook
 cask microsoft-teams
+cask nordvpn
 cask numi
 cask obs
 cask obsidian
@@ -392,9 +382,6 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 
 tap tlk/imagemagick-x11
-
-# Other Homebrew packages
-brew icu4c
 
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
