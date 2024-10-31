@@ -83,6 +83,7 @@ brew htop
 brew hunspell
 brew hwloc
 brew icu4c
+brew icu4c@75
 brew imagemagick
 brew imath
 brew ipfs
