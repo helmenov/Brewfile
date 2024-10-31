@@ -334,6 +334,7 @@ cask obs
 cask obsidian
 cask onyx
 cask opencore-patcher
+cask proton-drive
 cask protonvpn
 cask quarto
 cask raycast
