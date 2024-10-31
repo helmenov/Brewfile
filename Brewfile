@@ -383,6 +383,9 @@ tap rcmdnk/rcmdnkpac
 
 tap tlk/imagemagick-x11
 
+# Other Homebrew packages
+brew icu4c
+
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
 appstore 460883588 ATOKPad (2.0.7)
