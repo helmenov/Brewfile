@@ -82,21 +82,7 @@ brew highway
 brew htop
 brew hunspell
 brew hwloc
-<<<<<<< Updated upstream
-brew icu4c@76
-=======
 brew icu4c
-brew icu4c@75
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 brew imagemagick
 brew imath
 brew ipfs
@@ -420,29 +406,10 @@ appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.2)
 appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
-<<<<<<< Updated upstream
 appstore 539883307 LINE (9.4.1)
-appstore 530194517 MachineProfile (1.4.26)
-appstore 409203825 Numbers (14.2)
-appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.1)
 appstore 747648890 Telegram (11.2.2)
 appstore 497799835 Xcode (16.1)
-=======
-appstore 539883307 LINE (9.3.0)
 appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
-appstore 1475387142 Tailscale (1.76.0)
-appstore 747648890 Telegram (11.2.2)
-appstore 497799835 Xcode (16.0)
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
