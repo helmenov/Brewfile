@@ -66,6 +66,7 @@ brew gmime
 brew gmp
 brew gnu-sed
 brew gnupg
+brew gnuplot
 brew gnutls
 brew gobject-introspection
 brew gpgme
@@ -81,7 +82,12 @@ brew highway
 brew htop
 brew hunspell
 brew hwloc
+<<<<<<< Updated upstream
 brew icu4c@76
+=======
+brew icu4c
+brew icu4c@75
+>>>>>>> Stashed changes
 brew imagemagick
 brew imath
 brew ipfs
@@ -112,6 +118,7 @@ brew libassuan@2
 brew libavif
 brew libb2
 brew libcbor
+brew libcerf
 brew libde265
 brew libdeflate
 brew libev
@@ -152,8 +159,10 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
 brew libvmaf
 brew libvorbis
+brew libvterm
 brew libwmf
 brew libx11
 brew libxau
@@ -164,7 +173,10 @@ brew libxrender
 brew libxt
 brew little-cms2
 brew lmdb
+brew lpeg
 brew lua
+brew luajit
+brew luv
 brew lz4
 brew lzo
 brew m4
@@ -178,6 +190,7 @@ brew mise
 brew mpdecimal
 brew mpfr
 brew mpg123
+brew msgpack
 brew mujs
 brew mupdf
 brew mysql-client
@@ -186,6 +199,7 @@ brew nanopb
 brew nasm
 brew ncurses
 brew neomutt
+brew neovim
 brew netpbm
 brew nettle
 brew nghttp2
@@ -202,6 +216,7 @@ brew open-jtalk
 brew open-mpi
 brew openblas
 brew openexr
+brew openjdk
 brew openjdk@11
 brew openjpeg
 brew openldap
@@ -268,9 +283,12 @@ brew tdb
 brew tesseract
 brew tevent
 brew texinfo
+brew tika
 brew tokyo-cabinet
 brew tree
+brew tree-sitter
 brew unbound
+brew unibilium
 brew usage
 brew usbredir
 brew utf8proc
@@ -296,7 +314,6 @@ brew zstd
 
 tap homebrew/cask
 cask alt-tab
-cask anydesk
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
@@ -329,9 +346,7 @@ cask macfuse
 cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
-cask microsoft-outlook
 cask microsoft-teams
-cask nordvpn
 cask numi
 cask obs
 cask obsidian
@@ -396,6 +411,7 @@ appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.2)
 appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
+<<<<<<< Updated upstream
 appstore 539883307 LINE (9.4.1)
 appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
@@ -403,3 +419,12 @@ appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.1)
 appstore 747648890 Telegram (11.2.2)
 appstore 497799835 Xcode (16.1)
+=======
+appstore 539883307 LINE (9.3.0)
+appstore 530194517 MachineProfile (1.4.26)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
+appstore 1475387142 Tailscale (1.76.0)
+appstore 747648890 Telegram (11.2.2)
+appstore 497799835 Xcode (16.0)
+>>>>>>> Stashed changes
