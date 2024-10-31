@@ -1,140 +1,162 @@
 # Cask applications
-# Please copy these lines to your Brewfile and use with `brew-file install`.
 
-# Main tap repository for caskroom/cask
-tap caskroom/cask
+# Apps installed by cask in helmenov/tap
+tap helmenov/tap
+cask f3xswift # /Applications/F3XSwift.app
 
-# Apps installed by Cask in caskroom/cask
-cask install alfred #~/Applications/Alfred 2.app
-cask install appcleaner #~/Applications/AppCleaner.app
-cask install cakebrew #~/Applications/Cakebrew.app
-cask install chromium #~/Applications/Chromium.app
-cask install dropbox #~/Applications/Dropbox.app
-cask install iterm2 #~/Applications/iTerm.app
-cask install keepingyouawake #~/Applications/KeepingYouAwake.app
-cask install kindle #~/Applications/Kindle.app
-cask install nethackcocoa #~/Applications/NetHackCocoa.app
-cask install prezi #~/Applications/Prezi.app
-cask install rstudio #~/Applications/RStudio.app
-cask install skype #~/Applications/Skype.app
-cask install sourcetree #~/Applications/SourceTree.app
-cask install texstudio #~/Applications/texstudio.app
-cask install vlc #~/Applications/VLC.app
-cask install vmware-fusion #/Applications/VMware Fusion.app
-#cask install vmware-fusion #~/Applications/VMware Fusion.app
+# Apps installed by cask in homebrew/cask
+cask appcleaner # /Applications/AppCleaner.app
+cask betterdiscord-installer # /Applications/BetterDiscord.app
+cask cheatsheet # /Applications/CheatSheet.app
+cask cpuinfo # /Applications/cpuinfo.app
+cask deepl # /Applications/DeepL.app
+cask gimp # /Applications/GIMP.app
+cask hiddenbar # /Applications/Hidden Bar.app
+cask inkscape # /Applications/Inkscape.app
+cask ltspice # /Applications/LTspice.app
+cask macdown # /Applications/MacDown.app
+cask macs-fan-control # /Applications/Macs Fan Control.app
+cask memory-cleaner # /Applications/Memory Cleaner 5.app
+cask numi # /Applications/Numi.app
+cask obs # /Applications/OBS.app
+cask onyx # /Applications/OnyX.app
+cask quarto # /Applications/quarto
+cask shotcut # /Applications/Shotcut.app
+cask supercollider # /Applications/SuperCollider.app
+cask texstudio # /Applications/texstudio-4.8.4-osx-m1.app
+cask the-unarchiver # /Applications/The Unarchiver.app
+cask thonny # /Applications/Thonny.app
+cask utm # /Applications/UTM.app
+cask visual-studio-code@insiders # /Applications/Visual Studio Code - Insiders.app
+cask wavesurfer # /Applications/WaveSurfer.app
+cask wezterm # /Applications/WezTerm.app
+cask xnconvert # /Applications/XnConvert.app
 
-# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.)
-cask install mactex
-cask install microsoft-office
-cask install octave
-cask install pandoc
+# New version are available for following apps
+cask alt-tab # /Applications/AltTab.app
+cask brave-browser@beta # /Applications/Brave Browser Beta.app
+cask discord # /Applications/Discord.app
+cask docker # /Applications/Docker.app
+cask dropbox # /Applications/Dropbox.app
+cask dropzone # /Applications/Dropzone 4.app
+cask google-chrome # /Applications/Google Chrome.app
+cask maccy # /Applications/Maccy.app
+cask microsoft-teams # /Applications/Microsoft Teams.app
+cask obsidian # /Applications/Obsidian.app
+cask opencore-patcher # /Applications/OpenCore-Patcher.app
+cask raycast # /Applications/Raycast.app
+cask slack # /Applications/Slack.app
+cask unity-hub # /Applications/Unity Hub.app
+cask krisp # /Applications/Utilities/krisp
+cask webex # /Applications/Webex.app
+#cask krisp # /Applications/krisp.app
+cask zoom # /Applications/zoom.us.app
 
-# Apps installed directly instead of by Cask in caskroom/cask
-#cask install adobe-reader #/Applications/Adobe Acrobat Reader DC.app
-#cask install audacity #/Applications/Audacity
-#cask install avast #/Applications/Avast.app
-#cask install fluid #/Applications/Fluid.app
-#cask install google-earth #/Applications/Google Earth.app
-#cask install grammarly #/Applications/Grammarly.app
-#cask install libreoffice #/Applications/LibreOffice.app
-#cask install r #/Applications/R.app
-#cask install sketchup #/Applications/SketchUp 2015
+# Cask is found, but no applications are found (could be fonts, system settings, or installed in other directory.)
+cask basictex
+cask font-0xproto-nerd-font
+cask font-fira-code
+cask font-noto-sans-cjk-jp
+cask font-noto-sans-mono-cjk-jp
+cask font-noto-serif-cjk-jp
+cask font-udev-gothic
+cask git-credential-manager
+cask google-japanese-ime
+cask gpg-suite
+cask macfuse
+cask microsoft-auto-update
+cask xquartz
+
+# Apps installed by brew in homebrew/core
+
+# Apps installed directly instead of by brew
+#brew lilypond # /Applications/LilyPond.app
+#brew onedrive # /Applications/OneDrive.app
+#brew r # /Applications/R.app
+
+# Apps installed from AppStore
+appstore 892162982 7zBrowser (2.5.2) # /Applications/7zBrowser.app
+appstore 460883588 ATOKPad (2.0.7) # /Applications/ATOKPad.app
+appstore 1193539993 Brother iPrint&Scan (12.0.3) # /Applications/Brother iPrint&Scan.app
+appstore 845313878 EasyAudioRecorderLite (1.23) # /Applications/EasyAudioRecorderLite.app
+appstore 682658836 GarageBand (10.4.11) # /Applications/GarageBand.app
+appstore 1462114288 Grammarly for Safari (9.75) # /Applications/Grammarly for Safari.app
+appstore 409183694 Keynote (14.2) # /Applications/Keynote.app
+appstore 539883307 LINE (9.4.1) # /Applications/LINE.app
+appstore 411213048 LadioCast (000013000) # /Applications/LadioCast.app
+appstore 530194517 MachineProfile (1.4.26) # /Applications/MachineProfile.app
+appstore 409203825 Numbers (14.2) # /Applications/Numbers.app
+appstore 409201541 Pages (14.2) # /Applications/Pages.app
+appstore 1475387142 Tailscale (1.76.1) # /Applications/Tailscale.app
+appstore 747648890 Telegram (11.2.2) # /Applications/Telegram.app
+appstore 497799835 Xcode (16.1) # /Applications/Xcode.app
+appstore 408981434 iMovie (10.4.2) # /Applications/iMovie.app
 
 # Apps installed but no casks are available
 # (System applications or directory installed.)
-#/Applications/App Store.app
-#/Applications/AudioDesk 3.21.app
-#/Applications/Automator.app
-#/Applications/AvastSecureLine.app
-#/Applications/Calculator.app
-#/Applications/Calendar.app
-#/Applications/Chess.app
-#/Applications/Classeur.app
-#/Applications/Clip Organizer.app
-#/Applications/Contacts.app
-#/Applications/CueMix FX.app
-#/Applications/Dashboard.app
-#/Applications/Dictionary.app
-#/Applications/DVD Player.app
-#/Applications/e-Taxソフト.app
-#/Applications/eps2emf.app
-#/Applications/FaceTime.app
-#/Applications/Font Book.app
-#/Applications/Game Center.app
-#/Applications/GarageBand.app
-#/Applications/GoogleJapaneseInput.localized
-#/Applications/iBooks.app
-#/Applications/iLok License Manager.app
-#/Applications/Image Capture.app
-#/Applications/IME Open Extended Dictionary Module.app
-#/Applications/IME search module.app
-#/Applications/iMovie 
-#/Applications/iMovie.app
-#/Applications/iPhoto.app
-#/Applications/iTunes.app
-#/Applications/Launchpad.app
-#/Applications/Mail.app
-#/Applications/Maps.app
-#/Applications/MATLAB
-#/Applications/MATLAB_R2012b.app
-#/Applications/Messages.app
-#/Applications/Microsoft Excel.app
-#/Applications/Microsoft OneNote.app
-#/Applications/Microsoft Outlook.app
-#/Applications/Microsoft PowerPoint.app
-#/Applications/Microsoft Word.app
-#/Applications/Mission Control.app
-#/Applications/MOTU Audio Setup.app
-#/Applications/MOTU PCI Audio Setup.app
-#/Applications/MOTU PCI SMPTE Setup.app
-#/Applications/MOTU SMPTE Setup.app
-#/Applications/Notes.app
-#/Applications/Octave-cli.app
-#/Applications/Octave-gui.app
-#/Applications/Ohm Studio Bug Reporter.app
-#/Applications/OhmStudio.app
-#/Applications/OneDrive.app
-#/Applications/PDF-XChange Viewer.app
-#/Applications/Photo Booth.app
-#/Applications/Photos.app
-#/Applications/Preview.app
-#/Applications/QuickTime Player.app
-#/Applications/Reminders.app
-#/Applications/Safari.app
-#/Applications/Skype - Windows 7 x64.app
-#/Applications/Stickies.app
-#/Applications/System Preferences.app
-#/Applications/TeX
-#/Applications/TeX2img.app
-#/Applications/TextEdit.app
-#/Applications/Time Machine.app
-#/Applications/TinkerTool.app
-#/Applications/ToyViewer.app
-#/Applications/TrueCrypt.app
-#/Applications/UVIWorkstation.app
-#/Applications/Xcode.app
-#/Applications/XCVault Module.app
-#/Applications/XML Editor.app
-#/Applications/とんこり.app
-#/Applications/レジストリ エディター.app
-#/Users/kotaro/Applications/Chrome Apps.localized
-#/Users/kotaro/Applications/Chromium Apps.localized
-#/Users/kotaro/Applications/Ghostscript.app
-#/Users/kotaro/Applications/MATLAB_R2012b.app
-#/Applications/Utilities/Activity Monitor.app
-#/Applications/Utilities/AirPort Utility.app
-#/Applications/Utilities/Audio MIDI Setup.app
-#/Applications/Utilities/Bluetooth File Exchange.app
-#/Applications/Utilities/Boot Camp Assistant.app
-#/Applications/Utilities/ColorSync Utility.app
-#/Applications/Utilities/Console.app
-#/Applications/Utilities/Digital Color Meter.app
-#/Applications/Utilities/Disk Utility.app
-#/Applications/Utilities/Grab.app
-#/Applications/Utilities/Grapher.app
-#/Applications/Utilities/Keychain Access.app
-#/Applications/Utilities/Migration Assistant.app
-#/Applications/Utilities/Script Editor.app
-#/Applications/Utilities/System Information.app
-#/Applications/Utilities/Terminal.app
-#/Applications/Utilities/VoiceOver Utility.app
+# /Applications/ABBYY FineReader for ScanSnap
+# /Applications/AbiWord.app
+# /Applications/Adobe Creative Cloud
+# /Applications/Amazon Music.app
+# /Applications/Blackmagic RAW
+# /Applications/Brother
+# /Applications/CPLEX_Studio221
+# /Applications/Canva.app
+# /Applications/Chrome Remote Desktop Host Uninstaller.app
+# /Applications/DaVinci Resolve
+# /Applications/DeepL.app.b
+# /Applications/DiffusionBee.app
+# /Applications/Fireface USB Settings.app
+# /Applications/Frescobaldi.app
+# /Applications/GPG Keychain.app
+# /Applications/Gather.app
+# /Applications/Google Docs.app
+# /Applications/Google Drive.app
+# /Applications/Google Sheets.app
+# /Applications/Google Slides.app
+# /Applications/GoogleJapaneseInput.localized
+# /Applications/Kindle.app
+# /Applications/MAMP
+# /Applications/Mathpix Snipping Tool.app
+# /Applications/Microsoft Edge Dev.app
+# /Applications/Microsoft Edge.app
+# /Applications/Microsoft Excel.app
+# /Applications/Microsoft OneNote.app
+# /Applications/Microsoft PowerPoint.app
+# /Applications/Microsoft Word.app
+# /Applications/Multipass.app
+# /Applications/Notion.app
+# /Applications/NymVPN.app
+# /Applications/Praat.app
+# /Applications/Prezi Next.app
+# /Applications/QR Code.app
+# /Applications/QR_Kokuzei
+# /Applications/Qfinder Pro.app
+# /Applications/Qsync Client.app
+# /Applications/Roland
+# /Applications/Safari.app
+# /Applications/ScanSnap Online Update.localized
+# /Applications/ScanSnapHomeMain.app
+# /Applications/SkiMee-version-0.0.2
+# /Applications/Status.app
+# /Applications/Totalmix.app
+# /Applications/UUBYTEISOEditor.app
+# /Applications/Unity
+# /Applications/Visual Studio.app
+# /Applications/Wacom Tablet.localized
+# /Applications/gradient_descent_visualization.app
+# /Applications/qsynth.app
+# ~/Applications/Brave Browser Beta Apps.localized
+# ~/Applications/Chrome Apps.localized
+# ~/Applications/DragPotrace.app
+# ~/Applications/Edge Apps.localized
+# ~/Applications/MacApowerMirror.apowersoft.com
+# ~/Applications/MacLetsView.apowersoft.com
+# ~/Applications/MacLetsView.wangxutech.com
+# ~/Applications/MaciOSRecorder.apowersoft.com
+# ~/Applications/NearDrop.app
+# /Applications/Utilities/Adobe Application Manager
+# /Applications/Utilities/Adobe Creative Cloud
+# /Applications/Utilities/Adobe Creative Cloud Experience
+# /Applications/Utilities/Adobe Installers
+# /Applications/Utilities/Adobe Sync
