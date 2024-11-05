@@ -262,6 +262,7 @@ brew subversion
 brew suite-sparse
 brew sundials
 brew swig
+brew tailscale
 brew talloc
 brew tcl-tk
 brew tdb
@@ -397,5 +398,5 @@ appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.1)
-appstore 747648890 Telegram (11.2.2)
+appstore 747648890 Telegram (11.3)
 appstore 497799835 Xcode (16.1)
