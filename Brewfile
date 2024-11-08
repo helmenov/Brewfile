@@ -348,7 +348,6 @@ cask the-unarchiver
 cask thonny
 cask unity-hub
 cask utm
-cask visual-studio-code@insiders
 cask wavesurfer
 cask webex
 cask wezterm
