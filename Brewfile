@@ -330,13 +330,13 @@ cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-teams
+cask mullvadvpn
 cask numi
 cask obs
 cask obsidian
 cask onyx
 cask opencore-patcher
 cask proton-drive
-cask protonvpn
 cask quarto
 cask raycast
 cask shotcut
@@ -397,6 +397,6 @@ appstore 539883307 LINE (9.4.1)
 appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
-appstore 1475387142 Tailscale (1.76.1)
+appstore 1475387142 Tailscale (1.76.6)
 appstore 747648890 Telegram (11.3)
 appstore 497799835 Xcode (16.1)
