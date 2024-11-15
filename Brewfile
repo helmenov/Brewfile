@@ -221,7 +221,6 @@ brew pinentry-mac
 brew pinfo
 brew pipx
 brew pixman
-brew pkg-config
 brew plotutils
 brew pmix
 brew poppler
@@ -304,6 +303,7 @@ cask brave-browser@beta
 cask cheatsheet
 cask cpuinfo
 cask deepl
+cask deskreen
 cask discord
 cask docker
 cask dropbox
@@ -351,6 +351,7 @@ cask visual-studio-code
 cask wavesurfer
 cask webex
 cask wezterm
+cask xcodes
 cask xnconvert
 cask xquartz
 cask zoom
@@ -383,20 +384,23 @@ tap rcmdnk/rcmdnkpac
 
 tap tlk/imagemagick-x11
 
+# Other Homebrew packages
+brew pkg-config
+
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
+appstore 1037126344 Apple Configurator (2.17)
 appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (12.0.3)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.75)
-appstore 408981434 iMovie (10.4.2)
+appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.4.1)
+appstore 539883307 LINE (9.4.2)
 appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.6)
-appstore 747648890 Telegram (11.3)
-appstore 497799835 Xcode (16.1)
+appstore 747648890 Telegram (11.3.1)
