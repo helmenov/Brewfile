@@ -149,6 +149,7 @@ brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
+brew libtommath
 brew libtool
 brew libunistring
 brew libusb
@@ -169,6 +170,7 @@ brew lz4
 brew lzo
 brew m4
 brew mad
+brew mariadb-connector-c
 brew mas
 brew md4c
 brew mecab
