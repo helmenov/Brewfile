@@ -111,12 +111,10 @@ brew libassuan
 brew libassuan@2
 brew libavif
 brew libb2
-brew libcbor
 brew libde265
 brew libdeflate
 brew libev
 brew libevent
-brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
@@ -182,7 +180,6 @@ brew mpfr
 brew mpg123
 brew mujs
 brew mupdf
-brew mysql-client
 brew nanomsg
 brew nanopb
 brew nasm
@@ -206,7 +203,6 @@ brew openblas
 brew openexr
 brew openjdk@11
 brew openjpeg
-brew openldap
 brew openssl@3
 brew opus
 brew opusfile
@@ -277,6 +273,7 @@ brew usage
 brew usbredir
 brew utf8proc
 brew util-macros
+brew uv
 brew w3m
 brew webp
 brew wget
@@ -386,9 +383,6 @@ tap rcmdnk/rcmdnkpac
 
 tap tlk/imagemagick-x11
 
-# Other Homebrew packages
-brew pkg-config
-
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
 appstore 1037126344 Apple Configurator (2.17)
@@ -405,4 +399,4 @@ appstore 530194517 MachineProfile (1.4.26)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.6)
-appstore 747648890 Telegram (11.3.1)
+appstore 747648890 Telegram (11.4)
