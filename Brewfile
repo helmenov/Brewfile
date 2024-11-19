@@ -219,6 +219,7 @@ brew pinentry-mac
 brew pinfo
 brew pipx
 brew pixman
+brew pkgconf
 brew plotutils
 brew pmix
 brew poppler
