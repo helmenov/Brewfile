@@ -332,7 +332,6 @@ cask microsoft-auto-update
 cask microsoft-teams
 cask mullvadvpn
 cask numi
-cask obs
 cask obsidian
 cask onyx
 cask opencore-patcher
