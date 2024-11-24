@@ -4,7 +4,6 @@
 tap homebrew/core
 brew abseil
 brew ampl-asl
-brew ampl-mp
 brew aom
 brew apr
 brew apr-util
@@ -296,7 +295,6 @@ brew zsh-git-prompt
 brew zstd
 
 tap homebrew/cask
-cask alt-tab
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
@@ -311,6 +309,7 @@ cask dropbox
 cask dropzone
 cask font-0xproto-nerd-font
 cask font-fira-code
+cask font-harano-aji
 cask font-noto-sans-cjk-jp
 cask font-noto-sans-mono-cjk-jp
 cask font-noto-serif-cjk-jp
