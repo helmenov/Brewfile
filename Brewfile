@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew ampl-asl
 brew ampl-mp
 brew aom
 brew apr
@@ -396,7 +397,7 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.4.2)
-appstore 530194517 MachineProfile (1.4.26)
+appstore 530194517 MachineProfile (1.4.27)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.76.6)
