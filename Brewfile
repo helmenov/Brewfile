@@ -9,10 +9,13 @@ brew apr
 brew apr-util
 brew aria2
 brew arpack
+brew asciidoctor
 brew aspell
 brew assimp
 brew autoconf
 brew automake
+brew bash
+brew bat
 brew bdw-gc
 brew bison
 brew blahtexml
@@ -28,8 +31,10 @@ brew cffi
 brew clamav
 brew cliclick
 brew cmake
+brew cocoapods
 brew coreutils
 brew criterion
+brew csview
 brew curl
 brew dbus
 brew docbook
@@ -37,6 +42,7 @@ brew double-conversion
 brew eigen
 brew enchant
 brew epstool
+brew fd
 brew fftw
 brew fig2dev
 brew flac
@@ -57,6 +63,7 @@ brew ghostscript
 brew giflib
 brew gist
 brew git
+brew git-delta
 brew git-lfs
 brew gl2ps
 brew glib
@@ -161,8 +168,10 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew libxt
+brew libyaml
 brew little-cms2
 brew lmdb
+brew lsd
 brew lua
 brew lz4
 brew lzo
@@ -183,6 +192,7 @@ brew mupdf
 brew nanomsg
 brew nanopb
 brew nasm
+brew navi
 brew ncurses
 brew neomutt
 brew netpbm
@@ -217,7 +227,6 @@ brew pgpdump
 brew pinentry
 brew pinentry-mac
 brew pinfo
-brew pipx
 brew pixman
 brew pkgconf
 brew plotutils
@@ -250,7 +259,9 @@ brew reattach-to-user-namespace
 brew ripgrep
 brew rocksdb
 brew rtmpdump
+brew ruby
 brew samba
+brew sfsexp
 brew shared-mime-info
 brew snappy
 brew sox
@@ -268,13 +279,13 @@ brew tesseract
 brew tevent
 brew texinfo
 brew tokyo-cabinet
+brew trash-cli
 brew tree
 brew unbound
 brew usage
 brew usbredir
 brew utf8proc
 brew util-macros
-brew uv
 brew w3m
 brew webp
 brew wget
@@ -290,6 +301,7 @@ brew xz
 brew yara
 brew zeromq
 brew zlib
+brew zsh-autocomplete
 brew zsh-autosuggestions
 brew zsh-git-prompt
 brew zstd
@@ -307,12 +319,15 @@ cask discord
 cask docker
 cask dropbox
 cask dropzone
+cask flutter
 cask font-0xproto-nerd-font
+cask font-cica
 cask font-fira-code
 cask font-harano-aji
 cask font-noto-sans-cjk-jp
 cask font-noto-sans-mono-cjk-jp
 cask font-noto-serif-cjk-jp
+cask font-plemol-jp-nf
 cask font-udev-gothic
 cask gimp
 cask git-credential-manager
@@ -321,7 +336,6 @@ cask google-japanese-ime
 cask gpg-suite
 cask hiddenbar
 cask inkscape
-cask krisp
 cask ltspice
 cask maccy
 cask macdown
@@ -331,6 +345,7 @@ cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-teams
 cask mullvadvpn
+cask musescore
 cask numi
 cask obsidian
 cask onyx
@@ -347,6 +362,7 @@ cask thonny
 cask unity-hub
 cask utm
 cask visual-studio-code
+cask vlc
 cask wavesurfer
 cask webex
 cask wezterm
@@ -368,6 +384,10 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
+tap koekeishiya/formulae
+brew skhd
+brew yabai
+
 tap mklement0/ttab
 brew ttab
 
@@ -387,16 +407,15 @@ tap tlk/imagemagick-x11
 appstore 892162982 7zBrowser (2.5.2)
 appstore 1037126344 Apple Configurator (2.17)
 appstore 460883588 ATOKPad (2.0.7)
-appstore 1193539993 Brother iPrint&Scan (12.0.3)
+appstore 1193539993 Brother iPrint&Scan (12.1.0)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.2)
+appstore 409183694 Keynote (14.3)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.4.2)
+appstore 539883307 LINE (9.5.0)
 appstore 530194517 MachineProfile (1.4.27)
-appstore 409203825 Numbers (14.2)
-appstore 409201541 Pages (14.2)
-appstore 1475387142 Tailscale (1.76.6)
-appstore 747648890 Telegram (11.4)
+appstore 409203825 Numbers (14.3)
+appstore 409201541 Pages (14.3)
+appstore 747648890 Telegram (11.5)
