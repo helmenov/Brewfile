@@ -26,10 +26,12 @@ brew c-blosc
 brew ca-certificates
 brew cabextract
 brew cairo
+brew calc
 brew cdrtools
 brew cffi
 brew clamav
 brew cliclick
+brew cling
 brew cmake
 brew cocoapods
 brew coreutils
@@ -39,6 +41,7 @@ brew curl
 brew dbus
 brew docbook
 brew double-conversion
+brew dovecot
 brew eigen
 brew enchant
 brew epstool
@@ -126,6 +129,7 @@ brew libgcrypt
 brew libgda
 brew libgit2
 brew libgit2@1.6
+brew libgit2@1.8
 brew libgpg-error
 brew libgsf
 brew libheif
@@ -315,10 +319,10 @@ cask cheatsheet
 cask cpuinfo
 cask deepl
 cask deskreen
+cask devtoys
 cask discord
 cask docker
 cask dropbox
-cask dropzone
 cask flutter
 cask font-0xproto-nerd-font
 cask font-cica
@@ -418,4 +422,5 @@ appstore 539883307 LINE (9.5.0)
 appstore 530194517 MachineProfile (1.4.27)
 appstore 409203825 Numbers (14.3)
 appstore 409201541 Pages (14.3)
-appstore 747648890 Telegram (11.5)
+appstore 1475387142 Tailscale (1.78.1)
+appstore 747648890 Telegram (11.6)
