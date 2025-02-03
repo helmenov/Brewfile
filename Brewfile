@@ -217,6 +217,7 @@ brew openblas
 brew openexr
 brew openjdk@11
 brew openjpeg
+brew openldap
 brew openssl@3
 brew opus
 brew opusfile
