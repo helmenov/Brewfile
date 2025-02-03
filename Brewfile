@@ -340,6 +340,7 @@ cask google-japanese-ime
 cask gpg-suite
 cask hiddenbar
 cask inkscape
+cask isyncr
 cask ltspice
 cask maccy
 cask macdown
@@ -347,7 +348,6 @@ cask macfuse
 cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
-cask microsoft-teams
 cask mullvadvpn
 cask musescore
 cask numi
@@ -408,19 +408,6 @@ tap rcmdnk/rcmdnkpac
 tap tlk/imagemagick-x11
 
 # App Store applications
-appstore 892162982 7zBrowser (2.5.2)
-appstore 1037126344 Apple Configurator (2.17)
-appstore 460883588 ATOKPad (2.0.7)
-appstore 1193539993 Brother iPrint&Scan (12.1.0)
-appstore 845313878 EasyAudioRecorderLite (1.23)
-appstore 682658836 GarageBand (10.4.11)
-appstore 1462114288 Grammarly for Safari (9.75)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.3)
-appstore 411213048 LadioCast (000013000)
+appstore 682658836 GarageBand (10.4.12)
 appstore 539883307 LINE (9.5.0)
-appstore 530194517 MachineProfile (1.4.27)
-appstore 409203825 Numbers (14.3)
-appstore 409201541 Pages (14.3)
 appstore 1475387142 Tailscale (1.78.1)
-appstore 747648890 Telegram (11.6)
