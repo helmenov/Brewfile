@@ -248,7 +248,6 @@ brew pycparser
 brew pyqt
 brew python-packaging
 brew python-tk@3.12
-brew python-tk@3.13
 brew python@3.11
 brew python@3.12
 brew python@3.13
@@ -421,7 +420,7 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.3)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.7.0)
-appstore 530194517 MachineProfile (1.4.27)
+appstore 530194517 MachineProfile (1.4.28)
 appstore 409203825 Numbers (14.3)
 appstore 409201541 Pages (14.3)
 appstore 1475387142 Tailscale (1.80.2)
