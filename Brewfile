@@ -248,6 +248,7 @@ brew pycparser
 brew pyqt
 brew python-packaging
 brew python-tk@3.12
+brew python-tk@3.13
 brew python@3.11
 brew python@3.12
 brew python@3.13
@@ -417,11 +418,11 @@ appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.12)
 appstore 1462114288 Grammarly for Safari (9.75)
 appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.3)
+appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.7.0)
 appstore 530194517 MachineProfile (1.4.28)
-appstore 409203825 Numbers (14.3)
-appstore 409201541 Pages (14.3)
-appstore 1475387142 Tailscale (1.80.2)
+appstore 409203825 Numbers (14.4)
+appstore 409201541 Pages (14.4)
+appstore 1475387142 Tailscale (1.82.0)
 appstore 747648890 Telegram (11.8)
