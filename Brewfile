@@ -8,6 +8,7 @@ brew aom
 brew apr
 brew apr-util
 brew aria2
+brew aribb24
 brew arpack
 brew asciidoctor
 brew aspell
@@ -29,6 +30,7 @@ brew cairo
 brew calc
 brew cdrtools
 brew cffi
+brew cjson
 brew clamav
 brew cliclick
 brew cling
@@ -38,6 +40,7 @@ brew coreutils
 brew criterion
 brew csview
 brew curl
+brew dav1d
 brew dbus
 brew docbook
 brew double-conversion
@@ -46,6 +49,7 @@ brew eigen
 brew enchant
 brew epstool
 brew fd
+brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
@@ -53,6 +57,7 @@ brew fltk
 brew fluid-synth
 brew fontconfig
 brew freetype
+brew frei0r
 brew fribidi
 brew fzf
 brew gcc
@@ -118,9 +123,11 @@ brew leptonica
 brew lesspipe
 brew libaec
 brew libarchive
+brew libass
 brew libassuan
 brew libavif
 brew libb2
+brew libbluray
 brew libde265
 brew libdeflate
 brew libev
@@ -140,6 +147,7 @@ brew libksba
 brew liblinear
 brew liblqr
 brew libmagic
+brew libmicrohttpd
 brew libmng
 brew libmpc
 brew libnghttp2
@@ -148,21 +156,27 @@ brew libomp
 brew libpng
 brew libraw
 brew libressl
+brew librist
 brew librsvg
+brew libsamplerate
 brew libsixel
 brew libsm
 brew libsndfile
 brew libsodium
+brew libsoxr
 brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
 brew libtommath
 brew libtool
+brew libunibreak
 brew libunistring
 brew libusb
+brew libvidstab
 brew libvmaf
 brew libvorbis
+brew libvpx
 brew libwmf
 brew libx11
 brew libxau
@@ -183,6 +197,7 @@ brew m4
 brew mad
 brew mariadb-connector-c
 brew mas
+brew mbedtls
 brew md4c
 brew mecab
 brew mecab-ipadic
@@ -214,6 +229,7 @@ brew oniguruma
 brew open-jtalk
 brew open-mpi
 brew openblas
+brew opencore-amr
 brew openexr
 brew openjdk@11
 brew openjpeg
@@ -248,7 +264,6 @@ brew pycparser
 brew pyqt
 brew python-packaging
 brew python-tk@3.12
-brew python-tk@3.13
 brew python@3.11
 brew python@3.12
 brew python@3.13
@@ -260,22 +275,28 @@ brew qrupdate
 brew qscintilla2
 brew qt
 brew rapidjson
+brew rav1e
 brew readline
 brew reattach-to-user-namespace
 brew ripgrep
 brew rocksdb
 brew rtmpdump
+brew rubberband
 brew ruby
 brew samba
+brew sdl2
 brew sfsexp
 brew shared-mime-info
 brew snappy
 brew sox
+brew speex
 brew sqlite
+brew srt
 brew starship
 brew subversion
 brew suite-sparse
 brew sundials
+brew svt-av1
 brew swig
 brew tailscale
 brew talloc
@@ -284,6 +305,7 @@ brew tdb
 brew tesseract
 brew tevent
 brew texinfo
+brew theora
 brew tokyo-cabinet
 brew trash-cli
 brew tree
@@ -297,15 +319,18 @@ brew webp
 brew wget
 brew wimlib
 brew wv
+brew x264
 brew x265
 brew xapian
 brew xdg-ninja
 brew xerces-c
 brew xorgproto
 brew xtrans
+brew xvid
 brew xz
 brew yara
 brew zeromq
+brew zimg
 brew zlib
 brew zsh-autocomplete
 brew zsh-autosuggestions
@@ -350,6 +375,7 @@ cask macfuse
 cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
+cask microsoft-teams
 cask mullvadvpn
 cask musescore
 cask numi
@@ -413,7 +439,7 @@ tap tlk/imagemagick-x11
 appstore 892162982 7zBrowser (2.5.2)
 appstore 1037126344 Apple Configurator (2.18)
 appstore 460883588 ATOKPad (2.0.7)
-appstore 1193539993 Brother iPrint&Scan (12.1.0)
+appstore 1193539993 Brother iPrint&Scan (12.2.1)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.12)
 appstore 1462114288 Grammarly for Safari (9.75)
