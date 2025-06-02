@@ -350,6 +350,7 @@ cask devtoys
 cask discord
 cask docker
 cask dropbox
+cask element
 cask flutter
 cask font-0xproto-nerd-font
 cask font-cica
@@ -391,6 +392,7 @@ cask supercollider
 cask texstudio
 cask the-unarchiver
 cask thonny
+cask thunderbird@beta
 cask unity-hub
 cask utm
 cask visual-studio-code
@@ -442,7 +444,7 @@ appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (12.2.1)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.12)
-appstore 1462114288 Grammarly for Safari (9.77)
+appstore 1462114288 Grammarly for Safari (9.78)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
@@ -451,4 +453,4 @@ appstore 530194517 MachineProfile (1.4.28)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 1475387142 Tailscale (1.82.5)
-appstore 747648890 Telegram (11.9)
+appstore 747648890 Telegram (11.11)
