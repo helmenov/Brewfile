@@ -19,6 +19,7 @@ brew bash
 brew bat
 brew bdw-gc
 brew bison
+brew bitwarden-cli
 brew blahtexml
 brew boost
 brew brotli
@@ -79,6 +80,7 @@ brew glow
 brew glpk
 brew gmime
 brew gmp
+brew gnu-getopt
 brew gnu-sed
 brew gnupg
 brew gnutls
@@ -173,6 +175,7 @@ brew libtool
 brew libunibreak
 brew libunistring
 brew libusb
+brew libuv
 brew libvidstab
 brew libvmaf
 brew libvorbis
@@ -184,6 +187,8 @@ brew libxcb
 brew libxcrypt
 brew libxdmcp
 brew libxext
+brew libxml2
+brew libxmlsec1
 brew libxrender
 brew libxt
 brew libyaml
@@ -220,10 +225,12 @@ brew nghttp2
 brew ninja
 brew nkf
 brew nmap
+brew node
 brew notmuch
 brew npth
 brew nspr
 brew nss
+brew oath-toolkit
 brew octave
 brew oniguruma
 brew open-jtalk
@@ -240,6 +247,8 @@ brew opusfile
 brew p11-kit
 brew pandoc
 brew pango
+brew pass
+brew pass-otp
 brew pcre
 brew pcre2
 brew pdftk-java
@@ -271,6 +280,7 @@ brew python@3.9
 brew qdbm
 brew qhull
 brew qpdf
+brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt
@@ -393,7 +403,7 @@ cask supercollider
 cask texstudio
 cask the-unarchiver
 cask thonny
-cask thunderbird@beta
+cask thunderbird
 cask unity-hub
 cask utm
 cask visual-studio-code
@@ -405,10 +415,6 @@ cask xcodes
 cask xnconvert
 cask xquartz
 cask zoom
-
-tap homebrew/cask-fonts
-
-tap homebrew/cask-versions
 
 tap homebrew/services
 
@@ -440,19 +446,19 @@ tap tlk/imagemagick-x11
 
 # App Store applications
 appstore 892162982 7zBrowser (2.5.2)
-appstore 302584613 Amazon Kindle (7.33)
+appstore 302584613 Amazon Kindle (7.35)
 appstore 1037126344 Apple Configurator (2.18)
 appstore 460883588 ATOKPad (2.0.7)
 appstore 1193539993 Brother iPrint&Scan (12.2.1)
 appstore 845313878 EasyAudioRecorderLite (1.23)
 appstore 682658836 GarageBand (10.4.12)
-appstore 1462114288 Grammarly for Safari (9.79)
+appstore 1462114288 Grammarly for Safari (9.80)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.8.1)
+appstore 539883307 LINE (9.9.0)
 appstore 530194517 MachineProfile (1.4.28)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 1475387142 Tailscale (1.84.1)
-appstore 747648890 Telegram (11.12.1)
+appstore 747648890 Telegram (11.12.2)
