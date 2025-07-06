@@ -13,6 +13,7 @@ brew arpack
 brew asciidoctor
 brew aspell
 brew assimp
+brew assimp@5
 brew autoconf
 brew automake
 brew bash
@@ -461,4 +462,4 @@ appstore 530194517 MachineProfile (1.4.28)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 1475387142 Tailscale (1.84.1)
-appstore 747648890 Telegram (11.12.2)
+appstore 747648890 Telegram (11.13)
