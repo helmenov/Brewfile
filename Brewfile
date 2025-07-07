@@ -428,9 +428,6 @@ tap koekeishiya/formulae
 brew skhd
 brew yabai
 
-tap mklement0/ttab
-brew ttab
-
 tap nvie/tap
 brew git-toolbelt
 
