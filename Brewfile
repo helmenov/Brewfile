@@ -417,8 +417,6 @@ cask xnconvert
 cask xquartz
 cask zoom
 
-tap homebrew/services
-
 tap b4b4r07/tap
 
 tap browsh-org/browsh
