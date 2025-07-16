@@ -35,6 +35,16 @@ brew unbound
 brew usage
 brew uv
 brew xdg-ninja
+brew xerces-c
+brew xorgproto
+brew xtrans
+brew xvid
+brew xz
+brew yara
+brew zeromq
+brew zimg
+brew zlib
+brew zsh-autocomplete
 brew zsh-autosuggestions
 
 tap homebrew/cask
@@ -104,6 +114,8 @@ cask xnconvert
 cask xquartz
 cask zoom
 
+tap homebrew/services
+
 tap b4b4r07/tap
 
 tap browsh-org/browsh
@@ -112,6 +124,9 @@ tap helmenov/tap
 cask f3xswift
 
 tap koekeishiya/formulae
+
+tap mklement0/ttab
+brew ttab
 
 tap nvie/tap
 
