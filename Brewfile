@@ -76,7 +76,6 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask google-japanese-ime
-cask gpg-suite-pinentry
 cask hiddenbar
 cask inkscape
 cask ltspice
