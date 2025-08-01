@@ -29,6 +29,7 @@ brew p11-kit
 brew pcre2
 brew pinentry
 brew pinentry-mac
+brew portaudio
 brew readline
 brew starship
 brew unbound
