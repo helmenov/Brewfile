@@ -382,7 +382,6 @@ cask google-japanese-ime
 cask gpg-suite
 cask hiddenbar
 cask inkscape
-cask isyncr
 cask ltspice
 cask maccy
 cask macdown
