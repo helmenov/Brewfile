@@ -372,6 +372,7 @@ cask flutter
 cask font-0xproto-nerd-font
 cask font-cica
 cask font-fira-code
+cask font-firgenerd
 cask font-harano-aji
 cask font-ipaexfont
 cask font-noto-sans-cjk-jp
