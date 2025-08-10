@@ -383,6 +383,7 @@ cask font-udev-gothic
 cask gimp
 cask git-credential-manager
 cask google-chrome
+cask google-japanese-ime
 cask google-japanese-ime@dev
 cask gpg-suite
 cask hiddenbar
