@@ -358,6 +358,7 @@ brew zsh-git-prompt
 brew zstd
 
 tap homebrew/cask
+cask android-studio
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
