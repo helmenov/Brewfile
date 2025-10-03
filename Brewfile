@@ -247,6 +247,7 @@ brew openexr
 brew openjdk
 brew openjdk@11
 brew openjpeg
+brew openjph
 brew openldap
 brew openssl@3
 brew opus
