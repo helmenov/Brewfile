@@ -388,6 +388,7 @@ cask font-udev-gothic
 cask gimp
 cask git-credential-manager
 cask google-chrome
+cask google-drive
 cask google-japanese-ime@dev
 cask gpg-suite
 cask hiddenbar
