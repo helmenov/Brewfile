@@ -286,6 +286,7 @@ brew python-tk@3.12
 brew python@3.11
 brew python@3.12
 brew python@3.13
+brew python@3.14
 brew python@3.9
 brew qdbm
 brew qhull
