@@ -444,7 +444,6 @@ cask mullvadvpn
 cask musescore
 cask numi
 cask obsidian
-cask onyx
 cask opencore-patcher
 cask proton-drive
 cask quarto
