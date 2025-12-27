@@ -103,6 +103,7 @@ brew hunspell
 brew hwloc
 brew icu4c@76
 brew icu4c@77
+brew icu4c@78
 brew imagemagick
 brew imath
 brew ipfs
@@ -211,6 +212,7 @@ brew mad
 brew mariadb-connector-c
 brew mas
 brew mbedtls
+brew mbedtls@3
 brew md4c
 brew mecab
 brew mecab-ipadic
@@ -442,8 +444,10 @@ cask microsoft-auto-update
 cask microsoft-teams
 cask mullvadvpn
 cask musescore
+cask notion
 cask numi
 cask obsidian
+cask onyx
 cask opencore-patcher
 cask proton-drive
 cask quarto
