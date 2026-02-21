@@ -43,7 +43,6 @@ brew coreutils
 brew criterion
 brew csview
 brew curl
-brew cyrus-sasl
 brew dav1d
 brew dbus
 brew docbook
@@ -184,6 +183,7 @@ brew libtiff
 brew libtommath
 brew libtool
 brew libudfread
+brew libultrahdr
 brew libunibreak
 brew libunistring
 brew libusb
