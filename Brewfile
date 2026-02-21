@@ -447,7 +447,6 @@ cask musescore
 cask notion
 cask numi
 cask obsidian
-cask onyx
 cask opencore-patcher
 cask proton-drive
 cask quarto
