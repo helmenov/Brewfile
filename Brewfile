@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew ada-url
 brew ampl-asl
 brew aom
 brew apr
@@ -42,7 +43,6 @@ brew coreutils
 brew criterion
 brew csview
 brew curl
-brew cyrus-sasl
 brew dav1d
 brew dbus
 brew docbook
@@ -58,6 +58,7 @@ brew fig2dev
 brew flac
 brew fltk
 brew fluid-synth
+brew fmt
 brew fontconfig
 brew freetype
 brew frei0r
@@ -97,6 +98,7 @@ brew gts
 brew gumbo-parser
 brew harfbuzz
 brew hdf5
+brew hdrhistogram_c
 brew highway
 brew htop
 brew hunspell
@@ -134,6 +136,7 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libdatrie
 brew libde265
 brew libdeflate
 brew libev
@@ -175,10 +178,12 @@ brew libsoxr
 brew libssh
 brew libssh2
 brew libtasn1
+brew libthai
 brew libtiff
 brew libtommath
 brew libtool
 brew libudfread
+brew libultrahdr
 brew libunibreak
 brew libunistring
 brew libusb
@@ -202,6 +207,7 @@ brew libyaml
 brew libzip
 brew litehtml
 brew little-cms2
+brew llhttp
 brew lmdb
 brew lsd
 brew lua
