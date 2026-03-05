@@ -146,7 +146,6 @@ brew tcl-tk@8
 brew tesseract
 brew tokyo-cabinet
 brew unbound
-brew urlscan
 brew urlview
 brew usage
 brew uv
