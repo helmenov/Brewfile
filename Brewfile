@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew a2ps
 brew abseil
 brew bash
 brew bdw-gc
@@ -65,7 +64,6 @@ brew libksba
 brew libmagic
 brew libnghttp2
 brew libogg
-brew libpaper
 brew libpng
 brew libsndfile
 brew libsodium
