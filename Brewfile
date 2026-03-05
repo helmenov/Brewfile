@@ -1,1 +1,0 @@
-/Users/kotaro/MyRepository/MyDotfiles/.config/brewfile/helmenov_Brewfile/Brewfile
