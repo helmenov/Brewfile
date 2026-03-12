@@ -31,6 +31,7 @@ brew glib
 brew glow
 brew gmime
 brew gmp
+brew gnu-getopt
 brew gnupg
 brew gnutls
 brew gobject-introspection
@@ -39,6 +40,7 @@ brew gpgmepp
 brew graphite2
 brew harfbuzz
 brew icu4c@78
+brew isync
 brew jansson
 brew jbig2dec
 brew jj
@@ -97,6 +99,7 @@ brew mlx
 brew mlx-c
 brew mpdecimal
 brew mpg123
+brew msmtp
 brew mysql-client
 brew ncurses
 brew neomutt
@@ -114,6 +117,7 @@ brew opusfile
 brew p11-kit
 brew pandoc
 brew pango
+brew pass
 brew pcre2
 brew peco
 brew perl
@@ -145,6 +149,7 @@ brew tcl-tk
 brew tcl-tk@8
 brew tesseract
 brew tokyo-cabinet
+brew tree
 brew unbound
 brew urlview
 brew usage
