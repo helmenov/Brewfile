@@ -130,7 +130,6 @@ brew poppler
 brew procmail
 brew protobuf
 brew protobuf-c
-brew protobuf@33
 brew pycparser
 brew python@3.14
 brew qpdf
