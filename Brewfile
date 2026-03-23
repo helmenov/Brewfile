@@ -265,7 +265,7 @@ brew getoptlong-bash
 tap tlk/imagemagick-x11
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.53)
+appstore 302584613 Amazon Kindle (7.54)
 appstore 539883307 LINE (26.0.2)
 appstore 1475387142 Tailscale (1.94.1)
 appstore 747648890 Telegram (12.5)
