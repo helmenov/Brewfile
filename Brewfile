@@ -176,7 +176,6 @@ cask android-platform-tools
 cask appcleaner
 cask basictex
 cask betterdiscord-installer
-cask bitwarden
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask cpuinfo
