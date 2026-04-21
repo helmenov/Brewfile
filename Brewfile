@@ -224,6 +224,7 @@ brew mbedtls@3
 brew md4c
 brew mecab
 brew mecab-ipadic
+brew merve
 brew metis
 brew mise
 brew mpdecimal
@@ -235,6 +236,7 @@ brew nanomsg
 brew nanopb
 brew nasm
 brew navi
+brew nbytes
 brew ncurses
 brew neomutt
 brew netpbm
@@ -359,6 +361,7 @@ brew sdl2
 brew sfsexp
 brew shared-mime-info
 brew simdjson
+brew simdutf
 brew snappy
 brew sox
 brew speex
