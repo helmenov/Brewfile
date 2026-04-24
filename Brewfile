@@ -4,13 +4,16 @@
 tap homebrew/core
 brew abseil
 brew bash
+brew bat
 brew bdw-gc
 brew berkeley-db@5
 brew bogofilter
 brew brotli
 brew ca-certificates
 brew cairo
+brew certifi
 brew cffi
+brew coreutils
 brew cpm
 brew dav1d
 brew dbus
@@ -63,6 +66,7 @@ brew libiconv
 brew libidn
 brew libidn2
 brew libksba
+brew liblinear
 brew libmagic
 brew libnghttp2
 brew libogg
@@ -101,9 +105,11 @@ brew mpdecimal
 brew mpg123
 brew msmtp
 brew mysql-client
+brew nb
 brew ncurses
 brew neomutt
 brew nettle
+brew nmap
 brew notmuch
 brew npth
 brew nspr
@@ -126,6 +132,7 @@ brew pinentry-mac
 brew pipx
 brew pixman
 brew pkgconf
+brew poetry
 brew poppler
 brew procmail
 brew protobuf
@@ -137,6 +144,7 @@ brew qrencode
 brew qtbase
 brew qtsvg
 brew readline
+brew ripgrep
 brew sdl2
 brew sfsexp
 brew sox
@@ -147,6 +155,7 @@ brew talloc
 brew tcl-tk
 brew tcl-tk@8
 brew tesseract
+brew tig
 brew tokyo-cabinet
 brew tree
 brew unbound
@@ -172,6 +181,7 @@ brew zsh-autosuggestions
 brew zstd
 
 tap homebrew/cask
+cask alacritty
 cask android-platform-tools
 cask appcleaner
 cask basictex
@@ -263,8 +273,10 @@ brew getoptlong-bash
 
 tap tlk/imagemagick-x11
 
+tap xwmx/taps
+
 # App Store applications
-appstore 302584613 Amazon Kindle (7.54)
-appstore 539883307 LINE (26.0.2)
-appstore 1475387142 Tailscale (1.94.1)
-appstore 747648890 Telegram (12.5)
+appstore 302584613 Amazon Kindle (7.56)
+appstore 539883307 LINE (26.1.0)
+appstore 1475387142 Tailscale (1.96.2)
+appstore 747648890 Telegram (12.6)
