@@ -283,4 +283,3 @@ appstore 1475387142 Tailscale (1.96.5)
 appstore 747648890 Telegram (12.6)
 
 # Other commands
-<<<<<<< HEAD
