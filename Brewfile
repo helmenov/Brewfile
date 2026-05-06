@@ -90,6 +90,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
+brew llhttp
 brew lmdb
 brew lsusb
 brew lua
@@ -281,5 +282,3 @@ appstore 302584613 Amazon Kindle (7.57)
 appstore 539883307 LINE (26.1.0)
 appstore 1475387142 Tailscale (1.96.5)
 appstore 747648890 Telegram (12.6)
-
-# Other commands
