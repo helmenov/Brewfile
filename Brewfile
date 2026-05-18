@@ -26,6 +26,7 @@ brew freetype
 brew fribidi
 brew gdbm
 brew gettext
+brew gh
 brew ghostscript
 brew giflib
 brew git
