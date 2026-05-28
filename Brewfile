@@ -194,6 +194,7 @@ cask basictex
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask claude
+cask claude-code
 cask db-browser-for-sqlite
 cask deepl
 cask deskreen
@@ -225,6 +226,7 @@ cask macfuse
 cask macs-fan-control
 cask memory-cleaner
 cask microsoft-auto-update
+cask microsoft-outlook
 cask microsoft-teams
 cask mullvad-vpn
 cask musescore
@@ -289,5 +291,5 @@ tap xwmx/taps
 # App Store applications
 appstore 302584613 Amazon Kindle (7.59)
 appstore 539883307 LINE (26.2.0)
-appstore 1475387142 Tailscale (1.96.5)
+appstore 1475387142 Tailscale (1.98.2)
 appstore 747648890 Telegram (12.6)
