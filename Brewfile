@@ -266,9 +266,6 @@ cask f3xswift
 
 tap koekeishiya/formulae
 
-tap mklement0/ttab
-brew ttab
-
 tap nvie/tap
 
 tap pirj/noclamshell
