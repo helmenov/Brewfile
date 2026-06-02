@@ -176,7 +176,6 @@ brew xapian
 brew xcodes
 brew xdg-ninja
 brew xorgproto
-brew xpdf
 brew xtrans
 brew xz
 brew yara
