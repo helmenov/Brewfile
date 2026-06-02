@@ -454,6 +454,7 @@ cask maccy
 cask macdown
 cask macfuse
 cask macs-fan-control
+cask mediahuman-youtube-downloader
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-teams
