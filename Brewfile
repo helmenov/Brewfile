@@ -286,7 +286,6 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # Other Homebrew packages
-brew ttab
 
 # App Store applications
 appstore 302584613 Amazon Kindle (7.59)
