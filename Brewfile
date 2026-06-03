@@ -285,6 +285,9 @@ tap tlk/imagemagick-x11
 
 tap xwmx/taps
 
+# Other Homebrew packages
+brew ttab
+
 # App Store applications
 appstore 302584613 Amazon Kindle (7.59)
 appstore 539883307 LINE (26.2.0)
