@@ -61,6 +61,7 @@ brew fig2dev
 brew flac
 brew fltk
 brew fluid-synth
+brew fmt
 brew fontconfig
 brew freetype
 brew frei0r
@@ -109,6 +110,7 @@ brew icu4c@78
 brew imagemagick
 brew imath
 brew ipopt
+brew iproute2mac
 brew isl
 brew isync
 brew jansson
@@ -139,6 +141,7 @@ brew libdatrie
 brew libde265
 brew libdeflate
 brew libevent
+brew libffi
 brew libfido2
 brew libgcrypt
 brew libgda
@@ -306,24 +309,39 @@ brew qscintilla2
 brew qt3d
 brew qt5compat
 brew qtbase
+brew qtcanvaspainter
 brew qtcharts
 brew qtdatavis3d
 brew qtdeclarative
+brew qtgraphs
+brew qtgrpc
+brew qthttpserver
+brew qtimageformats
+brew qtlocation
+brew qtlottie
 brew qtmultimedia
 brew qtnetworkauth
 brew qtpositioning
+brew qtquick3d
+brew qtquick3dphysics
+brew qtquickeffectmaker
 brew qtquicktimeline
 brew qtremoteobjects
 brew qtscxml
 brew qtsensors
+brew qtserialbus
 brew qtserialport
 brew qtshadertools
 brew qtspeech
 brew qtsvg
+brew qttasktree
 brew qttools
+brew qttranslations
+brew qtvirtualkeyboard
 brew qtwebchannel
 brew qtwebengine
 brew qtwebsockets
+brew qtwebview
 brew rapidjson
 brew rav1e
 brew readline
@@ -430,6 +448,7 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
+cask mediahuman-youtube-downloader
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -471,7 +490,6 @@ cask f3xswift
 
 tap koekeishiya/formulae
 brew skhd
-brew yabai
 
 tap nvie/tap
 brew git-toolbelt
@@ -484,9 +502,6 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 
 tap tecolicom/tap
-brew app-ansi-tools
-brew app-greple
-brew app-nup
 brew app-optex
 brew getoptlong-bash
 
