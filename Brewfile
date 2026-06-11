@@ -191,6 +191,7 @@ cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
 cask basictex
+cask blackhole-2ch
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask claude
@@ -240,6 +241,7 @@ cask quarto
 cask raycast
 cask shotcut
 cask slack
+cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
