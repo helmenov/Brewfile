@@ -441,6 +441,7 @@ cask fuse-t
 cask gimp
 cask git-credential-manager
 cask google-chrome
+cask google-drive
 cask google-japanese-ime
 cask hiddenbar
 cask inkscape
@@ -460,6 +461,7 @@ cask obsidian
 cask onyx
 cask opencore-patcher
 cask paperpile
+cask pingid
 cask proton-drive
 cask quarto
 cask raycast
