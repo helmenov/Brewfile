@@ -6,7 +6,6 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
-brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -30,7 +29,6 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
-brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -84,6 +82,7 @@ brew hdrhistogram_c
 brew highway
 brew icu4c@78
 brew imagemagick
+brew imath
 brew isync
 brew jansson
 brew jbig2dec
@@ -104,8 +103,8 @@ brew libavif
 brew libb2
 brew libcbor
 brew libdatrie
+brew libdeflate
 brew libevent
-brew libffi
 brew libfido2
 brew libgcrypt
 brew libgda
