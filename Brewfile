@@ -6,16 +6,12 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
-brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
 brew arpack
 brew asciidoctor
-brew aspell
-brew assimp
 brew assimp@5
-brew autoconf
 brew automake
 brew bash
 brew bat
@@ -33,7 +29,6 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
-brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -54,18 +49,14 @@ brew ffmpeg
 brew fftw
 brew fig2dev
 brew flac
-brew fltk
 brew fmt
 brew fontconfig
 brew freetype
 brew fribidi
 brew fzf
 brew gcc
-brew gd
 brew gdbm
-brew gdk-pixbuf
 brew gettext
-brew gflags
 brew gh
 brew ghostscript
 brew giflib
@@ -76,7 +67,6 @@ brew git-lfs
 brew gl2ps
 brew glib
 brew glow
-brew glpk
 brew gmime
 brew gmp
 brew gnu-getopt
@@ -85,64 +75,48 @@ brew gnutls
 brew gobject-introspection
 brew gpgme
 brew gpgmepp
-brew graphicsmagick
 brew graphite2
 brew gumbo-parser
 brew harfbuzz
-brew hdf5
 brew hdrhistogram_c
 brew highway
-brew hunspell
-brew hwloc
 brew icu4c@78
 brew imagemagick
 brew imath
-brew isl
-brew iso-codes
 brew isync
 brew jansson
-brew jasper
 brew jbig2dec
 brew jemalloc
 brew jj
 brew jpeg
 brew jpeg-turbo
-brew jpeg-xl
 brew jq
-brew json-c
 brew json-glib
 brew krb5
 brew lame
 brew ldns
 brew leptonica
 brew lesspipe
-brew libaec
 brew libarchive
 brew libassuan
 brew libavif
 brew libb2
 brew libcbor
 brew libdatrie
-brew libde265
 brew libdeflate
-brew libev
 brew libevent
-brew libffi
 brew libfido2
 brew libgcrypt
 brew libgda
 brew libgit2
 brew libgit2@1.8
 brew libgpg-error
-brew libheif
-brew libice
 brew libiconv
 brew libidn
 brew libidn2
 brew libksba
 brew liblinear
 brew libmagic
-brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libnghttp3
@@ -155,7 +129,6 @@ brew librist
 brew librsvg
 brew libsamplerate
 brew libsixel
-brew libsm
 brew libsndfile
 brew libsodium
 brew libssh
@@ -183,7 +156,6 @@ brew libxext
 brew libxrender
 brew libxt
 brew libyaml
-brew libzip
 brew litehtml
 brew little-cms2
 brew llhttp
@@ -194,9 +166,7 @@ brew lua
 brew lua@5.4
 brew lz4
 brew lzo
-brew m4
 brew mad
-brew mariadb-connector-c
 brew mas
 brew mbedtls
 brew mbedtls@3
@@ -223,11 +193,9 @@ brew nb
 brew nbytes
 brew ncurses
 brew neomutt
-brew netpbm
 brew nettle
 brew nghttp2
 brew nmap
-brew node
 brew node@24
 brew notmuch
 brew npth
@@ -236,7 +204,6 @@ brew octave
 brew ollama
 brew oniguruma
 brew open-mpi
-brew openblas
 brew opencore-amr
 brew openexr
 brew openjpeg
@@ -259,15 +226,11 @@ brew pipx
 brew pixman
 brew pkgconf
 brew plotutils
-brew pmix
 brew poetry
-brew popt
-brew portaudio
 brew potrace
 brew procmail
 brew protobuf
 brew protobuf-c
-brew pstoedit
 brew pycparser
 brew pyqt
 brew python@3.12
@@ -276,14 +239,11 @@ brew python@3.9
 brew qhull
 brew qpdf
 brew qrencode
-brew qrupdate
-brew qscintilla2
 brew qt3d
 brew qt5compat
 brew qtbase
 brew qtcanvaspainter
 brew qtcharts
-brew qtconnectivity
 brew qtdatavis3d
 brew qtdeclarative
 brew qtgraphs
@@ -291,19 +251,13 @@ brew qtlottie
 brew qtmultimedia
 brew qtnetworkauth
 brew qtpositioning
-brew qtquick3d
 brew qtquick3dphysics
 brew qtquickeffectmaker
 brew qtquicktimeline
 brew qtremoteobjects
-brew qtscxml
-brew qtsensors
-brew qtserialport
-brew qtshadertools
 brew qtspeech
 brew qtsvg
 brew qttasktree
-brew qttools
 brew qtvirtualkeyboard
 brew qtwebchannel
 brew qtwebengine
@@ -315,7 +269,6 @@ brew readline
 brew reattach-to-user-namespace
 brew ripgrep
 brew rocksdb
-brew ruby
 brew samba
 brew sdl2
 brew sfsexp
@@ -328,13 +281,11 @@ brew sqlite
 brew srt
 brew starship
 brew suite-sparse
-brew sundials
 brew svt-av1
 brew tailscale
 brew talloc
 brew tcl-tk
 brew tcl-tk@8
-brew tdb
 brew tesseract
 brew tevent
 brew texinfo
@@ -356,7 +307,6 @@ brew x265
 brew xapian
 brew xcodes
 brew xdg-ninja
-brew xerces-c
 brew xorgproto
 brew xpdf
 brew xtrans
@@ -455,6 +405,9 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
+tap koekeishiya/formulae
+brew skhd
+
 tap nvie/tap
 
 tap pirj/noclamshell
@@ -476,11 +429,12 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # Other Homebrew packages
-brew skhd
+brew libgit2@1.6
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.60)
-appstore 1037126344 Apple Configurator (2.20)
-appstore 539883307 LINE (26.2.0)
-appstore 1475387142 Tailscale (1.98.5)
-appstore 747648890 Telegram (12.8)
+appstore 302584613 Amazon Kindle (7.36)
+appstore 1037126344 Apple Configurator (2.18)
+appstore 539883307 LINE (9.9.0)
+appstore 409201541 Pages (14.2)
+appstore 1475387142 Tailscale (1.84.1)
+appstore 747648890 Telegram (11.13)
