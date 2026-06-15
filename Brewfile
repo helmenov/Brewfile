@@ -433,7 +433,6 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # Other Homebrew packages
-brew libgit2@1.6
 
 # App Store applications
 appstore 302584613 Amazon Kindle (7.36)
