@@ -409,8 +409,7 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
-tap koekeishiya/formulae
-brew skhd
+tap koekeishiya/formulae/skhd
 
 tap nvie/tap
 
