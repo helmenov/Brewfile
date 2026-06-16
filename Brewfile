@@ -6,7 +6,6 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
-brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -33,7 +32,6 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
-brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -109,7 +107,6 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew json-c
 brew json-glib
 brew krb5
 brew lame
