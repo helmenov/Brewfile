@@ -452,10 +452,6 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
-brew koekeishiya/formulae/skhd
-
-brew koekeishiya/formulae/yabai
-
 tap nvie/tap
 
 tap pirj/noclamshell
@@ -475,6 +471,10 @@ brew getoptlong-bash
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
+
+# Other Homebrew packages
+brew skhd
+brew yabai
 
 # App Store applications
 appstore 302584613 Amazon Kindle (7.36)
