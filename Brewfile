@@ -405,8 +405,6 @@ tap browsh-org/browsh
 tap helmenov/tap
 cask f3xswift
 
-brew koekeishiya/formulae/skhd
-
 tap nvie/tap
 
 tap pirj/noclamshell
