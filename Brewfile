@@ -472,10 +472,6 @@ tap tlk/imagemagick-x11
 
 tap xwmx/taps
 
-# Other Homebrew packages
-brew skhd
-brew yabai
-
 # App Store applications
 appstore 302584613 Amazon Kindle (7.36)
 appstore 1037126344 Apple Configurator (2.18)
