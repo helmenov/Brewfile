@@ -6,6 +6,7 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
+brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -32,6 +33,7 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
+brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -107,6 +109,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew json-c
 brew json-glib
 brew krb5
 brew lame
@@ -478,5 +481,6 @@ tap xwmx/taps
 appstore 302584613 Amazon Kindle (7.36)
 appstore 1037126344 Apple Configurator (2.18)
 appstore 539883307 LINE (9.9.0)
+appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.84.1)
 appstore 747648890 Telegram (11.13)
