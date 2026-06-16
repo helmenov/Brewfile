@@ -448,10 +448,6 @@ cask xnconvert
 cask xquartz
 cask zoom
 
-tap asmvik/formulae
-brew skhd
-brew yabai
-
 tap b4b4r07/tap
 
 tap browsh-org/browsh
