@@ -478,6 +478,5 @@ tap xwmx/taps
 appstore 302584613 Amazon Kindle (7.36)
 appstore 1037126344 Apple Configurator (2.18)
 appstore 539883307 LINE (9.9.0)
-appstore 409201541 Pages (14.2)
 appstore 1475387142 Tailscale (1.84.1)
 appstore 747648890 Telegram (11.13)
