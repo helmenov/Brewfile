@@ -473,8 +473,8 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.36)
-appstore 1037126344 Apple Configurator (2.18)
-appstore 539883307 LINE (9.9.0)
-appstore 1475387142 Tailscale (1.84.1)
-appstore 747648890 Telegram (11.13)
+appstore 302584613 Amazon Kindle (7.60)
+appstore 1037126344 Apple Configurator (2.20)
+appstore 539883307 LINE (26.2.0)
+appstore 1475387142 Tailscale (1.98.5)
+appstore 747648890 Telegram (12.8)
