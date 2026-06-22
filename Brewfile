@@ -320,6 +320,7 @@ brew rocksdb
 brew ruby
 brew samba
 brew sdl2
+brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
