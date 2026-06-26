@@ -6,6 +6,7 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
+brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -32,6 +33,7 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
+brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -107,6 +109,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew json-c
 brew json-glib
 brew krb5
 brew lame
@@ -139,6 +142,7 @@ brew libidn2
 brew libksba
 brew liblinear
 brew libmagic
+brew libmaxminddb
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
@@ -153,6 +157,7 @@ brew librsvg
 brew libsamplerate
 brew libsixel
 brew libsm
+brew libsmi
 brew libsndfile
 brew libsodium
 brew libssh
@@ -315,12 +320,14 @@ brew rocksdb
 brew ruby
 brew samba
 brew sdl2
+brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
 brew snappy
 brew sox
 brew speex
+brew speexdsp
 brew sqlite
 brew srt
 brew starship
@@ -348,6 +355,7 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
+brew wireshark
 brew x264
 brew x265
 brew xapian
@@ -381,7 +389,6 @@ cask chrome-remote-desktop-host
 cask claude
 cask claude-code
 cask db-browser-for-sqlite
-cask deepl
 cask deskreen
 cask devtoys
 cask discord
@@ -439,10 +446,14 @@ cask visual-studio-code
 cask vlc
 cask webex
 cask wezterm
+cask wireshark-chmodbpf
 cask xcodes-app
 cask xnconvert
 cask xquartz
 cask zoom
+
+tap arto-app/tap
+cask arto
 
 tap b4b4r07/tap
 
@@ -472,8 +483,8 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.60)
-appstore 1037126344 Apple Configurator (2.20)
-appstore 539883307 LINE (26.2.0)
-appstore 1475387142 Tailscale (1.98.5)
-appstore 747648890 Telegram (12.8)
+appstore 302584613 Amazon Kindle (7.36)
+appstore 1037126344 Apple Configurator (2.18)
+appstore 539883307 LINE (9.9.0)
+appstore 1475387142 Tailscale (1.84.1)
+appstore 747648890 Telegram (11.13)
