@@ -404,7 +404,6 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask google-drive
-cask google-japanese-ime
 cask hiddenbar
 cask inkscape
 cask ltspice
