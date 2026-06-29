@@ -482,5 +482,3 @@ brew getoptlong-bash
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
-
-# App Store applications
