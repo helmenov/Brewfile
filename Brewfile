@@ -6,7 +6,6 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
-brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -33,7 +32,6 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
-brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -109,7 +107,6 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew json-c
 brew json-glib
 brew krb5
 brew lame
@@ -142,7 +139,6 @@ brew libidn2
 brew libksba
 brew liblinear
 brew libmagic
-brew libmaxminddb
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
@@ -158,7 +154,6 @@ brew librsvg
 brew libsamplerate
 brew libsixel
 brew libsm
-brew libsmi
 brew libsndfile
 brew libsodium
 brew libssh
@@ -328,7 +323,6 @@ brew simdutf
 brew snappy
 brew sox
 brew speex
-brew speexdsp
 brew sqlite
 brew srt
 brew starship
@@ -356,7 +350,6 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
-brew wireshark
 brew x264
 brew x265
 brew xapian
@@ -385,11 +378,13 @@ cask android-platform-tools
 cask appcleaner
 cask basictex
 cask blackhole-2ch
+cask brave-browser
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask claude
 cask claude-code
 cask db-browser-for-sqlite
+cask deepl
 cask deskreen
 cask devtoys
 cask discord
@@ -412,6 +407,7 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask google-drive
+cask google-japanese-ime
 cask hiddenbar
 cask inkscape
 cask ltspice
@@ -437,6 +433,7 @@ cask shotcut
 cask slack
 cask sonobus
 cask supercollider
+cask tailscale-app
 cask the-unarchiver
 cask thonny
 cask thunderbird
@@ -447,14 +444,12 @@ cask visual-studio-code
 cask vlc
 cask webex
 cask wezterm
-cask wireshark-chmodbpf
 cask xcodes-app
 cask xnconvert
 cask xquartz
 cask zoom
 
 tap arto-app/tap
-cask arto
 
 tap b4b4r07/tap
 
@@ -482,3 +477,7 @@ brew getoptlong-bash
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
+
+# App Store applications
+appstore 409183694 Keynote (14.4)
+appstore 1475387142 Tailscale (1.98.5)
