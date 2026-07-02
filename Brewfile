@@ -488,4 +488,3 @@ tap xwmx/taps
 
 # App Store applications
 appstore 409183694 Keynote (14.4)
-appstore 1475387142 Tailscale (1.98.5)
