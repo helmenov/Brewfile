@@ -385,6 +385,7 @@ cask android-platform-tools
 cask appcleaner
 cask basictex
 cask blackhole-2ch
+cask brave-browser
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask claude
@@ -412,6 +413,7 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask google-drive
+cask google-japanese-ime
 cask hiddenbar
 cask inkscape
 cask ltspice
@@ -437,6 +439,7 @@ cask shotcut
 cask slack
 cask sonobus
 cask supercollider
+cask tailscale-app
 cask the-unarchiver
 cask thonny
 cask thunderbird
@@ -484,6 +487,5 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 1037126344 Apple Configurator (2.18)
-appstore 539883307 LINE (9.9.0)
-appstore 1475387142 Tailscale (1.84.1)
+appstore 409183694 Keynote (14.4)
+appstore 1475387142 Tailscale (1.98.5)
