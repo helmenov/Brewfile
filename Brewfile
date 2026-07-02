@@ -383,7 +383,6 @@ tap homebrew/cask
 cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
-cask basictex
 cask blackhole-2ch
 cask brave-browser
 cask brave-browser@beta
@@ -420,6 +419,7 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
+cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
