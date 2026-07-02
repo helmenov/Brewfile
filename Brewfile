@@ -487,4 +487,3 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 409183694 Keynote (14.4)
