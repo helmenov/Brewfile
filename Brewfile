@@ -487,3 +487,5 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
+appstore 1037126344 Apple Configurator (2.18)
+appstore 539883307 LINE (9.9.0)
