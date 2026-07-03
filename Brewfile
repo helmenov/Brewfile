@@ -417,6 +417,7 @@ cask hiddenbar
 cask inkscape
 cask ltspice
 cask maccy
+cask macdown
 cask macfuse
 cask macs-fan-control
 cask mactex
