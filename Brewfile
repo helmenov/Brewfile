@@ -6,7 +6,6 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
-brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -33,7 +32,6 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
-brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -142,7 +140,6 @@ brew libidn2
 brew libksba
 brew liblinear
 brew libmagic
-brew libmaxminddb
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
@@ -158,7 +155,6 @@ brew librsvg
 brew libsamplerate
 brew libsixel
 brew libsm
-brew libsmi
 brew libsndfile
 brew libsodium
 brew libssh
@@ -242,7 +238,6 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
-brew openjdk
 brew openjpeg
 brew openjph
 brew openldap
@@ -329,7 +324,6 @@ brew simdutf
 brew snappy
 brew sox
 brew speex
-brew speexdsp
 brew sqlite
 brew srt
 brew starship
@@ -345,7 +339,6 @@ brew tesseract
 brew tevent
 brew texinfo
 brew tig
-brew tika
 brew tokyo-cabinet
 brew tree
 brew unbound
@@ -358,7 +351,6 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
-brew wireshark
 brew x264
 brew x265
 brew xapian
@@ -392,6 +384,7 @@ cask chrome-remote-desktop-host
 cask claude
 cask claude-code
 cask db-browser-for-sqlite
+cask deepl
 cask deskreen
 cask devtoys
 cask discord
@@ -414,15 +407,12 @@ cask gimp
 cask git-credential-manager
 cask google-chrome
 cask google-drive
-cask google-japanese-ime
 cask hiddenbar
 cask inkscape
 cask ltspice
 cask maccy
 cask macfuse
-cask macmd-viewer
 cask macs-fan-control
-cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -442,7 +432,6 @@ cask shotcut
 cask slack
 cask sonobus
 cask supercollider
-cask tailscale-app
 cask the-unarchiver
 cask thonny
 cask thunderbird
@@ -453,11 +442,12 @@ cask visual-studio-code
 cask vlc
 cask webex
 cask wezterm
-cask wireshark-chmodbpf
 cask xcodes-app
 cask xnconvert
 cask xquartz
 cask zoom
+
+tap arto-app/tap
 
 tap b4b4r07/tap
 
@@ -487,5 +477,6 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 1037126344 Apple Configurator (2.18)
-appstore 539883307 LINE (9.9.0)
+appstore 1037126344 Apple Configurator (2.20)
+appstore 539883307 LINE (26.3.0)
+appstore 1475387142 Tailscale (1.98.5)
