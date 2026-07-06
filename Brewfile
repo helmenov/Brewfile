@@ -459,9 +459,6 @@ cask xnconvert
 cask xquartz
 cask zoom
 
-tap arto-app/tap
-cask arto
-
 tap b4b4r07/tap
 
 tap browsh-org/browsh
