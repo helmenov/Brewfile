@@ -242,6 +242,7 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
+brew openjdk
 brew openjpeg
 brew openjph
 brew openldap
@@ -344,6 +345,7 @@ brew tesseract
 brew tevent
 brew texinfo
 brew tig
+brew tika
 brew tokyo-cabinet
 brew tree
 brew unbound
@@ -418,6 +420,7 @@ cask inkscape
 cask ltspice
 cask maccy
 cask macfuse
+cask macmd-viewer
 cask macs-fan-control
 cask mactex
 cask memory-cleaner
