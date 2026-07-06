@@ -417,8 +417,8 @@ cask hiddenbar
 cask inkscape
 cask ltspice
 cask maccy
-cask macdown
 cask macfuse
+cask macmd-viewer
 cask macs-fan-control
 cask mactex
 cask memory-cleaner
