@@ -378,7 +378,6 @@ cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
 cask blackhole-2ch
-cask brave-browser
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask claude
@@ -413,7 +412,6 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
-cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -478,6 +476,6 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 1037126344 Apple Configurator (2.18)
-appstore 539883307 LINE (9.9.0)
+appstore 1037126344 Apple Configurator (2.20)
+appstore 539883307 LINE (26.3.0)
 appstore 1475387142 Tailscale (1.98.8)
