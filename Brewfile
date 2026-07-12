@@ -194,6 +194,7 @@ brew lua@5.4
 brew lz4
 brew lzo
 brew m4
+brew mackup
 brew mad
 brew mariadb-connector-c
 brew mas
@@ -390,6 +391,7 @@ cask discord
 cask dropbox
 cask element
 cask flutter
+cask folx
 cask font-0xproto-nerd-font
 cask font-cica
 cask font-fira-code
