@@ -381,8 +381,6 @@ cask appcleaner
 cask blackhole-2ch
 cask brave-browser@beta
 cask chrome-remote-desktop-host
-cask claude
-cask claude-code
 cask db-browser-for-sqlite
 cask deepl
 cask deskreen
