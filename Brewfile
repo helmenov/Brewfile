@@ -420,6 +420,7 @@ cask mullvad-vpn
 cask musescore
 cask numi
 cask obsidian
+cask onlyoffice
 cask onyx
 cask opencore-patcher
 cask paperpile
