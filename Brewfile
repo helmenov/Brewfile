@@ -322,6 +322,7 @@ brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
+brew sl
 brew snappy
 brew sox
 brew speex
