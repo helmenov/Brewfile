@@ -6,6 +6,7 @@ brew abseil
 brew ada-url
 brew ampl-asl
 brew aom
+brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -32,6 +33,7 @@ brew cairo
 brew certifi
 brew cffi
 brew cjson
+brew clamav
 brew cliclick
 brew cling
 brew cocoapods
@@ -92,7 +94,6 @@ brew hdrhistogram_c
 brew highway
 brew hunspell
 brew hwloc
-brew icu4c@77
 brew icu4c@78
 brew imagemagick
 brew imath
@@ -141,6 +142,7 @@ brew libidn2
 brew libksba
 brew liblinear
 brew libmagic
+brew libmaxminddb
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
@@ -156,6 +158,7 @@ brew librsvg
 brew libsamplerate
 brew libsixel
 brew libsm
+brew libsmi
 brew libsndfile
 brew libsodium
 brew libssh
@@ -273,6 +276,7 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
+brew python@3.9
 brew qhull
 brew qpdf
 brew qrencode
@@ -322,10 +326,10 @@ brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
-brew sl
 brew snappy
 brew sox
 brew speex
+brew speexdsp
 brew sqlite
 brew srt
 brew starship
@@ -353,6 +357,7 @@ brew w3m
 brew webp
 brew wget
 brew wimlib
+brew wireshark
 brew x264
 brew x265
 brew xapian
@@ -379,18 +384,19 @@ tap homebrew/cask
 cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
+cask basictex
 cask blackhole-2ch
 cask brave-browser@beta
 cask chrome-remote-desktop-host
+cask claude
+cask claude-code
 cask db-browser-for-sqlite
-cask deepl
 cask deskreen
 cask devtoys
 cask discord
 cask dropbox
 cask element
 cask flutter
-cask folx
 cask font-0xproto-nerd-font
 cask font-cica
 cask font-fira-code
@@ -421,7 +427,6 @@ cask mullvad-vpn
 cask musescore
 cask numi
 cask obsidian
-cask onlyoffice
 cask onyx
 cask opencore-patcher
 cask paperpile
@@ -443,12 +448,14 @@ cask visual-studio-code
 cask vlc
 cask webex
 cask wezterm
+cask wireshark-chmodbpf
 cask xcodes-app
 cask xnconvert
 cask xquartz
 cask zoom
 
 tap arto-app/tap
+cask arto
 
 tap b4b4r07/tap
 
@@ -478,6 +485,4 @@ tap tlk/imagemagick-x11
 tap xwmx/taps
 
 # App Store applications
-appstore 1037126344 Apple Configurator (2.20)
-appstore 539883307 LINE (26.3.0)
-appstore 1475387142 Tailscale (1.98.8)
+appstore 1475387142 Tailscale (1.98.5)
