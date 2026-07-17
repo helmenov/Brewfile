@@ -92,6 +92,7 @@ brew hdrhistogram_c
 brew highway
 brew hunspell
 brew hwloc
+brew icu4c@77
 brew icu4c@78
 brew imagemagick
 brew imath
@@ -272,7 +273,6 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
-brew python@3.9
 brew qhull
 brew qpdf
 brew qrencode
