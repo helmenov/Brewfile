@@ -92,6 +92,7 @@ brew hdrhistogram_c
 brew highway
 brew hunspell
 brew hwloc
+brew icu4c@77
 brew icu4c@78
 brew imagemagick
 brew imath
@@ -272,7 +273,6 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
-brew python@3.9
 brew qhull
 brew qpdf
 brew qrencode
@@ -322,6 +322,7 @@ brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
+brew sl
 brew snappy
 brew sox
 brew speex
@@ -381,8 +382,6 @@ cask appcleaner
 cask blackhole-2ch
 cask brave-browser@beta
 cask chrome-remote-desktop-host
-cask claude
-cask claude-code
 cask db-browser-for-sqlite
 cask deepl
 cask deskreen
@@ -422,6 +421,7 @@ cask mullvad-vpn
 cask musescore
 cask numi
 cask obsidian
+cask onlyoffice
 cask onyx
 cask opencore-patcher
 cask paperpile
@@ -436,6 +436,7 @@ cask supercollider
 cask the-unarchiver
 cask thonny
 cask thunderbird
+cask tor-browser
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t
