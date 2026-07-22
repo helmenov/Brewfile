@@ -13,6 +13,7 @@ brew arpack
 brew asciidoctor
 brew aspell
 brew assimp
+brew assimp@5
 brew autoconf
 brew automake
 brew bash
@@ -249,6 +250,7 @@ brew p11-kit
 brew pandoc
 brew pango
 brew pass
+brew pcre
 brew pcre2
 brew peco
 brew perl
@@ -378,7 +380,6 @@ cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
 cask blackhole-2ch
-cask brave-browser
 cask brave-browser@beta
 cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
@@ -389,6 +390,7 @@ cask discord
 cask dropbox
 cask element
 cask flutter
+cask folx
 cask font-0xproto-nerd-font
 cask font-cica
 cask font-fira-code
@@ -411,7 +413,6 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
-cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
