@@ -268,6 +268,7 @@ brew potrace
 brew procmail
 brew protobuf
 brew protobuf-c
+brew prrte
 brew pstoedit
 brew pycparser
 brew pyqt
@@ -413,7 +414,6 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
-cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -437,7 +437,6 @@ cask supercollider
 cask the-unarchiver
 cask thonny
 cask thunderbird
-cask tor-browser
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t
@@ -482,4 +481,4 @@ tap xwmx/taps
 # App Store applications
 appstore 1037126344 Apple Configurator (2.20)
 appstore 539883307 LINE (26.3.0)
-appstore 1475387142 Tailscale (1.98.8)
+appstore 1475387142 Tailscale (1.98.5)
