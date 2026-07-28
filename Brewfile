@@ -414,6 +414,7 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
+cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -437,6 +438,7 @@ cask supercollider
 cask the-unarchiver
 cask thonny
 cask thunderbird
+cask tor-browser
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t
