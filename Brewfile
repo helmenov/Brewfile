@@ -8,6 +8,7 @@ brew ampl-asl
 brew aom
 brew apr
 brew apr-util
+brew argp-standalone
 brew aribb24
 brew arpack
 brew asciidoctor
@@ -47,6 +48,7 @@ brew dovecot
 brew eigen
 brew enchant
 brew epstool
+brew f3
 brew fd
 brew ffmpeg
 brew fftw
@@ -382,6 +384,7 @@ cask android-platform-tools
 cask appcleaner
 cask blackhole-2ch
 cask brave-browser@beta
+cask caffeine
 cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
 cask deepl
@@ -414,6 +417,7 @@ cask ltspice
 cask maccy
 cask macfuse
 cask macs-fan-control
+cask mactex
 cask memory-cleaner
 cask microsoft-auto-update
 cask microsoft-outlook
@@ -437,6 +441,7 @@ cask supercollider
 cask the-unarchiver
 cask thonny
 cask thunderbird
+cask tor-browser
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t
