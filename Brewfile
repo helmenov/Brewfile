@@ -425,7 +425,7 @@ cask microsoft-teams
 cask mullvad-vpn
 cask musescore
 cask numi
-cask obsidian --force
+cask obsidian
 cask onlyoffice
 cask onyx
 cask opencore-patcher
