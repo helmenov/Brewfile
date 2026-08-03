@@ -431,7 +431,6 @@ cask onyx
 cask opencore-patcher
 cask paperpile
 cask pingid
-cask proton-drive
 cask quarto
 cask raycast
 cask shotcut
