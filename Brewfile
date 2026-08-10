@@ -35,6 +35,7 @@ brew cffi
 brew cjson
 brew cliclick
 brew cling
+brew cmake
 brew cocoapods
 brew coreutils
 brew cpm
@@ -114,6 +115,7 @@ brew json-c
 brew json-glib
 brew krb5
 brew lame
+brew languagetool
 brew ldns
 brew leptonica
 brew lesspipe
@@ -242,6 +244,7 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
+brew openjdk@17
 brew openjpeg
 brew openjph
 brew openldap
