@@ -442,8 +442,8 @@ cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
-cask thunderbird
-cask tor-browser
+cask thunderbird@esr
+cask tor-browser@alpha
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t
