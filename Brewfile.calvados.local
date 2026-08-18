@@ -4,10 +4,10 @@
 tap homebrew/core
 
 tap homebrew/cask
-cask brave-browser
 cask claude
 cask claude-code
 cask proton-drive
+cask thunderbird@esr
 
 tap arto-app/tap
 
