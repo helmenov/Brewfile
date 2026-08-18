@@ -8,13 +8,11 @@ brew ampl-asl
 brew aom
 brew apr
 brew apr-util
-brew argp-standalone
 brew aribb24
 brew arpack
 brew asciidoctor
 brew aspell
 brew assimp
-brew assimp@5
 brew autoconf
 brew automake
 brew bash
@@ -35,7 +33,6 @@ brew cffi
 brew cjson
 brew cliclick
 brew cling
-brew cmake
 brew cocoapods
 brew coreutils
 brew cpm
@@ -49,7 +46,6 @@ brew dovecot
 brew eigen
 brew enchant
 brew epstool
-brew f3
 brew fd
 brew ffmpeg
 brew fftw
@@ -95,7 +91,6 @@ brew hdrhistogram_c
 brew highway
 brew hunspell
 brew hwloc
-brew icu4c@77
 brew icu4c@78
 brew imagemagick
 brew imath
@@ -115,7 +110,6 @@ brew json-c
 brew json-glib
 brew krb5
 brew lame
-brew languagetool
 brew ldns
 brew leptonica
 brew lesspipe
@@ -244,7 +238,6 @@ brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
-brew openjdk@17
 brew openjpeg
 brew openjph
 brew openldap
@@ -255,7 +248,6 @@ brew p11-kit
 brew pandoc
 brew pango
 brew pass
-brew pcre
 brew pcre2
 brew peco
 brew perl
@@ -328,7 +320,6 @@ brew sdl3
 brew sfsexp
 brew simdjson
 brew simdutf
-brew sl
 brew snappy
 brew sox
 brew speex
@@ -442,7 +433,6 @@ cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
-cask thunderbird@esr
 cask tor-browser@alpha
 cask unity-hub
 cask utm
@@ -487,8 +477,6 @@ tap xwmx/taps
 
 # App Store applications
 appstore 1037126344 Apple Configurator (2.20)
-appstore 539883307 LINE (26.3.0)
-appstore 1475387142 Tailscale (1.98.8)
 
 # Main file
 main ./Brewfile.$HOSTNAME
