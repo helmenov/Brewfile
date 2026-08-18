@@ -489,3 +489,5 @@ tap xwmx/taps
 appstore 1037126344 Apple Configurator (2.20)
 appstore 539883307 LINE (26.3.0)
 appstore 1475387142 Tailscale (1.98.8)
+
+main ./Brewfile.$HOSTNAME
