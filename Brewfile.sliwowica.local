@@ -1,0 +1,28 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap homebrew/cask
+
+tap arto-app/tap
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+
+tap nvie/tap
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkpac
+
+tap tecolicom/tap
+
+tap tlk/imagemagick-x11
+
+tap xwmx/taps
