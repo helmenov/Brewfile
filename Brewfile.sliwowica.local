@@ -4,6 +4,7 @@
 tap homebrew/core
 
 tap homebrew/cask
+cask claude-code
 
 tap arto-app/tap
 

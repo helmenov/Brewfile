@@ -206,7 +206,6 @@ brew merve
 brew metis
 brew mise
 brew mlx
-brew mlx-c
 brew mpdecimal
 brew mpfr
 brew mpg123
@@ -232,7 +231,6 @@ brew notmuch
 brew npth
 brew nspr
 brew octave
-brew ollama
 brew oniguruma
 brew open-mpi
 brew openblas
