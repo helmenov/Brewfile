@@ -27,3 +27,7 @@ tap tecolicom/tap
 tap tlk/imagemagick-x11
 
 tap xwmx/taps
+
+# App Store applications
+appstore 539883307 LINE (26.3.0)
+appstore 1475387142 Tailscale (1.98.8)
