@@ -379,7 +379,6 @@ cask brave-browser@beta
 cask caffeine
 cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
-cask deepl
 cask deskreen
 cask devtoys
 cask discord
