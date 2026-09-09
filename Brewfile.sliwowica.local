@@ -5,6 +5,7 @@ tap homebrew/core
 
 tap homebrew/cask
 cask claude-code
+cask thunderbird@esr
 
 tap arto-app/tap
 
