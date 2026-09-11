@@ -475,5 +475,9 @@ tap xwmx/taps
 # App Store applications
 appstore 1037126344 Apple Configurator (2.20)
 
+# VSCode extensions
+vscode anthropic.claude-code
+
+
 # Main file
 main ./Brewfile.$HOSTNAME
