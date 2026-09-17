@@ -45,11 +45,9 @@ brew double-conversion
 brew dovecot
 brew eigen
 brew enchant
-brew epstool
 brew fd
 brew ffmpeg
 brew fftw
-brew fig2dev
 brew flac
 brew fltk
 brew fmt
@@ -70,7 +68,6 @@ brew gist
 brew git
 brew git-delta
 brew git-lfs
-brew gl2ps
 brew glib
 brew glow
 brew glpk
@@ -189,7 +186,6 @@ brew lmdb
 brew lsd
 brew lsusb
 brew lua
-brew lua@5.4
 brew lz4
 brew lzo
 brew m4
@@ -230,7 +226,6 @@ brew node@24
 brew notmuch
 brew npth
 brew nspr
-brew octave
 brew oniguruma
 brew open-mpi
 brew openblas
@@ -275,7 +270,6 @@ brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt3d
-brew qt5compat
 brew qtbase
 brew qtcanvaspainter
 brew qtcharts
