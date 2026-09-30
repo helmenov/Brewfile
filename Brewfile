@@ -375,7 +375,6 @@ cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
 cask deskreen
 cask devtoys
-cask discord
 cask dropbox
 cask element
 cask flutter
@@ -423,9 +422,6 @@ cask slack
 cask sonobus
 cask supercollider
 cask the-unarchiver
-cask thonny
-cask tor-browser@alpha
-cask unity-hub
 cask utm
 cask veracrypt-fuse-t
 cask visual-studio-code
