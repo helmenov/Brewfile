@@ -235,6 +235,7 @@ brew openjpeg
 brew openjph
 brew openldap
 brew openssl@3
+brew openssl@4
 brew opus
 brew opusfile
 brew p11-kit
