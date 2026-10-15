@@ -265,6 +265,7 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
+brew python@3.15
 brew qhull
 brew qpdf
 brew qrencode
