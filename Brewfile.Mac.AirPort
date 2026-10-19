@@ -1,0 +1,38 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap homebrew/cask
+cask claude-code
+cask pdfcraft
+cask thunderbird@esr
+
+tap arto-app/tap
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+
+tap nvie/tap
+
+tap open-tap/casks
+cask betterbird
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkpac
+
+tap tecolicom/tap
+
+tap tlk/imagemagick-x11
+
+tap xwmx/taps
+
+# App Store applications
+appstore 539883307 LINE (26.3.0)
+appstore 1475387142 Tailscale (1.98.8)
