@@ -370,7 +370,6 @@ tap homebrew/cask
 cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
-cask blackhole-2ch
 cask brave-browser@beta
 cask caffeine
 cask chrome-remote-desktop-host
