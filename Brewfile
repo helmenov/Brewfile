@@ -89,6 +89,7 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c@78
+brew icu4c@79
 brew imagemagick
 brew imath
 brew isl
