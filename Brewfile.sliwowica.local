@@ -2,6 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew mlx-c
+brew ollama
 
 tap homebrew/cask
 cask claude-code
