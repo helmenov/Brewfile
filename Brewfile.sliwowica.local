@@ -7,6 +7,7 @@ brew ollama
 
 tap homebrew/cask
 cask claude-code
+cask hoptodesk
 cask pd
 cask pdfcraft
 cask thunderbird@esr
