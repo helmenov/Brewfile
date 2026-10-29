@@ -189,7 +189,6 @@ brew lmdb
 brew lsd
 brew lsusb
 brew lua
-brew lua@5.4
 brew lz4
 brew lzo
 brew m4
@@ -198,7 +197,6 @@ brew mad
 brew mariadb-connector-c
 brew mas
 brew mbedtls
-brew mbedtls@3
 brew md4c
 brew mecab
 brew mecab-ipadic
@@ -340,7 +338,6 @@ brew tokyo-cabinet
 brew tree
 brew unbound
 brew urlview
-brew usage
 brew utf8proc
 brew uv
 brew uvwasi
@@ -430,7 +427,6 @@ cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
-cask tor-browser@alpha
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t

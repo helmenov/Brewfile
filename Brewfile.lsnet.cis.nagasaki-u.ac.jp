@@ -1,0 +1,44 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew assimp@5
+brew icu4c@77
+brew mlx-c
+brew ollama
+brew openssl@4
+brew pcre
+brew sl
+
+tap homebrew/cask
+cask deepl
+cask hoptodesk
+cask proton-drive
+cask thunderbird
+cask tor-browser
+
+tap arto-app/tap
+
+tap b4b4r07/tap
+
+tap browsh-org/browsh
+
+tap helmenov/tap
+
+tap nvie/tap
+
+tap pirj/noclamshell
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkpac
+
+tap tecolicom/tap
+
+tap tlk/imagemagick-x11
+
+tap xwmx/taps
+
+# App Store applications
+appstore 539883307 LINE (26.3.0)
+appstore 1475387142 Tailscale (1.98.5)
