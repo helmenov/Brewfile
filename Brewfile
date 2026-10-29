@@ -45,11 +45,9 @@ brew double-conversion
 brew dovecot
 brew eigen
 brew enchant
-brew epstool
 brew fd
 brew ffmpeg
 brew fftw
-brew fig2dev
 brew flac
 brew fltk
 brew fmt
@@ -70,7 +68,6 @@ brew gist
 brew git
 brew git-delta
 brew git-lfs
-brew gl2ps
 brew glib
 brew glow
 brew glpk
@@ -92,6 +89,7 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c@78
+brew icu4c@79
 brew imagemagick
 brew imath
 brew isl
@@ -228,7 +226,6 @@ brew node@24
 brew notmuch
 brew npth
 brew nspr
-brew octave
 brew oniguruma
 brew open-mpi
 brew openblas
@@ -238,6 +235,7 @@ brew openjpeg
 brew openjph
 brew openldap
 brew openssl@3
+brew openssl@4
 brew opus
 brew opusfile
 brew p11-kit
@@ -267,13 +265,13 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
+brew python@3.15
 brew qhull
 brew qpdf
 brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt3d
-brew qt5compat
 brew qtbase
 brew qtcanvaspainter
 brew qtcharts
@@ -371,14 +369,12 @@ tap homebrew/cask
 cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
-cask blackhole-2ch
 cask brave-browser@beta
 cask caffeine
 cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
 cask deskreen
 cask devtoys
-cask discord
 cask dropbox
 cask element
 cask flutter
@@ -427,6 +423,7 @@ cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
+cask tor-browser@alpha
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t

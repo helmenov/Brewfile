@@ -2,9 +2,14 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew mlx-c
+brew ollama
 
 tap homebrew/cask
 cask claude-code
+cask hoptodesk
+cask pd
+cask pdfcraft
 cask thunderbird@esr
 
 tap arto-app/tap
@@ -16,6 +21,9 @@ tap browsh-org/browsh
 tap helmenov/tap
 
 tap nvie/tap
+
+tap open-tap/casks
+cask betterbird
 
 tap pirj/noclamshell
 
