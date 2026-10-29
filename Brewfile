@@ -423,7 +423,6 @@ cask sonobus
 cask supercollider
 cask the-unarchiver
 cask thonny
-cask tor-browser@alpha
 cask unity-hub
 cask utm
 cask veracrypt-fuse-t

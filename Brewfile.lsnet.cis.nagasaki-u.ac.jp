@@ -3,19 +3,24 @@
 
 tap homebrew/core
 brew assimp@5
+brew epstool
+brew fig2dev
+brew gl2ps
 brew icu4c@77
 brew mlx-c
+brew octave
 brew ollama
-brew openssl@4
 brew pcre
+brew qt5compat
 brew sl
 
 tap homebrew/cask
+cask blackhole-2ch
 cask deepl
+cask discord
 cask hoptodesk
 cask proton-drive
 cask thunderbird
-cask tor-browser
 
 tap arto-app/tap
 
