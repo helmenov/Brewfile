@@ -2,10 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew mbedtls@3
 brew mlx-c
 brew ollama
-brew usage
 
 tap homebrew/cask
 cask claude-code
