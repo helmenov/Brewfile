@@ -422,8 +422,6 @@ cask slack
 cask sonobus
 cask supercollider
 cask the-unarchiver
-cask thonny
-cask unity-hub
 cask utm
 cask veracrypt-fuse-t
 cask visual-studio-code
