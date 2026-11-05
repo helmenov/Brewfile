@@ -350,7 +350,6 @@ brew xcodes
 brew xdg-ninja
 brew xerces-c
 brew xorgproto
-brew xpdf
 brew xtrans
 brew xvid
 brew xz
