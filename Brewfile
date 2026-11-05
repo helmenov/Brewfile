@@ -370,7 +370,6 @@ cask android-platform-tools
 cask appcleaner
 cask brave-browser@beta
 cask caffeine
-cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
 cask deskreen
 cask devtoys
