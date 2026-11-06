@@ -45,11 +45,9 @@ brew double-conversion
 brew dovecot
 brew eigen
 brew enchant
-brew epstool
 brew fd
 brew ffmpeg
 brew fftw
-brew fig2dev
 brew flac
 brew fltk
 brew fmt
@@ -70,7 +68,6 @@ brew gist
 brew git
 brew git-delta
 brew git-lfs
-brew gl2ps
 brew glib
 brew glow
 brew glpk
@@ -92,6 +89,7 @@ brew highway
 brew hunspell
 brew hwloc
 brew icu4c@78
+brew icu4c@79
 brew imagemagick
 brew imath
 brew isl
@@ -189,7 +187,6 @@ brew lmdb
 brew lsd
 brew lsusb
 brew lua
-brew lua@5.4
 brew lz4
 brew lzo
 brew m4
@@ -198,7 +195,6 @@ brew mad
 brew mariadb-connector-c
 brew mas
 brew mbedtls
-brew mbedtls@3
 brew md4c
 brew mecab
 brew mecab-ipadic
@@ -206,7 +202,6 @@ brew merve
 brew metis
 brew mise
 brew mlx
-brew mlx-c
 brew mpdecimal
 brew mpfr
 brew mpg123
@@ -231,8 +226,6 @@ brew node@24
 brew notmuch
 brew npth
 brew nspr
-brew octave
-brew ollama
 brew oniguruma
 brew open-mpi
 brew openblas
@@ -242,6 +235,7 @@ brew openjpeg
 brew openjph
 brew openldap
 brew openssl@3
+brew openssl@4
 brew opus
 brew opusfile
 brew p11-kit
@@ -271,13 +265,13 @@ brew pycparser
 brew pyqt
 brew python@3.12
 brew python@3.14
+brew python@3.15
 brew qhull
 brew qpdf
 brew qrencode
 brew qrupdate
 brew qscintilla2
 brew qt3d
-brew qt5compat
 brew qtbase
 brew qtcanvaspainter
 brew qtcharts
@@ -342,7 +336,6 @@ brew tokyo-cabinet
 brew tree
 brew unbound
 brew urlview
-brew usage
 brew utf8proc
 brew uv
 brew uvwasi
@@ -357,7 +350,6 @@ brew xcodes
 brew xdg-ninja
 brew xerces-c
 brew xorgproto
-brew xpdf
 brew xtrans
 brew xvid
 brew xz
@@ -376,15 +368,11 @@ tap homebrew/cask
 cask 4k-video-downloader+
 cask android-platform-tools
 cask appcleaner
-cask blackhole-2ch
 cask brave-browser@beta
 cask caffeine
-cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
-cask deepl
 cask deskreen
 cask devtoys
-cask discord
 cask dropbox
 cask element
 cask flutter
@@ -432,9 +420,6 @@ cask slack
 cask sonobus
 cask supercollider
 cask the-unarchiver
-cask thonny
-cask tor-browser@alpha
-cask unity-hub
 cask utm
 cask veracrypt-fuse-t
 cask visual-studio-code
