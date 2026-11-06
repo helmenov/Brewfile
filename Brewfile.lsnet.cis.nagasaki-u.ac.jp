@@ -13,16 +13,13 @@ brew ollama
 brew pcre
 brew qt5compat
 brew sl
-brew xpdf
 
 tap homebrew/cask
 cask blackhole-2ch
-cask chrome-remote-desktop-host
 cask deepl
 cask discord
 cask hoptodesk
 cask proton-drive
-cask thonny
 cask thunderbird
 
 tap arto-app/tap
