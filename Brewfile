@@ -350,7 +350,6 @@ brew xcodes
 brew xdg-ninja
 brew xerces-c
 brew xorgproto
-brew xpdf
 brew xtrans
 brew xvid
 brew xz
@@ -371,7 +370,6 @@ cask android-platform-tools
 cask appcleaner
 cask brave-browser@beta
 cask caffeine
-cask chrome-remote-desktop-host
 cask db-browser-for-sqlite
 cask deskreen
 cask devtoys

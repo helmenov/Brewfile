@@ -20,7 +20,9 @@ cask deepl
 cask discord
 cask hoptodesk
 cask proton-drive
+cask thonny
 cask thunderbird
+cask unity-hub
 
 tap arto-app/tap
 
