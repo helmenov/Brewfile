@@ -337,7 +337,6 @@ brew tree
 brew unbound
 brew urlview
 brew utf8proc
-brew uv
 brew uvwasi
 brew w3m
 brew webp
