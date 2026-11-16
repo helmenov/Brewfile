@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew abseil
-brew ada-url
 brew ampl-asl
 brew aom
 brew apr
@@ -20,7 +19,6 @@ brew bat
 brew bdw-gc
 brew berkeley-db@5
 brew bison
-brew bitwarden-cli
 brew blahtexml
 brew bogofilter
 brew brotli
@@ -50,7 +48,6 @@ brew ffmpeg
 brew fftw
 brew flac
 brew fltk
-brew fmt
 brew fontconfig
 brew freetype
 brew fribidi
@@ -122,7 +119,6 @@ brew libde265
 brew libdeflate
 brew libev
 brew libevent
-brew libffi
 brew libfido2
 brew libgcrypt
 brew libgda
@@ -198,7 +194,6 @@ brew mbedtls
 brew md4c
 brew mecab
 brew mecab-ipadic
-brew merve
 brew metis
 brew mise
 brew mlx
@@ -214,14 +209,12 @@ brew nanopb
 brew nasm
 brew navi
 brew nb
-brew nbytes
 brew ncurses
 brew neomutt
 brew netpbm
 brew nettle
 brew nghttp2
 brew nmap
-brew node
 brew node@24
 brew notmuch
 brew npth
@@ -313,7 +306,6 @@ brew sdl2
 brew sdl3
 brew sfsexp
 brew simdjson
-brew simdutf
 brew snappy
 brew sox
 brew speex

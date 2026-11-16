@@ -2,9 +2,18 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew lapack
+brew mlx-c
+brew nss
+brew ollama
+brew poppler
+brew sentencepiece
 
 tap homebrew/cask
+cask blackhole-2ch
 cask claude-code
+cask hoptodesk
+cask jupyterlab-app
 cask pd
 cask pdfcraft
 cask thunderbird@esr
