@@ -8,6 +8,8 @@ brew nss
 brew ollama
 brew poppler
 brew sentencepiece
+brew unar
+brew unzip
 
 tap homebrew/cask
 cask blackhole-2ch
@@ -16,7 +18,6 @@ cask hoptodesk
 cask jupyterlab-app
 cask pd
 cask pdfcraft
-cask thunderbird@esr
 
 tap arto-app/tap
 
